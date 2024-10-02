@@ -1,0 +1,63 @@
+body {
+	font-family: "Inconsolata", monospace;
+	font-size: 18px;
+	background-color: rgb(23, 23, 23);
+	color: #b3b3b3
+	
+	/*text-align: left;*/
+}
+
+.row {
+	display: flex;
+}
+
+.column {
+	flex: auto;
+}
+
+table.results th {
+	/*background-color: #ececec;*/
+}
+
+table.results td, th {
+    border: 1px solid #3c3c3c;
+	padding: 8px;
+}
+
+table.results {
+	background: rgb(29, 29, 29);
+	margin: 0px auto;
+	table-layout: auto;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.gear-icon {
+	width: 18px;
+	height: 18px;
+	float: left;
+	margin-right: 6px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0.4em;
+}
+
+.colour-common {
+	color: #1eff00
+}
+
+.colour-rare {
+	color: #0081ff;
+}
+
+.colour-epic {
+	color: #c600ff;
+}
+
+h4 {
+	margin: 0;
+	padding: 0;
+}
