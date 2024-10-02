@@ -7,16 +7,20 @@ body {
 	/*text-align: left;*/
 }
 
+.wrapper {
+	margin: 15px;
+}
+
 .row {
 	display: flex;
+	flex-direction: row;
 }
 
 .column {
 	flex: auto;
-}
-
-table.results th {
-	/*background-color: #ececec;*/
+	flex-direction: column;
+	flex-basis: 100%;
+	flex: 1;
 }
 
 table.results td, th {
