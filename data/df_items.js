@@ -5,14 +5,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 181833,
-				"name": "Shimmermaw",
-				"zone": 2118,
-				"coords": 71233781
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			181833
 		],
 		"class": 15
 	},
@@ -22,14 +19,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 181833,
-				"name": "Shimmermaw",
-				"zone": 2118,
-				"coords": 71233781
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			181833
 		],
 		"class": 15
 	},
@@ -39,14 +33,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 181833,
-				"name": "Shimmermaw",
-				"zone": 2118,
-				"coords": 71233781
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			181833
 		],
 		"class": 15
 	},
@@ -56,14 +47,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 181833,
-				"name": "Shimmermaw",
-				"zone": 2118,
-				"coords": 71233781
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			181833
 		],
 		"class": 15
 	},
@@ -73,14 +61,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 181833,
-				"name": "Shimmermaw",
-				"zone": 2118,
-				"coords": 71233781
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			181833
 		],
 		"class": 15
 	},
@@ -90,14 +75,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 191746,
-				"name": "Ketess the Pillager",
-				"zone": 2118,
-				"coords": 56496548
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			191746
 		],
 		"class": 0
 	},
@@ -110,14 +92,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 191729,
-				"name": "Deathrip",
-				"zone": 2118,
-				"coords": 32884100
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			191729
 		],
 		"class": 4
 	},
@@ -130,14 +109,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 191713,
-				"name": "Scytherin",
-				"zone": 2118,
-				"coords": 28473653
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			191713
 		],
 		"class": 4
 	},
@@ -147,14 +123,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 181427,
-				"name": "Stormspine",
-				"zone": 2118,
-				"coords": 56004437
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			181427
 		],
 		"class": 0
 	},
@@ -164,14 +137,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 182280,
-				"name": "Tazenrath",
-				"zone": 2118,
-				"coords": 79567443
-			}
+		"zone": [
+			2118
+		],
+		"npc": [
+			182280
 		],
 		"class": 0
 	},
@@ -181,56 +151,20 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			},
-			{
-				"npc": 193223,
-				"name": "Vakril, the Strongest Tuskarr",
-				"zone": 2024,
-				"coords": 17394121
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			196056,
+			187945,
+			193175,
+			193710,
+			193691,
+			193238,
+			186962,
+			193223
 		],
 		"class": 15
 	},
@@ -240,62 +174,21 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			},
-			{
-				"npc": 193706,
-				"name": "Snufflegust",
-				"zone": 2024,
-				"coords": 58763255
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			},
-			{
-				"npc": 193223,
-				"name": "Vakril, the Strongest Tuskarr",
-				"zone": 2024,
-				"coords": 17394121
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			196056,
+			187945,
+			193175,
+			193710,
+			193691,
+			193238,
+			193706,
+			186962,
+			193223
 		],
 		"class": 15
 	},
@@ -308,50 +201,19 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			196056,
+			187945,
+			193175,
+			193710,
+			193691,
+			193238,
+			186962
 		],
 		"class": 4
 	},
@@ -365,44 +227,18 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			196056,
+			187945,
+			193710,
+			193691,
+			193238,
+			186962
 		],
 		"class": 2
 	},
@@ -416,56 +252,20 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			},
-			{
-				"npc": 193706,
-				"name": "Snufflegust",
-				"zone": 2024,
-				"coords": 58763255
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			196056,
+			187945,
+			193175,
+			193710,
+			193691,
+			193238,
+			193706,
+			186962
 		],
 		"class": 2
 	},
@@ -476,80 +276,25 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			},
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			},
-			{
-				"npc": 193241,
-				"name": "Lord Epochbrgl",
-				"zone": 2025,
-				"coords": 62288178
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			196056,
+			193181,
+			187945,
+			193175,
+			193152,
+			193118,
+			193710,
+			193691,
+			194392,
+			193238,
+			186962,
+			193241
 		],
 		"class": 4
 	},
@@ -562,344 +307,69 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 196056,
-				"name": "Gushgut the Beaksinker",
-				"zone": 2022,
-				"coords": 52535855
-			},
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 187886,
-				"name": "Turboris",
-				"zone": 2022,
-				"coords": 33635572
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187945,
-				"name": "Anhydros the Tidetaker",
-				"zone": 2022,
-				"coords": 58774034
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			},
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193173,
-				"name": "Mikrin of the Raging Winds",
-				"zone": 2023,
-				"coords": 62987932
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			},
-			{
-				"npc": 193708,
-				"name": "Skald the Impaler",
-				"zone": 2024,
-				"coords": 33806440
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193706,
-				"name": "Snufflegust",
-				"zone": 2024,
-				"coords": 58763255
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193663,
-				"name": "Craggravated Elemental",
-				"zone": 2025,
-				"coords": 45798526
-			},
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			196056,
+			193120,
+			193134,
+			193181,
+			189822,
+			187886,
+			192738,
+			190991,
+			187945,
+			190986,
+			186859,
+			193266,
+			193175,
+			193152,
+			186827,
+			193148,
+			184853,
+			187209,
+			195915,
+			189289,
+			187111,
+			193165,
+			193170,
+			193209,
+			193173,
+			193140,
+			197009,
+			193123,
+			193669,
+			193710,
+			192983,
+			191354,
+			192949,
+			193163,
+			193632,
+			193269,
+			193708,
+			193259,
+			197353,
+			193691,
+			193201,
+			194392,
+			193251,
+			193706,
+			193149,
+			193288,
+			186962,
+			193143,
+			193666,
+			193130,
+			191305,
+			193663,
+			193246,
+			193176,
+			193161,
+			193273
 		],
 		"class": 4
 	},
@@ -912,14 +382,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190985,
-				"name": "Death's Shadow",
-				"zone": 2022,
-				"coords": 31825440
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			190985
 		],
 		"class": 4
 	},
@@ -929,56 +396,20 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			192738,
+			190986,
+			186859,
+			186827,
+			195915,
+			193288,
+			193668
 		],
 		"class": 15
 	},
@@ -992,68 +423,22 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193134,
+			192738,
+			190986,
+			186859,
+			186827,
+			195915,
+			193288,
+			193126,
+			193234
 		],
 		"class": 2
 	},
@@ -1066,74 +451,23 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193134,
+			192738,
+			190986,
+			186859,
+			186827,
+			195915,
+			193288,
+			193126,
+			193234,
+			193668
 		],
 		"class": 4
 	},
@@ -1148,224 +482,49 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			},
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193181,
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193170,
+			193212,
+			193209,
+			197009,
+			193123,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193269,
+			193259,
+			197353,
+			193201,
+			194392,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			193246,
+			193220,
+			183984,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 4
 	},
@@ -1381,14 +540,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193120
 		],
 		"class": 4
 	},
@@ -1402,68 +558,22 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193134,
+			192738,
+			190986,
+			186859,
+			186827,
+			195915,
+			193288,
+			193234,
+			193668
 		],
 		"class": 4
 	},
@@ -1477,68 +587,22 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 197557,
-				"name": "Bisquius",
-				"zone": 2024,
-				"coords": 13604860
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193134,
+			192738,
+			190986,
+			193152,
+			186827,
+			195915,
+			197557,
+			193288,
+			193668
 		],
 		"class": 2
 	},
@@ -1552,74 +616,23 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193134,
+			192738,
+			190986,
+			186859,
+			193152,
+			186827,
+			195915,
+			193288,
+			193126,
+			193668
 		],
 		"class": 2
 	},
@@ -1632,188 +645,43 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			},
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			193181,
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193209,
+			193140,
+			193123,
+			193153,
+			192949,
+			193163,
+			193632,
+			193259,
+			197353,
+			193201,
+			194392,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			193220,
+			183984,
+			193161,
+			193273,
+			193229
 		],
 		"class": 4
 	},
@@ -1824,212 +692,47 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193120,
-				"name": "Smogswog the Firebreather",
-				"zone": 2022,
-				"coords": 69016482
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 192045,
-				"name": "Windseeker Avash",
-				"zone": 2023,
-				"coords": 58596822
-			},
-			{
-				"npc": 192020,
-				"name": "Eaglemaster Niraak",
-				"zone": 2023,
-				"coords": 49496663
-			},
-			{
-				"npc": 193227,
-				"name": "Ronsak the Decimator",
-				"zone": 2023,
-				"coords": 43145573
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 189652,
-				"name": "Deadwaker Ghendish",
-				"zone": 2023,
-				"coords": 29426783
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193120,
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193170,
+			193209,
+			192045,
+			192020,
+			193227,
+			193140,
+			197009,
+			193123,
+			189652,
+			192983,
+			192949,
+			193163,
+			193632,
+			193259,
+			197353,
+			193201,
+			194392,
+			193251,
+			193143,
+			193666,
+			193130,
+			191305,
+			183984,
+			193161,
+			193240,
+			193273
 		],
 		"class": 4
 	},
@@ -2039,68 +742,22 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			},
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 195915,
-				"name": "Firava the Rekindler",
-				"zone": 2022,
-				"coords": 54512137
-			},
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			},
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193134,
+			192738,
+			190986,
+			186859,
+			186827,
+			195915,
+			193288,
+			193126,
+			193234,
+			193668
 		],
 		"class": 15
 	},
@@ -2114,14 +771,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193134,
-				"name": "Enkine the Voracious",
-				"zone": 2022,
-				"coords": 21606478
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193134
 		],
 		"class": 2
 	},
@@ -2131,50 +785,18 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193198,
-				"name": "Captain Lancer",
-				"zone": 2022,
-				"coords": 27017601
-			},
-			{
-				"npc": 186783,
-				"name": "Cauldronbearer Blakor",
-				"zone": 2022,
-				"coords": 30915494
-			},
-			{
-				"npc": 187598,
-				"name": "Rohzor Forgesmash",
-				"zone": 2022,
-				"coords": 25286032
-			},
-			{
-				"npc": 193232,
-				"name": "Rasnar the War Ender",
-				"zone": 2022,
-				"coords": 30226045
-			},
-			{
-				"npc": 191611,
-				"name": "Dragonhunter Igordan",
-				"zone": 2022,
-				"coords": 64173289
-			},
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			},
-			{
-				"npc": 193157,
-				"name": "Dragonhunter Gorund",
-				"zone": 2024,
-				"coords": 27804580
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193198,
+			186783,
+			187598,
+			193232,
+			191611,
+			186200,
+			193157
 		],
 		"class": 15
 	},
@@ -2184,50 +806,18 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193198,
-				"name": "Captain Lancer",
-				"zone": 2022,
-				"coords": 27017601
-			},
-			{
-				"npc": 186783,
-				"name": "Cauldronbearer Blakor",
-				"zone": 2022,
-				"coords": 30915494
-			},
-			{
-				"npc": 187598,
-				"name": "Rohzor Forgesmash",
-				"zone": 2022,
-				"coords": 25286032
-			},
-			{
-				"npc": 193232,
-				"name": "Rasnar the War Ender",
-				"zone": 2022,
-				"coords": 30226045
-			},
-			{
-				"npc": 191611,
-				"name": "Dragonhunter Igordan",
-				"zone": 2022,
-				"coords": 64173289
-			},
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			},
-			{
-				"npc": 193157,
-				"name": "Dragonhunter Gorund",
-				"zone": 2024,
-				"coords": 27804580
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193198,
+			186783,
+			187598,
+			193232,
+			191611,
+			186200,
+			193157
 		],
 		"class": 15
 	},
@@ -2241,50 +831,18 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193198,
-				"name": "Captain Lancer",
-				"zone": 2022,
-				"coords": 27017601
-			},
-			{
-				"npc": 186783,
-				"name": "Cauldronbearer Blakor",
-				"zone": 2022,
-				"coords": 30915494
-			},
-			{
-				"npc": 187598,
-				"name": "Rohzor Forgesmash",
-				"zone": 2022,
-				"coords": 25286032
-			},
-			{
-				"npc": 193232,
-				"name": "Rasnar the War Ender",
-				"zone": 2022,
-				"coords": 30226045
-			},
-			{
-				"npc": 191611,
-				"name": "Dragonhunter Igordan",
-				"zone": 2022,
-				"coords": 64173289
-			},
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			},
-			{
-				"npc": 193157,
-				"name": "Dragonhunter Gorund",
-				"zone": 2024,
-				"coords": 27804580
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193198,
+			186783,
+			187598,
+			193232,
+			191611,
+			186200,
+			193157
 		],
 		"class": 2
 	},
@@ -2298,14 +856,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193198,
-				"name": "Captain Lancer",
-				"zone": 2022,
-				"coords": 27017601
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193198
 		],
 		"class": 2
 	},
@@ -2315,14 +870,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193198,
-				"name": "Captain Lancer",
-				"zone": 2022,
-				"coords": 27017601
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193198
 		],
 		"class": 0
 	},
@@ -2338,50 +890,18 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193198,
-				"name": "Captain Lancer",
-				"zone": 2022,
-				"coords": 27017601
-			},
-			{
-				"npc": 186783,
-				"name": "Cauldronbearer Blakor",
-				"zone": 2022,
-				"coords": 30915494
-			},
-			{
-				"npc": 187598,
-				"name": "Rohzor Forgesmash",
-				"zone": 2022,
-				"coords": 25286032
-			},
-			{
-				"npc": 193232,
-				"name": "Rasnar the War Ender",
-				"zone": 2022,
-				"coords": 30226045
-			},
-			{
-				"npc": 191611,
-				"name": "Dragonhunter Igordan",
-				"zone": 2022,
-				"coords": 64173289
-			},
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			},
-			{
-				"npc": 193157,
-				"name": "Dragonhunter Gorund",
-				"zone": 2024,
-				"coords": 27804580
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193198,
+			186783,
+			187598,
+			193232,
+			191611,
+			186200,
+			193157
 		],
 		"class": 4
 	},
@@ -2391,176 +911,41 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193181,
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193209,
+			193123,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193259,
+			197353,
+			193201,
+			194392,
+			193143,
+			193666,
+			193130,
+			191305,
+			193234,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 15
 	},
@@ -2570,44 +955,18 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193226,
-				"name": "Gorjo the Crab Shackler",
-				"zone": 2022,
-				"coords": 78405000
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193241,
-				"name": "Lord Epochbrgl",
-				"zone": 2025,
-				"coords": 62288178
-			}
+		"zone": [
+			2022,
+			2024,
+			2025
+		],
+		"npc": [
+			193181,
+			193152,
+			193118,
+			193226,
+			194392,
+			193241
 		],
 		"class": 15
 	},
@@ -2617,194 +976,44 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193133,
-				"name": "Sunscale Behemoth",
-				"zone": 2023,
-				"coords": 63044855
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			},
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193181,
+			189822,
+			192738,
+			193266,
+			193148,
+			184853,
+			187111,
+			193170,
+			193209,
+			193133,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193259,
+			197353,
+			194392,
+			193251,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			193246,
+			193220,
+			183984,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 15
 	},
@@ -2814,32 +1023,15 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193226,
-				"name": "Gorjo the Crab Shackler",
-				"zone": 2022,
-				"coords": 78405000
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193181,
+			193118,
+			193226,
+			194392
 		],
 		"class": 15
 	},
@@ -2853,14 +1045,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193181
 		],
 		"class": 2
 	},
@@ -2876,206 +1065,46 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			},
-			{
-				"npc": 193708,
-				"name": "Skald the Impaler",
-				"zone": 2024,
-				"coords": 33806440
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193181,
+			189822,
+			192738,
+			193266,
+			193148,
+			184853,
+			187111,
+			193212,
+			193209,
+			197009,
+			193123,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193269,
+			193708,
+			193259,
+			197353,
+			193201,
+			194392,
+			193251,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			193246,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 4
 	},
@@ -3091,164 +1120,39 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193181,
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193212,
+			193209,
+			197009,
+			192983,
+			193153,
+			192949,
+			193632,
+			193259,
+			197353,
+			193201,
+			194392,
+			193666,
+			193130,
+			191305,
+			193246,
+			193161,
+			193240,
+			193273
 		],
 		"class": 4
 	},
@@ -3261,38 +1165,16 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193181,
-				"name": "Skewersnout",
-				"zone": 2022,
-				"coords": 39654122
-			},
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193226,
-				"name": "Gorjo the Crab Shackler",
-				"zone": 2022,
-				"coords": 78405000
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193181,
+			193152,
+			193118,
+			193226,
+			194392
 		],
 		"class": 4
 	},
@@ -3302,20 +1184,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193271,
-				"name": "Shadeslash Trakken",
-				"zone": 2022,
-				"coords": 46987332
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			193271,
+			193165
 		],
 		"class": 15
 	},
@@ -3325,20 +1200,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193271,
-				"name": "Shadeslash Trakken",
-				"zone": 2022,
-				"coords": 46987332
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			193271,
+			193165
 		],
 		"class": 15
 	},
@@ -3352,14 +1220,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193271,
-				"name": "Shadeslash Trakken",
-				"zone": 2022,
-				"coords": 46987332
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193271
 		],
 		"class": 2
 	},
@@ -3373,20 +1238,13 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193271,
-				"name": "Shadeslash Trakken",
-				"zone": 2022,
-				"coords": 46987332
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			193271,
+			193165
 		],
 		"class": 2
 	},
@@ -3399,20 +1257,13 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193271,
-				"name": "Shadeslash Trakken",
-				"zone": 2022,
-				"coords": 46987332
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			193271,
+			193165
 		],
 		"class": 4
 	},
@@ -3422,38 +1273,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193154,
-				"name": "Forgotten Gryphon",
-				"zone": 2022,
-				"coords": 33417637
-			},
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			193154,
+			193256,
+			187559,
+			193691,
+			193178
 		],
 		"class": 15
 	},
@@ -3463,38 +1293,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193154,
-				"name": "Forgotten Gryphon",
-				"zone": 2022,
-				"coords": 33417637
-			},
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			193154,
+			193256,
+			187559,
+			193691,
+			193178
 		],
 		"class": 15
 	},
@@ -3508,32 +1317,16 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193154,
-				"name": "Forgotten Gryphon",
-				"zone": 2022,
-				"coords": 33417637
-			},
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			193154,
+			187559,
+			193691,
+			193178
 		],
 		"class": 4
 	},
@@ -3544,14 +1337,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193154,
-				"name": "Forgotten Gryphon",
-				"zone": 2022,
-				"coords": 33417637
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193154
 		],
 		"class": 4
 	},
@@ -3565,194 +1355,44 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193212,
+			193209,
+			193140,
+			197009,
+			193123,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193259,
+			197353,
+			193201,
+			194392,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			183984,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 2
 	},
@@ -3768,194 +1408,44 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			},
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			193170,
+			193212,
+			197009,
+			193153,
+			192949,
+			193163,
+			193632,
+			193269,
+			193259,
+			197353,
+			193201,
+			194392,
+			193251,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			193234,
+			193220,
+			183984,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 4
 	},
@@ -3969,206 +1459,46 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			},
-			{
-				"npc": 193708,
-				"name": "Skald the Impaler",
-				"zone": 2024,
-				"coords": 33806440
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193212,
+			193209,
+			193140,
+			197009,
+			193123,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193269,
+			193708,
+			193259,
+			197353,
+			193201,
+			194392,
+			193251,
+			193125,
+			193666,
+			193130,
+			191305,
+			193246,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 2
 	},
@@ -4178,182 +1508,42 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 193133,
-				"name": "Sunscale Behemoth",
-				"zone": 2023,
-				"coords": 63044855
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			189822,
+			192738,
+			193266,
+			193148,
+			184853,
+			187111,
+			193170,
+			193209,
+			193140,
+			197009,
+			193123,
+			193133,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193269,
+			193259,
+			197353,
+			193201,
+			193251,
+			193125,
+			193143,
+			193130,
+			193234,
+			193240,
+			193273,
+			193229
 		],
 		"class": 15
 	},
@@ -4369,194 +1559,44 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			},
-			{
-				"npc": 192738,
-				"name": "Brundin the Dragonbane",
-				"zone": 2022,
-				"coords": 34607110
-			},
-			{
-				"npc": 190986,
-				"name": "Battlehorn Pyrhus",
-				"zone": 2022,
-				"coords": 28635882
-			},
-			{
-				"npc": 193266,
-				"name": "Lepidoralia the Resplendent",
-				"zone": 2022,
-				"coords": 33748639
-			},
-			{
-				"npc": 193148,
-				"name": "Thunderous Matriarch",
-				"zone": 2022,
-				"coords": 45413562
-			},
-			{
-				"npc": 184853,
-				"name": "Primal Scythid Queen",
-				"zone": 2022,
-				"coords": 81213783
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			},
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			},
-			{
-				"npc": 192983,
-				"name": "Web-Queen Ashkaz",
-				"zone": 2023,
-				"coords": 43205060
-			},
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			},
-			{
-				"npc": 192949,
-				"name": "Skaara",
-				"zone": 2023,
-				"coords": 44904923
-			},
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			},
-			{
-				"npc": 193632,
-				"name": "Wilrive",
-				"zone": 2024,
-				"coords": 59405520
-			},
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			},
-			{
-				"npc": 197353,
-				"name": "Blisterhide",
-				"zone": 2024,
-				"coords": 14483105
-			},
-			{
-				"npc": 193201,
-				"name": "Mucka the Raker",
-				"zone": 2024,
-				"coords": 57685441
-			},
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			},
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193666,
-				"name": "Rokmur",
-				"zone": 2025,
-				"coords": 50005180
-			},
-			{
-				"npc": 193130,
-				"name": "Pleasant Alpha",
-				"zone": 2025,
-				"coords": 38107820
-			},
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			},
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			},
-			{
-				"npc": 193161,
-				"name": "Woolfang",
-				"zone": 2025,
-				"coords": 47914980
-			},
-			{
-				"npc": 193240,
-				"name": "Riverwalker Tamopo",
-				"zone": 2025,
-				"coords": 39807000
-			},
-			{
-				"npc": 193273,
-				"name": "Liskron the Dazzling",
-				"zone": 2025,
-				"coords": 36737280
-			},
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			189822,
+			192738,
+			190986,
+			193266,
+			193148,
+			184853,
+			187111,
+			193170,
+			193209,
+			193140,
+			197009,
+			193123,
+			192983,
+			193153,
+			192949,
+			193163,
+			193632,
+			193259,
+			197353,
+			193201,
+			193251,
+			193125,
+			193143,
+			193666,
+			193130,
+			191305,
+			193234,
+			193161,
+			193240,
+			193273,
+			193229
 		],
 		"class": 4
 	},
@@ -4566,14 +1606,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189822,
-				"name": "Shas'ith",
-				"zone": 2022,
-				"coords": 23825742
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			189822
 		],
 		"class": 15
 	},
@@ -4583,62 +1620,22 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187886,
-				"name": "Turboris",
-				"zone": 2022,
-				"coords": 33635572
-			},
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187306,
-				"name": "Morchok",
-				"zone": 2022,
-				"coords": 32215221
-			},
-			{
-				"npc": 193132,
-				"name": "Amethyzar the Glittering",
-				"zone": 2022,
-				"coords": 62705455
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			},
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			},
-			{
-				"npc": 193663,
-				"name": "Craggravated Elemental",
-				"zone": 2025,
-				"coords": 45798526
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			187886,
+			190991,
+			187306,
+			193132,
+			187209,
+			189289,
+			193142,
+			193149,
+			193663
 		],
 		"class": 15
 	},
@@ -4648,44 +1645,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187886,
-				"name": "Turboris",
-				"zone": 2022,
-				"coords": 33635572
-			},
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187306,
-				"name": "Morchok",
-				"zone": 2022,
-				"coords": 32215221
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			},
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			187886,
+			190991,
+			187306,
+			187209,
+			189289,
+			193142
 		],
 		"class": 15
 	},
@@ -4701,62 +1671,22 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187886,
-				"name": "Turboris",
-				"zone": 2022,
-				"coords": 33635572
-			},
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187306,
-				"name": "Morchok",
-				"zone": 2022,
-				"coords": 32215221
-			},
-			{
-				"npc": 193132,
-				"name": "Amethyzar the Glittering",
-				"zone": 2022,
-				"coords": 62705455
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			},
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			},
-			{
-				"npc": 193663,
-				"name": "Craggravated Elemental",
-				"zone": 2025,
-				"coords": 45798526
-			}
+		"zone": [
+			2022,
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			187886,
+			190991,
+			187306,
+			193132,
+			187209,
+			189289,
+			193142,
+			193149,
+			193663
 		],
 		"class": 4
 	},
@@ -4770,56 +1700,20 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187886,
-				"name": "Turboris",
-				"zone": 2022,
-				"coords": 33635572
-			},
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187306,
-				"name": "Morchok",
-				"zone": 2022,
-				"coords": 32215221
-			},
-			{
-				"npc": 193132,
-				"name": "Amethyzar the Glittering",
-				"zone": 2022,
-				"coords": 62705455
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			},
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			},
-			{
-				"npc": 193663,
-				"name": "Craggravated Elemental",
-				"zone": 2025,
-				"coords": 45798526
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			187886,
+			190991,
+			187306,
+			193132,
+			187209,
+			189289,
+			193142,
+			193663
 		],
 		"class": 2
 	},
@@ -4835,44 +1729,17 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187886,
-				"name": "Turboris",
-				"zone": 2022,
-				"coords": 33635572
-			},
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187306,
-				"name": "Morchok",
-				"zone": 2022,
-				"coords": 32215221
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			},
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			187886,
+			190991,
+			187306,
+			187209,
+			189289,
+			193142
 		],
 		"class": 4
 	},
@@ -4882,14 +1749,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187598,
-				"name": "Rohzor Forgesmash",
-				"zone": 2022,
-				"coords": 25286032
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			187598
 		],
 		"class": 9
 	},
@@ -4899,14 +1763,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187598,
-				"name": "Rohzor Forgesmash",
-				"zone": 2022,
-				"coords": 25286032
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			187598
 		],
 		"class": 9
 	},
@@ -4916,62 +1777,21 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			},
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			},
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			190991,
+			187209,
+			193171,
+			193165,
+			193215,
+			193669,
+			191354,
+			193658,
+			193668
 		],
 		"class": 15
 	},
@@ -4981,56 +1801,20 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193173,
-				"name": "Mikrin of the Raging Winds",
-				"zone": 2023,
-				"coords": 62987932
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			},
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			190991,
+			187209,
+			193171,
+			193173,
+			193669,
+			191354,
+			193658,
+			193668
 		],
 		"class": 15
 	},
@@ -5040,68 +1824,22 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			},
-			{
-				"npc": 193173,
-				"name": "Mikrin of the Raging Winds",
-				"zone": 2023,
-				"coords": 62987932
-			},
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			},
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			},
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			190991,
+			187209,
+			193171,
+			193165,
+			193173,
+			193215,
+			193669,
+			191354,
+			193658,
+			193668
 		],
 		"class": 15
 	},
@@ -5117,26 +1855,14 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			190991,
+			187209,
+			193669
 		],
 		"class": 4
 	},
@@ -5152,32 +1878,15 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			190991,
+			187209,
+			193215,
+			193669
 		],
 		"class": 4
 	},
@@ -5191,26 +1900,15 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			190991,
+			193669,
+			193658
 		],
 		"class": 2
 	},
@@ -5226,32 +1924,15 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			},
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			190991,
+			193165,
+			193215,
+			193669
 		],
 		"class": 4
 	},
@@ -5268,32 +1949,15 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			},
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			190991,
+			193165,
+			193215,
+			193669
 		],
 		"class": 4
 	},
@@ -5307,32 +1971,15 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190991,
-				"name": "Char",
-				"zone": 2022,
-				"coords": 29245162
-			},
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			190991,
+			187209,
+			193215,
+			193669
 		],
 		"class": 4
 	},
@@ -5342,20 +1989,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193135,
-				"name": "Azra's Prized Peony",
-				"zone": 2022,
-				"coords": 54897110
-			},
-			{
-				"npc": 197354,
-				"name": "Gnarls",
-				"zone": 2024,
-				"coords": 14083747
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193135,
+			197354
 		],
 		"class": 15
 	},
@@ -5365,20 +2005,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193135,
-				"name": "Azra's Prized Peony",
-				"zone": 2022,
-				"coords": 54897110
-			},
-			{
-				"npc": 197354,
-				"name": "Gnarls",
-				"zone": 2024,
-				"coords": 14083747
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193135,
+			197354
 		],
 		"class": 15
 	},
@@ -5393,14 +2026,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193135,
-				"name": "Azra's Prized Peony",
-				"zone": 2022,
-				"coords": 54897110
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193135
 		],
 		"class": 4
 	},
@@ -5416,20 +2046,13 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193135,
-				"name": "Azra's Prized Peony",
-				"zone": 2022,
-				"coords": 54897110
-			},
-			{
-				"npc": 197354,
-				"name": "Gnarls",
-				"zone": 2024,
-				"coords": 14083747
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193135,
+			197354
 		],
 		"class": 4
 	},
@@ -5439,14 +2062,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192362,
-				"name": "Possessive Hornswog",
-				"zone": 2022,
-				"coords": 64456922
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			192362
 		],
 		"class": 15
 	},
@@ -5459,14 +2079,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187306,
-				"name": "Morchok",
-				"zone": 2022,
-				"coords": 32215221
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			187306
 		],
 		"class": 4
 	},
@@ -5482,14 +2099,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186859,
-				"name": "Worldcarver A'tir",
-				"zone": 2022,
-				"coords": 30025538
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			186859
 		],
 		"class": 4
 	},
@@ -5505,14 +2119,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193175,
-				"name": "Slurpo, the Incredible Snail",
-				"zone": 2022,
-				"coords": 34628978
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193175
 		],
 		"class": 4
 	},
@@ -5526,14 +2137,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193152,
-				"name": "Massive Magmashell",
-				"zone": 2022,
-				"coords": 21947690
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193152
 		],
 		"class": 2
 	},
@@ -5543,38 +2151,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193235,
-				"name": "Oshigol",
-				"zone": 2023,
-				"coords": 60812677
-			},
-			{
-				"npc": 190244,
-				"name": "Mahg the Trampler",
-				"zone": 2024,
-				"coords": 36323583
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			186827,
+			193118,
+			193235,
+			190244,
+			193149
 		],
 		"class": 15
 	},
@@ -5584,38 +2171,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193235,
-				"name": "Oshigol",
-				"zone": 2023,
-				"coords": 60812677
-			},
-			{
-				"npc": 190244,
-				"name": "Mahg the Trampler",
-				"zone": 2024,
-				"coords": 36323583
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			186827,
+			193118,
+			193235,
+			190244,
+			193149
 		],
 		"class": 15
 	},
@@ -5631,38 +2197,17 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193235,
-				"name": "Oshigol",
-				"zone": 2023,
-				"coords": 60812677
-			},
-			{
-				"npc": 190244,
-				"name": "Mahg the Trampler",
-				"zone": 2024,
-				"coords": 36323583
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			186827,
+			193118,
+			193235,
+			190244,
+			193149
 		],
 		"class": 4
 	},
@@ -5676,38 +2221,17 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186827,
-				"name": "Magmaton",
-				"zone": 2022,
-				"coords": 40206516
-			},
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193235,
-				"name": "Oshigol",
-				"zone": 2023,
-				"coords": 60812677
-			},
-			{
-				"npc": 190244,
-				"name": "Mahg the Trampler",
-				"zone": 2024,
-				"coords": 36323583
-			},
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			186827,
+			193118,
+			193235,
+			190244,
+			193149
 		],
 		"class": 2
 	},
@@ -5717,26 +2241,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193132,
-				"name": "Amethyzar the Glittering",
-				"zone": 2022,
-				"coords": 62705455
-			},
-			{
-				"npc": 190718,
-				"name": "Monsoo, The Boiling Rage",
-				"zone": 2022,
-				"coords": 46715715
-			},
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			193132,
+			190718,
+			193710
 		],
 		"class": 15
 	},
@@ -5746,14 +2258,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193132,
-				"name": "Amethyzar the Glittering",
-				"zone": 2022,
-				"coords": 62705455
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193132
 		],
 		"class": 7
 	},
@@ -5768,26 +2277,14 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193118,
-				"name": "O'nank Shorescour",
-				"zone": 2022,
-				"coords": 82214945
-			},
-			{
-				"npc": 193226,
-				"name": "Gorjo the Crab Shackler",
-				"zone": 2022,
-				"coords": 78405000
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193118,
+			193226,
+			194392
 		],
 		"class": 4
 	},
@@ -5797,38 +2294,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 196010,
-				"name": "Researcher Sneakwing",
-				"zone": 2023,
-				"coords": 37005400
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193243,
-				"name": "Acrosoth",
-				"zone": 2025,
-				"coords": 37777413
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			193256,
+			187111,
+			196010,
+			193143,
+			193243
 		],
 		"class": 15
 	},
@@ -5838,38 +2314,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 196010,
-				"name": "Researcher Sneakwing",
-				"zone": 2023,
-				"coords": 37005400
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193243,
-				"name": "Acrosoth",
-				"zone": 2025,
-				"coords": 37777413
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			193256,
+			187111,
+			196010,
+			193143,
+			193243
 		],
 		"class": 15
 	},
@@ -5882,32 +2337,16 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			193256,
+			187559,
+			193691,
+			193178
 		],
 		"class": 4
 	},
@@ -5923,38 +2362,17 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 196010,
-				"name": "Researcher Sneakwing",
-				"zone": 2023,
-				"coords": 37005400
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193243,
-				"name": "Acrosoth",
-				"zone": 2025,
-				"coords": 37777413
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			193256,
+			187111,
+			196010,
+			193143,
+			193243
 		],
 		"class": 4
 	},
@@ -5965,14 +2383,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193256
 		],
 		"class": 4
 	},
@@ -5989,32 +2404,16 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193256,
-				"name": "Nulltheria the Void Gazer",
-				"zone": 2022,
-				"coords": 55994587
-			},
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			},
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			}
+		"zone": [
+			2022,
+			2023,
+			2024
+		],
+		"npc": [
+			193256,
+			187559,
+			193691,
+			193178
 		],
 		"class": 4
 	},
@@ -6024,20 +2423,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193116,
-				"name": "Beogoka",
-				"zone": 2024,
-				"coords": 73002660
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			187209,
+			193116
 		],
 		"class": 15
 	},
@@ -6051,20 +2443,13 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193116,
-				"name": "Beogoka",
-				"zone": 2024,
-				"coords": 73002660
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			187209,
+			193116
 		],
 		"class": 2
 	},
@@ -6080,20 +2465,13 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187209,
-				"name": "Klozicc the Ascended",
-				"zone": 2022,
-				"coords": 54808220
-			},
-			{
-				"npc": 193116,
-				"name": "Beogoka",
-				"zone": 2024,
-				"coords": 73002660
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			187209,
+			193116
 		],
 		"class": 4
 	},
@@ -6108,14 +2486,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193535,
-				"name": "Basrikron",
-				"zone": 2022,
-				"coords": 55107740
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193535
 		],
 		"class": 4
 	},
@@ -6131,14 +2506,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193535,
-				"name": "Basrikron",
-				"zone": 2022,
-				"coords": 55107740
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193535
 		],
 		"class": 4
 	},
@@ -6154,14 +2526,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193535,
-				"name": "Basrikron",
-				"zone": 2022,
-				"coords": 55107740
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193535
 		],
 		"class": 4
 	},
@@ -6177,14 +2546,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193535,
-				"name": "Basrikron",
-				"zone": 2022,
-				"coords": 55107740
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193535
 		],
 		"class": 4
 	},
@@ -6197,14 +2563,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193535,
-				"name": "Basrikron",
-				"zone": 2022,
-				"coords": 55107740
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193535
 		],
 		"class": 4
 	},
@@ -6214,14 +2577,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			186200
 		],
 		"class": 15
 	},
@@ -6235,14 +2595,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			186200
 		],
 		"class": 2
 	},
@@ -6256,14 +2613,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			186200
 		],
 		"class": 2
 	},
@@ -6278,14 +2632,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186200,
-				"name": "Harkyn Grymstone",
-				"zone": 2022,
-				"coords": 42203940
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			186200
 		],
 		"class": 4
 	},
@@ -6295,50 +2646,19 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193173,
-				"name": "Mikrin of the Raging Winds",
-				"zone": 2023,
-				"coords": 62987932
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			193171,
+			193165,
+			193209,
+			193173,
+			193669,
+			191354,
+			193176
 		],
 		"class": 15
 	},
@@ -6348,44 +2668,18 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193173,
-				"name": "Mikrin of the Raging Winds",
-				"zone": 2023,
-				"coords": 62987932
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			193171,
+			193209,
+			193173,
+			193669,
+			191354,
+			193176
 		],
 		"class": 15
 	},
@@ -6398,32 +2692,16 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			193171,
+			193209,
+			193669,
+			193176
 		],
 		"class": 4
 	},
@@ -6438,14 +2716,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193171
 		],
 		"class": 4
 	},
@@ -6460,32 +2735,15 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193171,
-				"name": "Terillod the Devout",
-				"zone": 2022,
-				"coords": 60598286
-			},
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			}
+		"zone": [
+			2022,
+			2023
+		],
+		"npc": [
+			193171,
+			193209,
+			193669,
+			191354
 		],
 		"class": 4
 	},
@@ -6499,20 +2757,13 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193226,
-				"name": "Gorjo the Crab Shackler",
-				"zone": 2022,
-				"coords": 78405000
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			}
+		"zone": [
+			2022,
+			2024
+		],
+		"npc": [
+			193226,
+			194392
 		],
 		"class": 2
 	},
@@ -6526,14 +2777,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193226,
-				"name": "Gorjo the Crab Shackler",
-				"zone": 2022,
-				"coords": 78405000
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			193226
 		],
 		"class": 4
 	},
@@ -6546,14 +2794,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189289,
-				"name": "Penumbrus",
-				"zone": 2022,
-				"coords": 24205400
-			}
+		"zone": [
+			2022
+		],
+		"npc": [
+			189289
 		],
 		"class": 4
 	},
@@ -6569,32 +2814,16 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187111,
-				"name": "Ancient Hornswog",
-				"zone": 2022,
-				"coords": 77602220
-			},
-			{
-				"npc": 196010,
-				"name": "Researcher Sneakwing",
-				"zone": 2023,
-				"coords": 37005400
-			},
-			{
-				"npc": 193143,
-				"name": "Razk'vex the Untamed",
-				"zone": 2025,
-				"coords": 51534871
-			},
-			{
-				"npc": 193243,
-				"name": "Acrosoth",
-				"zone": 2025,
-				"coords": 37777413
-			}
+		"zone": [
+			2022,
+			2023,
+			2025
+		],
+		"npc": [
+			187111,
+			196010,
+			193143,
+			193243
 		],
 		"class": 4
 	},
@@ -6604,14 +2833,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 195223,
-				"name": "Rustlily",
-				"zone": 2023,
-				"coords": 42804428
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			195223
 		],
 		"class": 15
 	},
@@ -6621,14 +2847,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193142
 		],
 		"class": 15
 	},
@@ -6644,14 +2867,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193142,
-				"name": "Enraged Sapphire",
-				"zone": 2023,
-				"coords": 56408160
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193142
 		],
 		"class": 4
 	},
@@ -6667,14 +2887,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193165,
-				"name": "Sparkspitter Vrak",
-				"zone": 2023,
-				"coords": 20403800
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193165
 		],
 		"class": 4
 	},
@@ -6690,14 +2907,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193170,
-				"name": "Fulgurb",
-				"zone": 2023,
-				"coords": 74414762
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193170
 		],
 		"class": 4
 	},
@@ -6711,14 +2925,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193212,
-				"name": "Malsegan",
-				"zone": 2023,
-				"coords": 71204620
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193212
 		],
 		"class": 2
 	},
@@ -6728,14 +2939,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193209
 		],
 		"class": 0
 	},
@@ -6745,14 +2953,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193209
 		],
 		"class": 15
 	},
@@ -6769,26 +2974,14 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193209,
-				"name": "Zenet Avis",
-				"zone": 2023,
-				"coords": 31646421
-			},
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2023,
+			2025
+		],
+		"npc": [
+			193209,
+			193669,
+			193176
 		],
 		"class": 4
 	},
@@ -6798,14 +2991,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193188
 		],
 		"class": 15
 	},
@@ -6815,14 +3005,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193188
 		],
 		"class": 15
 	},
@@ -6832,32 +3019,16 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			},
-			{
-				"npc": 193214,
-				"name": "Forgotten Creation",
-				"zone": 2024,
-				"coords": 38185903
-			},
-			{
-				"npc": 193688,
-				"name": "Phenran",
-				"zone": 2025,
-				"coords": 59806100
-			},
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193188,
+			193214,
+			193688,
+			193664
 		],
 		"class": 15
 	},
@@ -6867,38 +3038,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			},
-			{
-				"npc": 193214,
-				"name": "Forgotten Creation",
-				"zone": 2024,
-				"coords": 38185903
-			},
-			{
-				"npc": 193688,
-				"name": "Phenran",
-				"zone": 2025,
-				"coords": 59806100
-			},
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193188,
+			193214,
+			193688,
+			193664,
+			193220
 		],
 		"class": 15
 	},
@@ -6908,20 +3058,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			},
-			{
-				"npc": 194392,
-				"name": "Brackle",
-				"zone": 2024,
-				"coords": 8804860
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			193188,
+			194392
 		],
 		"class": 15
 	},
@@ -6934,14 +3077,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193188
 		],
 		"class": 4
 	},
@@ -6957,32 +3097,16 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			},
-			{
-				"npc": 193214,
-				"name": "Forgotten Creation",
-				"zone": 2024,
-				"coords": 38185903
-			},
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193188,
+			193214,
+			193664,
+			193220
 		],
 		"class": 4
 	},
@@ -6998,14 +3122,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193188,
-				"name": "Seeker Teryx",
-				"zone": 2023,
-				"coords": 61801300
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193188
 		],
 		"class": 4
 	},
@@ -7015,26 +3136,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192045,
-				"name": "Windseeker Avash",
-				"zone": 2023,
-				"coords": 58596822
-			},
-			{
-				"npc": 192020,
-				"name": "Eaglemaster Niraak",
-				"zone": 2023,
-				"coords": 49496663
-			},
-			{
-				"npc": 193227,
-				"name": "Ronsak the Decimator",
-				"zone": 2023,
-				"coords": 43145573
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			192045,
+			192020,
+			193227
 		],
 		"class": 15
 	},
@@ -7044,32 +3152,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192045,
-				"name": "Windseeker Avash",
-				"zone": 2023,
-				"coords": 58596822
-			},
-			{
-				"npc": 192020,
-				"name": "Eaglemaster Niraak",
-				"zone": 2023,
-				"coords": 49496663
-			},
-			{
-				"npc": 193227,
-				"name": "Ronsak the Decimator",
-				"zone": 2023,
-				"coords": 43145573
-			},
-			{
-				"npc": 189652,
-				"name": "Deadwaker Ghendish",
-				"zone": 2023,
-				"coords": 29426783
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			192045,
+			192020,
+			193227,
+			189652
 		],
 		"class": 15
 	},
@@ -7082,14 +3172,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192045,
-				"name": "Windseeker Avash",
-				"zone": 2023,
-				"coords": 58596822
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			192045
 		],
 		"class": 4
 	},
@@ -7103,32 +3190,14 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192045,
-				"name": "Windseeker Avash",
-				"zone": 2023,
-				"coords": 58596822
-			},
-			{
-				"npc": 192020,
-				"name": "Eaglemaster Niraak",
-				"zone": 2023,
-				"coords": 49496663
-			},
-			{
-				"npc": 193227,
-				"name": "Ronsak the Decimator",
-				"zone": 2023,
-				"coords": 43145573
-			},
-			{
-				"npc": 189652,
-				"name": "Deadwaker Ghendish",
-				"zone": 2023,
-				"coords": 29426783
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			192045,
+			192020,
+			193227,
+			189652
 		],
 		"class": 2
 	},
@@ -7144,20 +3213,12 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192045,
-				"name": "Windseeker Avash",
-				"zone": 2023,
-				"coords": 58596822
-			},
-			{
-				"npc": 193227,
-				"name": "Ronsak the Decimator",
-				"zone": 2023,
-				"coords": 43145573
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			192045,
+			193227
 		],
 		"class": 4
 	},
@@ -7169,14 +3230,11 @@ export const data = [
 		"subclass": -4,
 		"agi": true,
 		"int": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192020,
-				"name": "Eaglemaster Niraak",
-				"zone": 2023,
-				"coords": 49496663
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			192020
 		],
 		"class": 4
 	},
@@ -7186,14 +3244,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			187559
 		],
 		"class": 15
 	},
@@ -7203,14 +3258,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			187559
 		],
 		"class": 15
 	},
@@ -7224,14 +3276,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			187559
 		],
 		"class": 2
 	},
@@ -7247,14 +3296,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 187559,
-				"name": "Shade of Grief",
-				"zone": 2023,
-				"coords": 29554146
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			187559
 		],
 		"class": 4
 	},
@@ -7265,14 +3311,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193173,
-				"name": "Mikrin of the Raging Winds",
-				"zone": 2023,
-				"coords": 62987932
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193173
 		],
 		"class": 4
 	},
@@ -7282,50 +3325,19 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193136,
-				"name": "Scav Notail",
-				"zone": 2023,
-				"coords": 50027484
-			},
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 197344,
-				"name": "Snarglebone",
-				"zone": 2024,
-				"coords": 11093217
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 198004,
-				"name": "Mange the Outcast",
-				"zone": 2024,
-				"coords": 40404840
-			},
-			{
-				"npc": 192749,
-				"name": "Sharpfang",
-				"zone": 2024,
-				"coords": 36793249
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193136,
+			197356,
+			197344,
+			193178,
+			198004,
+			192749,
+			193128
 		],
 		"class": 15
 	},
@@ -7335,50 +3347,19 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193136,
-				"name": "Scav Notail",
-				"zone": 2023,
-				"coords": 50027484
-			},
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 197344,
-				"name": "Snarglebone",
-				"zone": 2024,
-				"coords": 11093217
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 198004,
-				"name": "Mange the Outcast",
-				"zone": 2024,
-				"coords": 40404840
-			},
-			{
-				"npc": 192749,
-				"name": "Sharpfang",
-				"zone": 2024,
-				"coords": 36793249
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193136,
+			197356,
+			197344,
+			193178,
+			198004,
+			192749,
+			193128
 		],
 		"class": 15
 	},
@@ -7394,14 +3375,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193136,
-				"name": "Scav Notail",
-				"zone": 2023,
-				"coords": 50027484
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193136
 		],
 		"class": 4
 	},
@@ -7415,50 +3393,19 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193136,
-				"name": "Scav Notail",
-				"zone": 2023,
-				"coords": 50027484
-			},
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 197344,
-				"name": "Snarglebone",
-				"zone": 2024,
-				"coords": 11093217
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 198004,
-				"name": "Mange the Outcast",
-				"zone": 2024,
-				"coords": 40404840
-			},
-			{
-				"npc": 192749,
-				"name": "Sharpfang",
-				"zone": 2024,
-				"coords": 36793249
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193136,
+			197356,
+			197344,
+			193178,
+			198004,
+			192749,
+			193128
 		],
 		"class": 2
 	},
@@ -7474,50 +3421,19 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193136,
-				"name": "Scav Notail",
-				"zone": 2023,
-				"coords": 50027484
-			},
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 197344,
-				"name": "Snarglebone",
-				"zone": 2024,
-				"coords": 11093217
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 198004,
-				"name": "Mange the Outcast",
-				"zone": 2024,
-				"coords": 40404840
-			},
-			{
-				"npc": 192749,
-				"name": "Sharpfang",
-				"zone": 2024,
-				"coords": 36793249
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2023,
+			2024,
+			2025
+		],
+		"npc": [
+			193136,
+			197356,
+			197344,
+			193178,
+			198004,
+			192749,
+			193128
 		],
 		"class": 4
 	},
@@ -7528,14 +3444,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193215,
-				"name": "Scaleseeker Mezeri",
-				"zone": 2023,
-				"coords": 20304370
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193215
 		],
 		"class": 4
 	},
@@ -7551,14 +3464,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193140,
-				"name": "Zarizz",
-				"zone": 2023,
-				"coords": 29756131
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193140
 		],
 		"class": 4
 	},
@@ -7568,20 +3478,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193196,
-				"name": "Trilvarus Loreweaver",
-				"zone": 2024,
-				"coords": 70202520
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			197009,
+			193196
 		],
 		"class": 15
 	},
@@ -7591,20 +3494,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193196,
-				"name": "Trilvarus Loreweaver",
-				"zone": 2024,
-				"coords": 70202520
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			197009,
+			193196
 		],
 		"class": 15
 	},
@@ -7619,20 +3515,13 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193196,
-				"name": "Trilvarus Loreweaver",
-				"zone": 2024,
-				"coords": 70202520
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			197009,
+			193196
 		],
 		"class": 4
 	},
@@ -7645,20 +3534,13 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197009,
-				"name": "Liskheszaera",
-				"zone": 2023,
-				"coords": 87406140
-			},
-			{
-				"npc": 193196,
-				"name": "Trilvarus Loreweaver",
-				"zone": 2024,
-				"coords": 70202520
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			197009,
+			193196
 		],
 		"class": 4
 	},
@@ -7668,20 +3550,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 192364,
-				"name": "Windscale the Stormborn",
-				"zone": 2023,
-				"coords": 84214784
-			},
-			{
-				"npc": 193196,
-				"name": "Trilvarus Loreweaver",
-				"zone": 2024,
-				"coords": 70202520
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			192364,
+			193196
 		],
 		"class": 15
 	},
@@ -7696,14 +3571,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193123
 		],
 		"class": 4
 	},
@@ -7713,14 +3585,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193123,
-				"name": "Steamgill",
-				"zone": 2023,
-				"coords": 53627281
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193123
 		],
 		"class": 15
 	},
@@ -7734,14 +3603,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 189652,
-				"name": "Deadwaker Ghendish",
-				"zone": 2023,
-				"coords": 29426783
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			189652
 		],
 		"class": 2
 	},
@@ -7751,14 +3617,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193133,
-				"name": "Sunscale Behemoth",
-				"zone": 2023,
-				"coords": 63044855
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193133
 		],
 		"class": 15
 	},
@@ -7775,14 +3638,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201537,
-				"name": "Groffnar",
-				"zone": 2023,
-				"coords": 35404080
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			201537
 		],
 		"class": 4
 	},
@@ -7792,14 +3652,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193669,
-				"name": "Prozela Galeshot",
-				"zone": 2023,
-				"coords": 59926695
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193669
 		],
 		"class": 12
 	},
@@ -7815,14 +3672,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201540,
-				"name": "Lurgan",
-				"zone": 2023,
-				"coords": 36043433
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			201540
 		],
 		"class": 4
 	},
@@ -7838,14 +3692,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201538,
-				"name": "Huntmaster Yrgena",
-				"zone": 2023,
-				"coords": 33803840
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			201538
 		],
 		"class": 4
 	},
@@ -7855,26 +3706,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 1,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193710,
-				"name": "Seereel, the Spring",
-				"zone": 2023,
-				"coords": 81447834
-			},
-			{
-				"npc": 193708,
-				"name": "Skald the Impaler",
-				"zone": 2024,
-				"coords": 33806440
-			},
-			{
-				"npc": 193706,
-				"name": "Snufflegust",
-				"zone": 2024,
-				"coords": 58763255
-			}
+		"zone": [
+			2023,
+			2024
+		],
+		"npc": [
+			193710,
+			193708,
+			193706
 		],
 		"class": 15
 	},
@@ -7887,14 +3726,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193534,
-				"name": "Strunraan",
-				"zone": 2023,
-				"coords": 83507630
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193534
 		],
 		"class": 4
 	},
@@ -7909,14 +3745,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193534,
-				"name": "Strunraan",
-				"zone": 2023,
-				"coords": 83507630
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193534
 		],
 		"class": 4
 	},
@@ -7932,14 +3765,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193534,
-				"name": "Strunraan",
-				"zone": 2023,
-				"coords": 83507630
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193534
 		],
 		"class": 4
 	},
@@ -7955,14 +3785,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193534,
-				"name": "Strunraan",
-				"zone": 2023,
-				"coords": 83507630
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193534
 		],
 		"class": 4
 	},
@@ -7978,14 +3805,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193534,
-				"name": "Strunraan",
-				"zone": 2023,
-				"coords": 83507630
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193534
 		],
 		"class": 4
 	},
@@ -7999,14 +3823,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193153,
-				"name": "Ripsaw the Stalker",
-				"zone": 2023,
-				"coords": 26356534
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193153
 		],
 		"class": 2
 	},
@@ -8020,14 +3841,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 191354,
-				"name": "Ty'foon the Ascended",
-				"zone": 2023,
-				"coords": 26073414
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			191354
 		],
 		"class": 2
 	},
@@ -8041,14 +3859,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201535,
-				"name": "Bloodbeak the Ravenous",
-				"zone": 2023,
-				"coords": 37003640
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			201535
 		],
 		"class": 2
 	},
@@ -8064,14 +3879,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193163,
-				"name": "Territorial Coastling",
-				"zone": 2023,
-				"coords": 22996667
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			193163
 		],
 		"class": 4
 	},
@@ -8086,14 +3898,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201539,
-				"name": "Stormcaller Narkena",
-				"zone": 2023,
-				"coords": 32634184
-			}
+		"zone": [
+			2023
+		],
+		"npc": [
+			201539
 		],
 		"class": 4
 	},
@@ -8107,14 +3916,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193269,
-				"name": "Grumbletrunk",
-				"zone": 2024,
-				"coords": 19204360
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193269
 		],
 		"class": 2
 	},
@@ -8124,14 +3930,11 @@ export const data = [
 		"quality": 3,
 		"slot": 29,
 		"subclass": 9,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193708,
-				"name": "Skald the Impaler",
-				"zone": 2024,
-				"coords": 33806440
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193708
 		],
 		"class": 19
 	},
@@ -8141,14 +3944,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193259,
-				"name": "Blue Terror",
-				"zone": 2024,
-				"coords": 16622799
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193259
 		],
 		"class": 15
 	},
@@ -8158,26 +3958,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2024,
+			2025
+		],
+		"npc": [
+			197356,
+			193178,
+			193128
 		],
 		"class": 15
 	},
@@ -8187,26 +3975,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2024,
+			2025
+		],
+		"npc": [
+			197356,
+			193178,
+			193128
 		],
 		"class": 15
 	},
@@ -8220,26 +3996,14 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2024,
+			2025
+		],
+		"npc": [
+			197356,
+			193178,
+			193128
 		],
 		"class": 2
 	},
@@ -8249,26 +4013,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2024,
+			2025
+		],
+		"npc": [
+			197356,
+			193178,
+			193128
 		],
 		"class": 15
 	},
@@ -8283,26 +4035,14 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197356,
-				"name": "High Shaman Rotknuckle",
-				"zone": 2024,
-				"coords": 16213364
-			},
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			},
-			{
-				"npc": 193128,
-				"name": "Blightpaw the Depraved",
-				"zone": 2025,
-				"coords": 31107120
-			}
+		"zone": [
+			2024,
+			2025
+		],
+		"npc": [
+			197356,
+			193178,
+			193128
 		],
 		"class": 4
 	},
@@ -8318,14 +4058,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197354,
-				"name": "Gnarls",
-				"zone": 2024,
-				"coords": 14083747
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			197354
 		],
 		"class": 4
 	},
@@ -8336,14 +4073,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193196,
-				"name": "Trilvarus Loreweaver",
-				"zone": 2024,
-				"coords": 70202520
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193196
 		],
 		"class": 4
 	},
@@ -8353,14 +4087,11 @@ export const data = [
 		"quality": 4,
 		"slot": 17,
 		"subclass": 10,
-		"npc": [],
-		"source": [
-			{
-				"npc": 197557,
-				"name": "Bisquius",
-				"zone": 2024,
-				"coords": 13604860
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			197557
 		],
 		"class": 2
 	},
@@ -8374,14 +4105,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 190244,
-				"name": "Mahg the Trampler",
-				"zone": 2024,
-				"coords": 36323583
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			190244
 		],
 		"class": 2
 	},
@@ -8393,14 +4121,11 @@ export const data = [
 		"subclass": -4,
 		"agi": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193116,
-				"name": "Beogoka",
-				"zone": 2024,
-				"coords": 73002660
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193116
 		],
 		"class": 4
 	},
@@ -8410,14 +4135,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193116,
-				"name": "Beogoka",
-				"zone": 2024,
-				"coords": 73002660
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193116
 		],
 		"class": 15
 	},
@@ -8427,14 +4149,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 1,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193691,
-				"name": "Fisherman Tinnak",
-				"zone": 2024,
-				"coords": 49343819
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193691
 		],
 		"class": 15
 	},
@@ -8444,14 +4163,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193178,
-				"name": "Blightfur",
-				"zone": 2024,
-				"coords": 13602200
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193178
 		],
 		"class": 15
 	},
@@ -8466,14 +4182,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193238,
-				"name": "Spellwrought Snowman",
-				"zone": 2024,
-				"coords": 55043408
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193238
 		],
 		"class": 4
 	},
@@ -8484,14 +4197,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193251,
-				"name": "Gruffy",
-				"zone": 2024,
-				"coords": 32652915
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193251
 		],
 		"class": 4
 	},
@@ -8507,14 +4217,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193149,
-				"name": "Skag the Thrower",
-				"zone": 2024,
-				"coords": 26804940
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193149
 		],
 		"class": 4
 	},
@@ -8528,14 +4235,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193157,
-				"name": "Dragonhunter Gorund",
-				"zone": 2024,
-				"coords": 27804580
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193157
 		],
 		"class": 2
 	},
@@ -8549,32 +4253,15 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193214,
-				"name": "Forgotten Creation",
-				"zone": 2024,
-				"coords": 38185903
-			},
-			{
-				"npc": 193688,
-				"name": "Phenran",
-				"zone": 2025,
-				"coords": 59806100
-			},
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			},
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			}
+		"zone": [
+			2024,
+			2025
+		],
+		"npc": [
+			193214,
+			193688,
+			193664,
+			193220
 		],
 		"class": 2
 	},
@@ -8587,14 +4274,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193214,
-				"name": "Forgotten Creation",
-				"zone": 2024,
-				"coords": 38185903
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193214
 		],
 		"class": 4
 	},
@@ -8609,14 +4293,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193532,
-				"name": "Bazual",
-				"zone": 2024,
-				"coords": 79503590
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193532
 		],
 		"class": 4
 	},
@@ -8632,14 +4313,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193532,
-				"name": "Bazual",
-				"zone": 2024,
-				"coords": 79503590
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193532
 		],
 		"class": 4
 	},
@@ -8655,14 +4333,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193532,
-				"name": "Bazual",
-				"zone": 2024,
-				"coords": 79503590
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193532
 		],
 		"class": 4
 	},
@@ -8678,14 +4353,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193532,
-				"name": "Bazual",
-				"zone": 2024,
-				"coords": 79503590
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193532
 		],
 		"class": 4
 	},
@@ -8698,14 +4370,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193532,
-				"name": "Bazual",
-				"zone": 2024,
-				"coords": 79503590
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193532
 		],
 		"class": 4
 	},
@@ -8716,14 +4385,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193288,
-				"name": "Summoned Destroyer",
-				"zone": 2024,
-				"coords": 70063318
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193288
 		],
 		"class": 4
 	},
@@ -8737,14 +4403,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 186962,
-				"name": "Cascade",
-				"zone": 2024,
-				"coords": 23443327
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			186962
 		],
 		"class": 2
 	},
@@ -8754,14 +4417,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"npc": [],
-		"source": [
-			{
-				"npc": 195353,
-				"name": "Breezebiter",
-				"zone": 2024,
-				"coords": 29814613
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			195353
 		],
 		"class": 15
 	},
@@ -8771,14 +4431,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193223,
-				"name": "Vakril, the Strongest Tuskarr",
-				"zone": 2024,
-				"coords": 17394121
-			}
+		"zone": [
+			2024
+		],
+		"npc": [
+			193223
 		],
 		"class": 0
 	},
@@ -8788,20 +4445,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193688,
-				"name": "Phenran",
-				"zone": 2025,
-				"coords": 59806100
-			},
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193688,
+			193664
 		],
 		"class": 15
 	},
@@ -8815,14 +4464,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193688,
-				"name": "Phenran",
-				"zone": 2025,
-				"coords": 59806100
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193688
 		],
 		"class": 2
 	},
@@ -8836,20 +4482,12 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193688,
-				"name": "Phenran",
-				"zone": 2025,
-				"coords": 59806100
-			},
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193688,
+			193664
 		],
 		"class": 2
 	},
@@ -8859,32 +4497,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193241,
-				"name": "Lord Epochbrgl",
-				"zone": 2025,
-				"coords": 62288178
-			},
-			{
-				"npc": 193210,
-				"name": "Phleep",
-				"zone": 2025,
-				"coords": 58398489
-			},
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193241,
+			193210,
+			193126,
+			193176
 		],
 		"class": 15
 	},
@@ -8894,32 +4514,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193241,
-				"name": "Lord Epochbrgl",
-				"zone": 2025,
-				"coords": 62288178
-			},
-			{
-				"npc": 193210,
-				"name": "Phleep",
-				"zone": 2025,
-				"coords": 58398489
-			},
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193241,
+			193210,
+			193126,
+			193176
 		],
 		"class": 15
 	},
@@ -8935,14 +4537,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193241,
-				"name": "Lord Epochbrgl",
-				"zone": 2025,
-				"coords": 62288178
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193241
 		],
 		"class": 4
 	},
@@ -8958,14 +4557,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193125,
-				"name": "Goremaul the Gluttonous",
-				"zone": 2025,
-				"coords": 53424101
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193125
 		],
 		"class": 4
 	},
@@ -8975,20 +4571,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193210,
-				"name": "Phleep",
-				"zone": 2025,
-				"coords": 58398489
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193210,
+			193176
 		],
 		"class": 15
 	},
@@ -9005,20 +4593,12 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193210,
-				"name": "Phleep",
-				"zone": 2025,
-				"coords": 58398489
-			},
-			{
-				"npc": 201664,
-				"name": "Temporal Investi-gator",
-				"zone": 2025,
-				"coords": 54608580
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193210,
+			201664
 		],
 		"class": 4
 	},
@@ -9034,20 +4614,12 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193210,
-				"name": "Phleep",
-				"zone": 2025,
-				"coords": 58398489
-			},
-			{
-				"npc": 193176,
-				"name": "Sandana the Tempest",
-				"zone": 2025,
-				"coords": 37387792
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193210,
+			193176
 		],
 		"class": 4
 	},
@@ -9057,14 +4629,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193146,
-				"name": "Treasure-Mad Trambladd",
-				"zone": 2025,
-				"coords": 35027001
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193146
 		],
 		"class": 15
 	},
@@ -9080,14 +4649,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193146,
-				"name": "Treasure-Mad Trambladd",
-				"zone": 2025,
-				"coords": 35027001
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193146
 		],
 		"class": 4
 	},
@@ -9097,14 +4663,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193146,
-				"name": "Treasure-Mad Trambladd",
-				"zone": 2025,
-				"coords": 35027001
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193146
 		],
 		"class": 15
 	},
@@ -9114,14 +4677,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 191305,
-				"name": "The Great Shellkhan",
-				"zone": 2025,
-				"coords": 38436824
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			191305
 		],
 		"class": 0
 	},
@@ -9132,14 +4692,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193126,
-				"name": "Innumerable Ruination",
-				"zone": 2025,
-				"coords": 57968158
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193126
 		],
 		"class": 4
 	},
@@ -9152,14 +4709,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193234,
-				"name": "Eldoren the Reborn",
-				"zone": 2025,
-				"coords": 47805120
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193234
 		],
 		"class": 4
 	},
@@ -9173,14 +4727,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193664,
-				"name": "Ancient Protector",
-				"zone": 2025,
-				"coords": 59105874
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193664
 		],
 		"class": 2
 	},
@@ -9196,14 +4747,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193663,
-				"name": "Craggravated Elemental",
-				"zone": 2025,
-				"coords": 45798526
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193663
 		],
 		"class": 4
 	},
@@ -9217,14 +4765,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193246,
-				"name": "Matriarch Remalla",
-				"zone": 2025,
-				"coords": 52805920
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193246
 		],
 		"class": 2
 	},
@@ -9239,14 +4784,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193220
 		],
 		"class": 4
 	},
@@ -9256,14 +4798,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193220,
-				"name": "Broodweaver Araznae",
-				"zone": 2025,
-				"coords": 59607012
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193220
 		],
 		"class": 15
 	},
@@ -9273,14 +4812,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193658
 		],
 		"class": 15
 	},
@@ -9290,14 +4826,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193658
 		],
 		"class": 15
 	},
@@ -9311,14 +4844,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193658
 		],
 		"class": 4
 	},
@@ -9332,14 +4862,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193658,
-				"name": "Corrupted Proto-Dragon",
-				"zone": 2025,
-				"coords": 44806900
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193658
 		],
 		"class": 2
 	},
@@ -9355,14 +4882,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 183984,
-				"name": "The Weeping Vilomah",
-				"zone": 2025,
-				"coords": 46287298
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			183984
 		],
 		"class": 4
 	},
@@ -9378,14 +4902,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193243,
-				"name": "Acrosoth",
-				"zone": 2025,
-				"coords": 37777413
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193243
 		],
 		"class": 4
 	},
@@ -9399,14 +4920,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 205865,
-				"name": "Zal'kir the Chosen",
-				"zone": 2025,
-				"coords": 59807040
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			205865
 		],
 		"class": 2
 	},
@@ -9420,14 +4938,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 205865,
-				"name": "Zal'kir the Chosen",
-				"zone": 2025,
-				"coords": 59807040
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			205865
 		],
 		"class": 2
 	},
@@ -9441,14 +4956,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 205865,
-				"name": "Zal'kir the Chosen",
-				"zone": 2025,
-				"coords": 59807040
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			205865
 		],
 		"class": 2
 	},
@@ -9458,14 +4970,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201664,
-				"name": "Temporal Investi-gator",
-				"zone": 2025,
-				"coords": 54608580
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			201664
 		],
 		"class": 15
 	},
@@ -9480,14 +4989,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193533,
-				"name": "Liskanoth",
-				"zone": 2025,
-				"coords": 60008190
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193533
 		],
 		"class": 4
 	},
@@ -9503,14 +5009,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193533,
-				"name": "Liskanoth",
-				"zone": 2025,
-				"coords": 60008190
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193533
 		],
 		"class": 4
 	},
@@ -9526,14 +5029,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193533,
-				"name": "Liskanoth",
-				"zone": 2025,
-				"coords": 60008190
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193533
 		],
 		"class": 4
 	},
@@ -9549,14 +5049,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193533,
-				"name": "Liskanoth",
-				"zone": 2025,
-				"coords": 60008190
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193533
 		],
 		"class": 4
 	},
@@ -9573,14 +5070,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193533,
-				"name": "Liskanoth",
-				"zone": 2025,
-				"coords": 60008190
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193533
 		],
 		"class": 4
 	},
@@ -9596,14 +5090,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201552,
-				"name": "Overseer Stonetongue",
-				"zone": 2025,
-				"coords": 59566227
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			201552
 		],
 		"class": 4
 	},
@@ -9616,14 +5107,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201550,
-				"name": "Overloading Defense Matrix",
-				"zone": 2025,
-				"coords": 59406120
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			201550
 		],
 		"class": 4
 	},
@@ -9633,14 +5121,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193668
 		],
 		"class": 12
 	},
@@ -9657,14 +5142,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193668,
-				"name": "Lookout Mordren",
-				"zone": 2025,
-				"coords": 36808557
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193668
 		],
 		"class": 4
 	},
@@ -9680,14 +5162,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201549,
-				"name": "Morlash",
-				"zone": 2025,
-				"coords": 62005980
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			201549
 		],
 		"class": 4
 	},
@@ -9698,14 +5177,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 193229,
-				"name": "Henlare",
-				"zone": 2025,
-				"coords": 55797732
-			}
+		"zone": [
+			2025
+		],
+		"npc": [
+			193229
 		],
 		"class": 4
 	},
@@ -9715,14 +5191,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201562,
-				"name": "Shardwing",
-				"zone": 2085,
-				"coords": 48601740
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201562
 		],
 		"class": 15
 	},
@@ -9736,14 +5209,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201562,
-				"name": "Shardwing",
-				"zone": 2085,
-				"coords": 48601740
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201562
 		],
 		"class": 2
 	},
@@ -9757,14 +5227,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201562,
-				"name": "Shardwing",
-				"zone": 2085,
-				"coords": 48601740
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201562
 		],
 		"class": 2
 	},
@@ -9780,14 +5247,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201562,
-				"name": "Shardwing",
-				"zone": 2085,
-				"coords": 48601740
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201562
 		],
 		"class": 4
 	},
@@ -9800,14 +5264,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201543,
-				"name": "Avalantus",
-				"zone": 2085,
-				"coords": 52206760
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201543
 		],
 		"class": 4
 	},
@@ -9823,14 +5284,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201545,
-				"name": "Shapemaster Za'lani",
-				"zone": 2085,
-				"coords": 46204120
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201545
 		],
 		"class": 4
 	},
@@ -9845,14 +5303,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201542,
-				"name": "Tikarr Frostclaw",
-				"zone": 2085,
-				"coords": 61603200
-			}
+		"zone": [
+			2085
+		],
+		"npc": [
+			201542
 		],
 		"class": 4
 	},
@@ -9862,14 +5317,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 1,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200739,
-				"name": "Fimbol",
-				"zone": 2151,
-				"coords": 61202680
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200739
 		],
 		"class": 7
 	},
@@ -9879,14 +5331,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200739,
-				"name": "Fimbol",
-				"zone": 2151,
-				"coords": 61202680
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200739
 		],
 		"class": 15
 	},
@@ -9896,14 +5345,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200911,
-				"name": "Volcanakk",
-				"zone": 2151,
-				"coords": 78205066
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200911
 		],
 		"class": 15
 	},
@@ -9913,14 +5359,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200956,
-				"name": "Ookbeard",
-				"zone": 2151,
-				"coords": 36731223
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200956
 		],
 		"class": 15
 	},
@@ -9930,14 +5373,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200978,
-				"name": "Pyrachniss",
-				"zone": 2151,
-				"coords": 51717276
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200978
 		],
 		"class": 15
 	},
@@ -9947,14 +5387,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200584,
-				"name": "Vraken the Hunter",
-				"zone": 2151,
-				"coords": 58174826
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200584
 		],
 		"class": 15
 	},
@@ -9964,14 +5401,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 10,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200743,
-				"name": "Amephyst",
-				"zone": 2151,
-				"coords": 29005720
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200743
 		],
 		"class": 9
 	},
@@ -9981,14 +5415,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200743,
-				"name": "Amephyst",
-				"zone": 2151,
-				"coords": 29005720
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200743
 		],
 		"class": 15
 	},
@@ -9998,14 +5429,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201013,
-				"name": "Wyrmslayer Angvardi",
-				"zone": 2151,
-				"coords": 61723400
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			201013
 		],
 		"class": 15
 	},
@@ -10015,14 +5443,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200619,
-				"name": "Tectonus",
-				"zone": 2151,
-				"coords": 43204900
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200619
 		],
 		"class": 15
 	},
@@ -10032,14 +5457,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200730,
-				"name": "Tidesmith Zarviss",
-				"zone": 2151,
-				"coords": 80005900
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200730
 		],
 		"class": 0
 	},
@@ -10049,14 +5471,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200730,
-				"name": "Tidesmith Zarviss",
-				"zone": 2151,
-				"coords": 80005900
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200730
 		],
 		"class": 15
 	},
@@ -10066,14 +5485,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200722,
-				"name": "Gareed",
-				"zone": 2151,
-				"coords": 31205340
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200722
 		],
 		"class": 15
 	},
@@ -10083,14 +5499,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200725,
-				"name": "Faunos",
-				"zone": 2151,
-				"coords": 45003640
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200725
 		],
 		"class": 15
 	},
@@ -10100,14 +5513,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200738,
-				"name": "Kangalo",
-				"zone": 2151,
-				"coords": 56405900
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200738
 		],
 		"class": 15
 	},
@@ -10117,14 +5527,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 16,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200737,
-				"name": "Arcantrix",
-				"zone": 2151,
-				"coords": 49204180
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200737
 		],
 		"class": 7
 	},
@@ -10134,14 +5541,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 16,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200737,
-				"name": "Arcantrix",
-				"zone": 2151,
-				"coords": 49204180
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200737
 		],
 		"class": 7
 	},
@@ -10151,14 +5555,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 16,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200737,
-				"name": "Arcantrix",
-				"zone": 2151,
-				"coords": 49204180
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200737
 		],
 		"class": 7
 	},
@@ -10168,14 +5569,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 16,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200737,
-				"name": "Arcantrix",
-				"zone": 2151,
-				"coords": 49204180
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200737
 		],
 		"class": 7
 	},
@@ -10185,14 +5583,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200737,
-				"name": "Arcantrix",
-				"zone": 2151,
-				"coords": 49204180
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200737
 		],
 		"class": 15
 	},
@@ -10202,14 +5597,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200742,
-				"name": "Luttrok",
-				"zone": 2151,
-				"coords": 55905141
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200742
 		],
 		"class": 15
 	},
@@ -10219,14 +5611,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200960,
-				"name": "Warden Entrix",
-				"zone": 2151,
-				"coords": 45917966
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200960
 		],
 		"class": 15
 	},
@@ -10236,14 +5625,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200681,
-				"name": "Bonesifter Marwak",
-				"zone": 2151,
-				"coords": 43776125
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200681
 		],
 		"class": 15
 	},
@@ -10253,14 +5639,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200622,
-				"name": "Snarfang",
-				"zone": 2151,
-				"coords": 37004700
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200622
 		],
 		"class": 15
 	},
@@ -10270,14 +5653,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200885,
-				"name": "Lady Shaz'ra",
-				"zone": 2151,
-				"coords": 59695883
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200885
 		],
 		"class": 15
 	},
@@ -10287,14 +5667,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200621,
-				"name": "Manathema",
-				"zone": 2151,
-				"coords": 55203660
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200621
 		],
 		"class": 15
 	},
@@ -10304,14 +5681,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 1,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200740,
-				"name": "Agni Blazehoof",
-				"zone": 2151,
-				"coords": 56003940
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200740
 		],
 		"class": 0
 	},
@@ -10325,14 +5699,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200740,
-				"name": "Agni Blazehoof",
-				"zone": 2151,
-				"coords": 56003940
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200740
 		],
 		"class": 0
 	},
@@ -10342,14 +5713,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 1,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200740,
-				"name": "Agni Blazehoof",
-				"zone": 2151,
-				"coords": 56003940
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200740
 		],
 		"class": 0
 	},
@@ -10359,14 +5727,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200740,
-				"name": "Agni Blazehoof",
-				"zone": 2151,
-				"coords": 56003940
-			}
+		"zone": [
+			2151
+		],
+		"npc": [
+			200740
 		],
 		"class": 15
 	},
@@ -10376,14 +5741,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203664,
-				"name": "Emberdusk",
-				"zone": 2133,
-				"coords": 32445127
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203664
 		],
 		"class": 15
 	},
@@ -10398,14 +5760,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203664,
-				"name": "Emberdusk",
-				"zone": 2133,
-				"coords": 32445127
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203664
 		],
 		"class": 4
 	},
@@ -10418,14 +5777,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203664,
-				"name": "Emberdusk",
-				"zone": 2133,
-				"coords": 32445127
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203664
 		],
 		"class": 4
 	},
@@ -10435,14 +5791,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203621,
-				"name": "Brullo the Strong",
-				"zone": 2133,
-				"coords": 41518613
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203621
 		],
 		"class": 15
 	},
@@ -10452,14 +5805,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 5,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203621,
-				"name": "Brullo the Strong",
-				"zone": 2133,
-				"coords": 41518613
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203621
 		],
 		"class": 9
 	},
@@ -10475,14 +5825,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203621,
-				"name": "Brullo the Strong",
-				"zone": 2133,
-				"coords": 41518613
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203621
 		],
 		"class": 4
 	},
@@ -10498,14 +5845,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203621,
-				"name": "Brullo the Strong",
-				"zone": 2133,
-				"coords": 41518613
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203621
 		],
 		"class": 4
 	},
@@ -10515,14 +5859,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 204093,
-				"name": "Colossian",
-				"zone": 2133,
-				"coords": 47822342
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			204093
 		],
 		"class": 15
 	},
@@ -10536,14 +5877,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 204093,
-				"name": "Colossian",
-				"zone": 2133,
-				"coords": 47822342
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			204093
 		],
 		"class": 2
 	},
@@ -10559,14 +5897,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 204093,
-				"name": "Colossian",
-				"zone": 2133,
-				"coords": 47822342
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			204093
 		],
 		"class": 4
 	},
@@ -10579,14 +5914,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 204093,
-				"name": "Colossian",
-				"zone": 2133,
-				"coords": 47822342
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			204093
 		],
 		"class": 4
 	},
@@ -10600,14 +5932,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 204093,
-				"name": "Colossian",
-				"zone": 2133,
-				"coords": 47822342
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			204093
 		],
 		"class": 2
 	},
@@ -10617,14 +5946,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203468,
-				"name": "Aquifon",
-				"zone": 2133,
-				"coords": 48367509
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203468
 		],
 		"class": 15
 	},
@@ -10640,14 +5966,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203468,
-				"name": "Aquifon",
-				"zone": 2133,
-				"coords": 48367509
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203468
 		],
 		"class": 4
 	},
@@ -10662,14 +5985,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203468,
-				"name": "Aquifon",
-				"zone": 2133,
-				"coords": 48367509
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203468
 		],
 		"class": 4
 	},
@@ -10685,14 +6005,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203468,
-				"name": "Aquifon",
-				"zone": 2133,
-				"coords": 48367509
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203468
 		],
 		"class": 4
 	},
@@ -10702,14 +6019,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203515,
-				"name": "Alcanon",
-				"zone": 2133,
-				"coords": 56207380
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203515
 		],
 		"class": 15
 	},
@@ -10725,14 +6039,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203515,
-				"name": "Alcanon",
-				"zone": 2133,
-				"coords": 56207380
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203515
 		],
 		"class": 4
 	},
@@ -10748,14 +6059,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203515,
-				"name": "Alcanon",
-				"zone": 2133,
-				"coords": 56207380
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203515
 		],
 		"class": 4
 	},
@@ -10765,14 +6073,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203646,
-				"name": "Dinn",
-				"zone": 2133,
-				"coords": 28875085
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203646
 		],
 		"class": 15
 	},
@@ -10787,14 +6092,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203646,
-				"name": "Dinn",
-				"zone": 2133,
-				"coords": 28875085
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203646
 		],
 		"class": 4
 	},
@@ -10810,14 +6112,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203646,
-				"name": "Dinn",
-				"zone": 2133,
-				"coords": 28875085
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203646
 		],
 		"class": 4
 	},
@@ -10827,14 +6126,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203646,
-				"name": "Dinn",
-				"zone": 2133,
-				"coords": 28875085
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203646
 		],
 		"class": 15
 	},
@@ -10844,14 +6140,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203462,
-				"name": "Kob'rok",
-				"zone": 2133,
-				"coords": 65435587
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203462
 		],
 		"class": 0
 	},
@@ -10861,14 +6154,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203462,
-				"name": "Kob'rok",
-				"zone": 2133,
-				"coords": 65435587
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203462
 		],
 		"class": 15
 	},
@@ -10884,14 +6174,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203462,
-				"name": "Kob'rok",
-				"zone": 2133,
-				"coords": 65435587
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203462
 		],
 		"class": 4
 	},
@@ -10901,14 +6188,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203660,
-				"name": "Flowfy",
-				"zone": 2133,
-				"coords": 36324481
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203660
 		],
 		"class": 15
 	},
@@ -10924,14 +6208,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203660,
-				"name": "Flowfy",
-				"zone": 2133,
-				"coords": 36324481
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203660
 		],
 		"class": 4
 	},
@@ -10944,14 +6225,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203660,
-				"name": "Flowfy",
-				"zone": 2133,
-				"coords": 36324481
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203660
 		],
 		"class": 4
 	},
@@ -10961,14 +6239,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200111,
-				"name": "Magtembo",
-				"zone": 2133,
-				"coords": 41383744
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			200111
 		],
 		"class": 15
 	},
@@ -10984,14 +6259,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200111,
-				"name": "Magtembo",
-				"zone": 2133,
-				"coords": 41383744
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			200111
 		],
 		"class": 4
 	},
@@ -11007,14 +6279,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 200111,
-				"name": "Magtembo",
-				"zone": 2133,
-				"coords": 41383744
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			200111
 		],
 		"class": 4
 	},
@@ -11024,14 +6293,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201029,
-				"name": "Viridian King",
-				"zone": 2133,
-				"coords": 39407061
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			201029
 		],
 		"class": 15
 	},
@@ -11047,14 +6313,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201029,
-				"name": "Viridian King",
-				"zone": 2133,
-				"coords": 39407061
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			201029
 		],
 		"class": 4
 	},
@@ -11068,14 +6331,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201029,
-				"name": "Viridian King",
-				"zone": 2133,
-				"coords": 39407061
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			201029
 		],
 		"class": 2
 	},
@@ -11088,14 +6348,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 201029,
-				"name": "Viridian King",
-				"zone": 2133,
-				"coords": 39407061
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			201029
 		],
 		"class": 4
 	},
@@ -11105,14 +6362,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203521,
-				"name": "Professor Gastrinax",
-				"zone": 2133,
-				"coords": 55841899
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203521
 		],
 		"class": 15
 	},
@@ -11128,14 +6382,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203521,
-				"name": "Professor Gastrinax",
-				"zone": 2133,
-				"coords": 55841899
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203521
 		],
 		"class": 4
 	},
@@ -11148,14 +6399,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203521,
-				"name": "Professor Gastrinax",
-				"zone": 2133,
-				"coords": 55841899
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203521
 		],
 		"class": 4
 	},
@@ -11165,14 +6413,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203643,
-				"name": "Skornak",
-				"zone": 2133,
-				"coords": 36425329
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203643
 		],
 		"class": 15
 	},
@@ -11187,14 +6432,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203643,
-				"name": "Skornak",
-				"zone": 2133,
-				"coords": 36425329
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203643
 		],
 		"class": 4
 	},
@@ -11210,14 +6452,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203643,
-				"name": "Skornak",
-				"zone": 2133,
-				"coords": 36425329
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203643
 		],
 		"class": 4
 	},
@@ -11227,14 +6466,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203627,
-				"name": "Invoq",
-				"zone": 2133,
-				"coords": 46103346
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203627
 		],
 		"class": 15
 	},
@@ -11248,14 +6484,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203627,
-				"name": "Invoq",
-				"zone": 2133,
-				"coords": 46103346
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203627
 		],
 		"class": 2
 	},
@@ -11270,14 +6503,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203627,
-				"name": "Invoq",
-				"zone": 2133,
-				"coords": 46103346
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203627
 		],
 		"class": 4
 	},
@@ -11290,14 +6520,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203627,
-				"name": "Invoq",
-				"zone": 2133,
-				"coords": 46103346
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203627
 		],
 		"class": 4
 	},
@@ -11307,14 +6534,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203627,
-				"name": "Invoq",
-				"zone": 2133,
-				"coords": 46103346
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203627
 		],
 		"class": 15
 	},
@@ -11324,14 +6548,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203662,
-				"name": "Subterrax",
-				"zone": 2133,
-				"coords": 37954642
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203662
 		],
 		"class": 15
 	},
@@ -11347,14 +6568,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203662,
-				"name": "Subterrax",
-				"zone": 2133,
-				"coords": 37954642
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203662
 		],
 		"class": 4
 	},
@@ -11370,14 +6588,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203662,
-				"name": "Subterrax",
-				"zone": 2133,
-				"coords": 37954642
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203662
 		],
 		"class": 4
 	},
@@ -11391,14 +6606,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203662,
-				"name": "Subterrax",
-				"zone": 2133,
-				"coords": 37954642
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203662
 		],
 		"class": 2
 	},
@@ -11408,14 +6620,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203480,
-				"name": "Spinmarrow",
-				"zone": 2133,
-				"coords": 53106421
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203480
 		],
 		"class": 15
 	},
@@ -11432,14 +6641,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203480,
-				"name": "Spinmarrow",
-				"zone": 2133,
-				"coords": 53106421
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203480
 		],
 		"class": 4
 	},
@@ -11455,14 +6661,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203480,
-				"name": "Spinmarrow",
-				"zone": 2133,
-				"coords": 53106421
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203480
 		],
 		"class": 4
 	},
@@ -11476,14 +6679,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203480,
-				"name": "Spinmarrow",
-				"zone": 2133,
-				"coords": 53106421
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203480
 		],
 		"class": 2
 	},
@@ -11499,14 +6699,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203618,
-				"name": "Klakatak",
-				"zone": 2133,
-				"coords": 53724114
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203618
 		],
 		"class": 4
 	},
@@ -11519,14 +6716,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203618,
-				"name": "Klakatak",
-				"zone": 2133,
-				"coords": 53724114
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203618
 		],
 		"class": 4
 	},
@@ -11536,14 +6730,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203618,
-				"name": "Klakatak",
-				"zone": 2133,
-				"coords": 53724114
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203618
 		],
 		"class": 15
 	},
@@ -11553,14 +6744,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203592,
-				"name": "General Zskorro",
-				"zone": 2133,
-				"coords": 42521879
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203592
 		],
 		"class": 15
 	},
@@ -11577,14 +6765,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203592,
-				"name": "General Zskorro",
-				"zone": 2133,
-				"coords": 42521879
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203592
 		],
 		"class": 4
 	},
@@ -11600,14 +6785,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203592,
-				"name": "General Zskorro",
-				"zone": 2133,
-				"coords": 42521879
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203592
 		],
 		"class": 4
 	},
@@ -11621,14 +6803,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203592,
-				"name": "General Zskorro",
-				"zone": 2133,
-				"coords": 42521879
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203592
 		],
 		"class": 2
 	},
@@ -11638,14 +6817,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203593,
-				"name": "Underlight Queen",
-				"zone": 2133,
-				"coords": 57786911
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203593
 		],
 		"class": 15
 	},
@@ -11661,14 +6837,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203593,
-				"name": "Underlight Queen",
-				"zone": 2133,
-				"coords": 57786911
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203593
 		],
 		"class": 4
 	},
@@ -11683,14 +6856,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203593,
-				"name": "Underlight Queen",
-				"zone": 2133,
-				"coords": 57786911
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203593
 		],
 		"class": 4
 	},
@@ -11706,14 +6876,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203593,
-				"name": "Underlight Queen",
-				"zone": 2133,
-				"coords": 57786911
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203593
 		],
 		"class": 4
 	},
@@ -11723,14 +6890,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203477,
-				"name": "Goopal",
-				"zone": 2133,
-				"coords": 68734593
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203477
 		],
 		"class": 15
 	},
@@ -11745,14 +6909,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203477,
-				"name": "Goopal",
-				"zone": 2133,
-				"coords": 68734593
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203477
 		],
 		"class": 4
 	},
@@ -11768,14 +6929,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203477,
-				"name": "Goopal",
-				"zone": 2133,
-				"coords": 68734593
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203477
 		],
 		"class": 4
 	},
@@ -11785,14 +6943,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203625,
-				"name": "Karokta",
-				"zone": 2133,
-				"coords": 42176584
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203625
 		],
 		"class": 15
 	},
@@ -11802,14 +6957,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203625,
-				"name": "Karokta",
-				"zone": 2133,
-				"coords": 42176584
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203625
 		],
 		"class": 15
 	},
@@ -11819,14 +6971,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203625,
-				"name": "Karokta",
-				"zone": 2133,
-				"coords": 42176584
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203625
 		],
 		"class": 15
 	},
@@ -11843,14 +6992,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203625,
-				"name": "Karokta",
-				"zone": 2133,
-				"coords": 42176584
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203625
 		],
 		"class": 4
 	},
@@ -11865,14 +7011,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203625,
-				"name": "Karokta",
-				"zone": 2133,
-				"coords": 42176584
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203625
 		],
 		"class": 4
 	},
@@ -11882,14 +7025,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203466,
-				"name": "Kapraku",
-				"zone": 2133,
-				"coords": 60293933
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203466
 		],
 		"class": 15
 	},
@@ -11905,14 +7045,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203466,
-				"name": "Kapraku",
-				"zone": 2133,
-				"coords": 60293933
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203466
 		],
 		"class": 4
 	},
@@ -11928,14 +7065,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203466,
-				"name": "Kapraku",
-				"zone": 2133,
-				"coords": 60293933
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203466
 		],
 		"class": 4
 	},
@@ -11945,14 +7079,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203466,
-				"name": "Kapraku",
-				"zone": 2133,
-				"coords": 60293933
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203466
 		],
 		"class": 15
 	},
@@ -11962,14 +7093,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"npc": [],
-		"source": [
-			{
-				"npc": 203466,
-				"name": "Kapraku",
-				"zone": 2133,
-				"coords": 60293933
-			}
+		"zone": [
+			2133
+		],
+		"npc": [
+			203466
 		],
 		"class": 15
 	},
@@ -11982,14 +7110,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210045,
-				"name": "Moragh the Slothful",
-				"zone": 2200,
-				"coords": 40457263
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210045
 		],
 		"class": 4
 	},
@@ -12002,14 +7127,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210045,
-				"name": "Moragh the Slothful",
-				"zone": 2200,
-				"coords": 40457263
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210045
 		],
 		"class": 4
 	},
@@ -12025,14 +7147,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209620,
-				"name": "Ignit the Firebranded",
-				"zone": 2200,
-				"coords": 58405120
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209620
 		],
 		"class": 4
 	},
@@ -12048,14 +7167,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209620,
-				"name": "Ignit the Firebranded",
-				"zone": 2200,
-				"coords": 58405120
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209620
 		],
 		"class": 4
 	},
@@ -12069,14 +7185,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209620,
-				"name": "Ignit the Firebranded",
-				"zone": 2200,
-				"coords": 58405120
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209620
 		],
 		"class": 2
 	},
@@ -12089,14 +7202,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209936,
-				"name": "Greedy Gessie",
-				"zone": 2200,
-				"coords": 53804040
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209936
 		],
 		"class": 4
 	},
@@ -12112,20 +7222,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209913,
-				"name": "Fruitface",
-				"zone": 2200,
-				"coords": 63407160
-			},
-			{
-				"npc": 209913,
-				"name": "Fruitface",
-				"zone": 2200,
-				"coords": 54173749
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209913
 		],
 		"class": 4
 	},
@@ -12141,20 +7242,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209913,
-				"name": "Fruitface",
-				"zone": 2200,
-				"coords": 63407160
-			},
-			{
-				"npc": 209913,
-				"name": "Fruitface",
-				"zone": 2200,
-				"coords": 54173749
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209913
 		],
 		"class": 4
 	},
@@ -12168,20 +7260,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209913,
-				"name": "Fruitface",
-				"zone": 2200,
-				"coords": 63407160
-			},
-			{
-				"npc": 209913,
-				"name": "Fruitface",
-				"zone": 2200,
-				"coords": 54173749
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209913
 		],
 		"class": 2
 	},
@@ -12196,14 +7279,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210064,
-				"name": "Molten Leadspike",
-				"zone": 2200,
-				"coords": 63803620
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210064
 		],
 		"class": 4
 	},
@@ -12219,14 +7299,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210064,
-				"name": "Molten Leadspike",
-				"zone": 2200,
-				"coords": 63803620
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210064
 		],
 		"class": 4
 	},
@@ -12240,14 +7317,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209113,
-				"name": "Nuoberon",
-				"zone": 2200,
-				"coords": 62007140
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209113
 		],
 		"class": 2
 	},
@@ -12258,14 +7332,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209113,
-				"name": "Nuoberon",
-				"zone": 2200,
-				"coords": 62007140
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209113
 		],
 		"class": 4
 	},
@@ -12275,14 +7346,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 11,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210051,
-				"name": "Matriarch Keevah",
-				"zone": 2200,
-				"coords": 41207320
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210051
 		],
 		"class": 16
 	},
@@ -12296,14 +7364,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210050,
-				"name": "Bloodstripe Great Ray",
-				"zone": 2200,
-				"coords": 51203180
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210050
 		],
 		"class": 2
 	},
@@ -12314,14 +7379,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210161,
-				"name": "Ristar the Rabid",
-				"zone": 2200,
-				"coords": 44403920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210161
 		],
 		"class": 4
 	},
@@ -12337,14 +7399,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210161,
-				"name": "Ristar the Rabid",
-				"zone": 2200,
-				"coords": 44403920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210161
 		],
 		"class": 4
 	},
@@ -12358,14 +7417,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210161,
-				"name": "Ristar the Rabid",
-				"zone": 2200,
-				"coords": 44403920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210161
 		],
 		"class": 4
 	},
@@ -12375,14 +7431,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 11,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210161,
-				"name": "Ristar the Rabid",
-				"zone": 2200,
-				"coords": 44403920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210161
 		],
 		"class": 16
 	},
@@ -12397,14 +7450,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209911,
-				"name": "The Apostle",
-				"zone": 2200,
-				"coords": 26002660
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209911
 		],
 		"class": 4
 	},
@@ -12418,14 +7468,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209911,
-				"name": "The Apostle",
-				"zone": 2200,
-				"coords": 26002660
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209911
 		],
 		"class": 2
 	},
@@ -12439,14 +7486,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210047,
-				"name": "Somnambulant Ori",
-				"zone": 2200,
-				"coords": 43404700
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210047
 		],
 		"class": 2
 	},
@@ -12457,14 +7501,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"hastertng": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210047,
-				"name": "Somnambulant Ori",
-				"zone": 2200,
-				"coords": 43404700
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210047
 		],
 		"class": 4
 	},
@@ -12478,14 +7519,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210070,
-				"name": "Mosa Umbramane",
-				"zone": 2200,
-				"coords": 54803680
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210070
 		],
 		"class": 2
 	},
@@ -12495,14 +7533,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 11,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210070,
-				"name": "Mosa Umbramane",
-				"zone": 2200,
-				"coords": 54803680
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210070
 		],
 		"class": 16
 	},
@@ -12515,14 +7550,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210508,
-				"name": "Voracious Mikanji",
-				"zone": 2200,
-				"coords": 38406200
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210508
 		],
 		"class": 4
 	},
@@ -12538,14 +7570,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210046,
-				"name": "Keen-eyed Cian",
-				"zone": 2200,
-				"coords": 40304920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210046
 		],
 		"class": 4
 	},
@@ -12561,14 +7590,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210046,
-				"name": "Keen-eyed Cian",
-				"zone": 2200,
-				"coords": 40304920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210046
 		],
 		"class": 4
 	},
@@ -12582,14 +7608,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210046,
-				"name": "Keen-eyed Cian",
-				"zone": 2200,
-				"coords": 40304920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210046
 		],
 		"class": 2
 	},
@@ -12599,14 +7622,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 11,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210046,
-				"name": "Keen-eyed Cian",
-				"zone": 2200,
-				"coords": 40304920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210046
 		],
 		"class": 16
 	},
@@ -12622,14 +7642,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209898,
-				"name": "Reefbreaker Moruud",
-				"zone": 2200,
-				"coords": 64208400
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209898
 		],
 		"class": 4
 	},
@@ -12644,14 +7661,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209365,
-				"name": "Splinterlimb",
-				"zone": 2200,
-				"coords": 61805180
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209365
 		],
 		"class": 4
 	},
@@ -12665,14 +7679,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209365,
-				"name": "Splinterlimb",
-				"zone": 2200,
-				"coords": 61805180
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209365
 		],
 		"class": 2
 	},
@@ -12688,14 +7699,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209919,
-				"name": "Isaqa",
-				"zone": 2200,
-				"coords": 37603180
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209919
 		],
 		"class": 4
 	},
@@ -12711,14 +7719,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209919,
-				"name": "Isaqa",
-				"zone": 2200,
-				"coords": 37603180
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209919
 		],
 		"class": 4
 	},
@@ -12732,14 +7737,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209919,
-				"name": "Isaqa",
-				"zone": 2200,
-				"coords": 37603180
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209919
 		],
 		"class": 2
 	},
@@ -12755,14 +7757,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209909,
-				"name": "Crabtankerous",
-				"zone": 2200,
-				"coords": 66006280
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209909
 		],
 		"class": 4
 	},
@@ -12778,14 +7777,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209909,
-				"name": "Crabtankerous",
-				"zone": 2200,
-				"coords": 66006280
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209909
 		],
 		"class": 4
 	},
@@ -12801,14 +7797,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209909,
-				"name": "Crabtankerous",
-				"zone": 2200,
-				"coords": 66006280
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209909
 		],
 		"class": 4
 	},
@@ -12825,14 +7818,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210075,
-				"name": "Henri Snufftail",
-				"zone": 2200,
-				"coords": 47403030
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210075
 		],
 		"class": 4
 	},
@@ -12848,14 +7838,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210111,
-				"name": "Surging Lasher",
-				"zone": 2200,
-				"coords": 43603100
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210111
 		],
 		"class": 4
 	},
@@ -12870,14 +7857,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210111,
-				"name": "Surging Lasher",
-				"zone": 2200,
-				"coords": 43603100
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210111
 		],
 		"class": 4
 	},
@@ -12891,14 +7875,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210111,
-				"name": "Surging Lasher",
-				"zone": 2200,
-				"coords": 43603100
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210111
 		],
 		"class": 2
 	},
@@ -12908,14 +7889,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210111,
-				"name": "Surging Lasher",
-				"zone": 2200,
-				"coords": 43603100
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210111
 		],
 		"class": 15
 	},
@@ -12925,14 +7903,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"npc": [],
-		"source": [
-			{
-				"npc": 208658,
-				"name": "Moltenbinder's Disciple",
-				"zone": 2200,
-				"coords": 46201920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			208658
 		],
 		"class": 15
 	},
@@ -12945,14 +7920,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 208658,
-				"name": "Moltenbinder's Disciple",
-				"zone": 2200,
-				"coords": 46201920
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			208658
 		],
 		"class": 4
 	},
@@ -12968,14 +7940,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209902,
-				"name": "Talthonei Ashwhisper",
-				"zone": 2200,
-				"coords": 35102260
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209902
 		],
 		"class": 4
 	},
@@ -12989,14 +7958,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209902,
-				"name": "Talthonei Ashwhisper",
-				"zone": 2200,
-				"coords": 35102260
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209902
 		],
 		"class": 2
 	},
@@ -13012,14 +7978,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209929,
-				"name": "Envoy of Winter",
-				"zone": 2200,
-				"coords": 34806320
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209929
 		],
 		"class": 4
 	},
@@ -13035,14 +7998,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209929,
-				"name": "Envoy of Winter",
-				"zone": 2200,
-				"coords": 34806320
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209929
 		],
 		"class": 4
 	},
@@ -13057,14 +8017,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209929,
-				"name": "Envoy of Winter",
-				"zone": 2200,
-				"coords": 34806320
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209929
 		],
 		"class": 4
 	},
@@ -13078,14 +8035,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209929,
-				"name": "Envoy of Winter",
-				"zone": 2200,
-				"coords": 34806320
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209929
 		],
 		"class": 2
 	},
@@ -13101,14 +8055,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209893,
-				"name": "Firebrand Fystia",
-				"zone": 2200,
-				"coords": 30002120
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209893
 		],
 		"class": 4
 	},
@@ -13122,14 +8073,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209893,
-				"name": "Firebrand Fystia",
-				"zone": 2200,
-				"coords": 30002120
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209893
 		],
 		"class": 2
 	},
@@ -13145,14 +8093,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13168,14 +8113,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13191,14 +8133,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13214,14 +8153,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13237,14 +8173,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13260,14 +8193,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13282,14 +8212,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13304,14 +8231,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13324,14 +8248,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13341,14 +8262,11 @@ export const data = [
 		"quality": 4,
 		"slot": 1,
 		"subclass": 5,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209574,
-				"name": "Aurostor",
-				"zone": 2200,
-				"coords": 39405340
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209574
 		],
 		"class": 4
 	},
@@ -13365,14 +8283,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 210559,
-				"name": "Balboan",
-				"zone": 2200,
-				"coords": 22903240
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			210559
 		],
 		"class": 4
 	},
@@ -13385,14 +8300,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"npc": [],
-		"source": [
-			{
-				"npc": 209912,
-				"name": "Raszageth's Last Breath",
-				"zone": 2200,
-				"coords": 39805120
-			}
+		"zone": [
+			2200
+		],
+		"npc": [
+			209912
 		],
 		"class": 4
 	}

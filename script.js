@@ -1,9 +1,13 @@
 import { filters } from "./data/filters.js";
 import { expansions } from "./data/expansions.js";
-import { data as bfa_items } from "./data/bfa_items.js";
+
 import { data as df_items } from "./data/df_items.js";
-//import { data as bfa_rares } from "./data/bfa_rares.js";
-//import { data as df_rares } from "./data/df_rares.js";
+import { data as bfa_items } from "./data/bfa_items.js";
+import { data as wod_items } from "./data/wod_items.js";
+
+import { data as df_rares } from "./data/df_rares.js";
+import { data as bfa_rares } from "./data/bfa_rares.js";
+import { data as wod_rares } from "./data/wod_rares.js";
 
 function pre_filter_items(items) {
 	// Only include armour and weapons
@@ -11,7 +15,7 @@ function pre_filter_items(items) {
 }
 
 var all_items = [];
-//var all_rares = [];
+var all_rares = [], filtered_rares = [];
 
 // Temporary
 //all_items.forEach(item => {
@@ -47,7 +51,7 @@ function update_filters() {
 			})
 
 			all_items = pre_filter_items(eval(filter.data + "_items"));
-			//all_rares = eval(filter.data + "_rares");
+			all_rares = eval(filter.data + "_rares");
 
 			// Only one expansion selected at a time
 			return;
@@ -93,7 +97,7 @@ function update_zones() {
 			})
 
 			all_items = pre_filter_items(eval(filter.data + "_items"));
-			//all_rares = eval(filter.data + "_rares");
+			all_rares = eval(filter.data + "_rares");
 
 			// Only one expansion selected at a time
 			return;
@@ -150,7 +154,7 @@ function create_filters() {
 
 	filters.forEach(category => {
 		var option_index = 0;
-		var heading = document.createElement("h4");
+		var heading = document.createElement("h3");
 		heading.textContent = category.category_name;
 		options.appendChild(heading);
 		
@@ -214,11 +218,10 @@ function apply_filters(items) {
 
 	// Filter items for zones
 	items.forEach(item => {
-		/*
 		if(item.zone.some(zone => zones.includes(zone))) {
 			filtered_items.push(item);
 		}
-		*/
+		/*
 		var  include = false;
 		item.source.forEach(source => {
 			if(zones.includes(source.zone)) {
@@ -232,9 +235,8 @@ function apply_filters(items) {
 		if(include) {
 			filtered_items.push(item);
 		}
+		*/
 	})
-
-	// Filter rares for zones
 
 	filters.forEach((category) => {
 		if(category.category_id == "expansion" || category.category_id == "zone") {
@@ -260,6 +262,9 @@ function apply_filters(items) {
 			});
 		});
 	});
+
+	// Filter rares for zone
+	filtered_rares = all_rares.filter((rare) => zones.includes(rare.zone));
 
 	return filtered_items;
 }
@@ -289,6 +294,7 @@ function update_table() {
 		cell = row.insertCell();
 		cell.appendChild(anchor);
 
+		/*
 		// Class
 		cell = row.insertCell();
 		cell.textContent = item.class;
@@ -296,10 +302,7 @@ function update_table() {
 		// Subclass
 		cell = row.insertCell();
 		cell.textContent = item.subclass;
-
-		// Slot
-		cell = row.insertCell();
-		cell.textContent = item.slot;
+		*/
 
 		// Armor
 		cell = row.insertCell();
@@ -354,41 +357,43 @@ function update_table() {
 		if(item.versatility) {
 			cell.textContent = "Yes";
 		}
-
+		/*
 		// Zone
 		cell = row.insertCell();
-		//cell.textContent = item.zone;
+		cell.textContent = item.zone;
 
 		// NPC
 		cell = row.insertCell();
 		cell.textContent = item.npc;
+		*/
 	});
-
-	WH.Tooltips.refreshLinks();
 
 	// Create TomTom waypoints
 
 	// Get unique list of NPCs
-	/*
+	var waypoints = "";
 	var npcs = [];
 	filtered_items.forEach(item => {
 		item.npc.forEach(npc_id => {
 			if(!npcs.includes(npc_id)) {
 				npcs.push(npc_id);
 
-				var npc = all_rares.find(npc => npc.npc == npc_id);
+				var npc = filtered_rares.find(npc => npc.npc == npc_id);
 
 				if(npc != undefined && npc.coords != undefined) {
-					var tt = "/way " + "#" + npc.zone + " ";
+					waypoints += "/way " + "#" + npc.zone + " ";
 					var coords = npc.coords.toString();
-					tt += coords.substring(0, 2) + "." + coords.substring(2, 4) + " "
-					tt += coords.substring(4, 6) + "." + coords.substring(6, 8) + " " + npc.name
-					console.log(tt);
+					waypoints += coords.substring(0, 2) + "." + coords.substring(2, 4) + " ";
+					waypoints += coords.substring(4, 6) + "." + coords.substring(6, 8) + " " + npc.name;
+					waypoints += "\n";
 				}
 			}
 		})
 	})
-	*/
+
+	document.getElementById("waypoints").value = waypoints;
+
+	WH.Tooltips.refreshLinks();
 }
 
 function onClick(event) {

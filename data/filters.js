@@ -10,7 +10,7 @@ export var filters = [
 					"default": true,
 					"data": "df",
 					"criteria":
-						{ "expansion": "dragonflight" }
+						{ "expansion": "df" }
 				},
 				/*
 				{
@@ -23,15 +23,14 @@ export var filters = [
 					"filter_name": "Battle for Azeroth",
 					"data": "bfa",
 					"criteria":
-						{ "expansion": "battleforazeroth" }
+						{ "expansion": "bfa" }
 				},
-				/*
 				{
 					"filter_name": "Warlords of Draenor",
+					"data": "wod",
 					"criteria":
-						{ "expansion": "warlordsofdraenor" }
+						{ "expansion": "wod" }
 				}
-				*/
 			]
 	},
 	{
@@ -298,7 +297,7 @@ export var filters = [
 			]
 	},
 	{
-		"category_name": "Weapon",
+		"category_name": "Weapon type",
 		"category_id": "weapon",
 		"filter_type": "multiple",
 		"category_filters":
@@ -472,4 +471,34 @@ export var filters = [
 				},
 			]
 	},
+	{
+		"category_name": "Item quality",
+		"category_id": "quality",
+		"filter_type": "multiple",
+		"category_filters":
+			[
+				{
+					"filter_name": "Common",
+					"criteria":
+					{
+						"quality": 2,
+					}
+				},
+				{
+					"filter_name": "Rare",
+					"default": true,
+					"criteria":
+					{
+						"quality": 3,
+					}
+				},
+				{
+					"filter_name": "Epic",
+					"criteria":
+					{
+						"quality": 4,
+					}
+				},
+			]
+		},
 ];

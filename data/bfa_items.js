@@ -8,13 +8,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 141175,
-				"name": "Song Mistress Dadalea",
-				"zone": 942,
-				"coords": 70803240
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141175
 		],
 		"class": 4
 	},
@@ -28,13 +26,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 127877,
-				"name": "Longfang",
-				"zone": 896,
-				"coords": 59205540
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			127877
 		],
 		"class": 2
 	},
@@ -48,13 +44,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139135,
-				"name": "Squirgle of the Depths",
-				"zone": 895,
-				"coords": 48803700
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139135
 		],
 		"class": 2
 	},
@@ -67,13 +61,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -88,13 +80,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -110,13 +100,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -132,13 +120,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -154,13 +140,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -174,13 +158,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -196,13 +178,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -215,13 +195,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -232,13 +210,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"source": [
-			{
-				"npc": 140163,
-				"name": "Warbringer Yenajz",
-				"zone": 942,
-				"coords": 83004920
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140163
 		],
 		"class": 4
 	},
@@ -248,13 +224,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 150394,
-				"name": "Armored Vaultbot",
-				"zone": 1462,
-				"coords": 53004940
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			150394
 		],
 		"class": 15
 	},
@@ -264,13 +238,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150394,
-				"name": "Armored Vaultbot",
-				"zone": 1462,
-				"coords": 53004940
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			150394
 		],
 		"class": 12
 	},
@@ -280,13 +252,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150394,
-				"name": "Armored Vaultbot",
-				"zone": 1462,
-				"coords": 53004940
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			150394
 		],
 		"class": 12
 	},
@@ -302,13 +272,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 131984,
-				"name": "Twin-hearted Construct",
-				"zone": 895,
-				"coords": 70201260
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			131984
 		],
 		"class": 4
 	},
@@ -318,19 +286,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 154495,
-				"name": "Will of N'Zoth",
-				"zone": 1530,
-				"coords": 52406140
-			},
-			{
-				"npc": 158633,
-				"name": "Gaze of N'Zoth",
-				"zone": 1527,
-				"coords": 53205020
-			}
+		"zone": [
+			1530,
+			1527
+		],
+		"npc": [
+			154495,
+			158633
 		],
 		"class": 15
 	},
@@ -340,13 +302,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 1,
-		"source": [
-			{
-				"npc": 154495,
-				"name": "Will of N'Zoth",
-				"zone": 1530,
-				"coords": 52406140
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154495
 		],
 		"class": 15
 	},
@@ -356,13 +316,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 154495,
-				"name": "Will of N'Zoth",
-				"zone": 1530,
-				"coords": 52406140
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154495
 		],
 		"class": 15
 	},
@@ -376,13 +334,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139152,
-				"name": "Carla Smirk",
-				"zone": 895,
-				"coords": 72408100
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139152
 		],
 		"class": 2
 	},
@@ -392,13 +348,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 149383,
-				"name": "Xizz Gutshank",
-				"zone": 863,
-				"coords": 50401720
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			149383
 		],
 		"class": 15
 	},
@@ -414,13 +368,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 127901,
-				"name": "Henry Breakwater",
-				"zone": 896,
-				"coords": 59205540
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			127901
 		],
 		"class": 4
 	},
@@ -433,13 +385,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129950,
-				"name": "Talon",
-				"zone": 896,
-				"coords": 31804100
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			129950
 		],
 		"class": 4
 	},
@@ -455,13 +405,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 129954,
-				"name": "Gahz'ralka",
-				"zone": 862,
-				"coords": 64003300
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			129954
 		],
 		"class": 4
 	},
@@ -474,13 +422,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134048,
-				"name": "Vukuba",
-				"zone": 862,
-				"coords": 62004620
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			134048
 		],
 		"class": 4
 	},
@@ -495,13 +441,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 153486,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005623
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153486
 		],
 		"class": 4
 	},
@@ -511,55 +455,18 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153486,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005623
-			},
-			{
-				"npc": 152570,
-				"name": "Crazed Trogg",
-				"zone": 1462,
-				"coords": 81402140
-			},
-			{
-				"npc": 152923,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005641
-			},
-			{
-				"npc": 152958,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015641
-			},
-			{
-				"npc": 152961,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63025640
-			},
-			{
-				"npc": 152979,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005622
-			},
-			{
-				"npc": 152983,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 62825642
-			},
-			{
-				"npc": 152922,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015640
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153486,
+			152570,
+			152923,
+			152958,
+			152961,
+			152979,
+			152983,
+			152922
 		],
 		"class": 12
 	},
@@ -569,49 +476,17 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153486,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005623
-			},
-			{
-				"npc": 152923,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005641
-			},
-			{
-				"npc": 152958,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015641
-			},
-			{
-				"npc": 152961,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63025640
-			},
-			{
-				"npc": 152979,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005622
-			},
-			{
-				"npc": 152983,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 62825642
-			},
-			{
-				"npc": 152922,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015640
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153486,
+			152923,
+			152958,
+			152961,
+			152979,
+			152983,
+			152922
 		],
 		"class": 12
 	},
@@ -621,49 +496,17 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153486,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005623
-			},
-			{
-				"npc": 152923,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005641
-			},
-			{
-				"npc": 152958,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015641
-			},
-			{
-				"npc": 152961,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63025640
-			},
-			{
-				"npc": 152979,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005622
-			},
-			{
-				"npc": 152983,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 62825642
-			},
-			{
-				"npc": 152922,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015640
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153486,
+			152923,
+			152958,
+			152961,
+			152979,
+			152983,
+			152922
 		],
 		"class": 12
 	},
@@ -674,13 +517,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"source": [
-			{
-				"npc": 128935,
-				"name": "Mala'kili",
-				"zone": 863,
-				"coords": 52405340
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128935
 		],
 		"class": 4
 	},
@@ -690,13 +531,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152465,
-				"name": "Needlespine",
-				"zone": 1355,
-				"coords": 39402740
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152465
 		],
 		"class": 15
 	},
@@ -712,13 +551,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 129961,
-				"name": "Atal'zul Gotaka",
-				"zone": 862,
-				"coords": 80802140
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			129961
 		],
 		"class": 4
 	},
@@ -728,13 +565,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 157593,
-				"name": "Amalgamation of Flesh",
-				"zone": 1527,
-				"coords": 59807240
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			157593
 		],
 		"class": 15
 	},
@@ -748,13 +583,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 141226,
-				"name": "Haegol the Hammer",
-				"zone": 942,
-				"coords": 33607500
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141226
 		],
 		"class": 4
 	},
@@ -769,13 +602,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 128951,
-				"name": "Nez'ara",
-				"zone": 864,
-				"coords": 43808640
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			128951
 		],
 		"class": 4
 	},
@@ -789,13 +620,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 126907,
-				"name": "Wardrummer Zurula",
-				"zone": 863,
-				"coords": 49005080
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126907
 		],
 		"class": 2
 	},
@@ -811,13 +640,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 127939,
-				"name": "Torraske the Eternal",
-				"zone": 862,
-				"coords": 46406520
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			127939
 		],
 		"class": 4
 	},
@@ -833,13 +660,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 141239,
-				"name": "Osca the Bloodied",
-				"zone": 942,
-				"coords": 41806240
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141239
 		],
 		"class": 4
 	},
@@ -855,13 +680,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 128965,
-				"name": "Uroku the Bound",
-				"zone": 863,
-				"coords": 44004840
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128965
 		],
 		"class": 4
 	},
@@ -871,13 +694,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 158636,
-				"name": "The Grand Executor",
-				"zone": 1527,
-				"coords": 49208260
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			158636
 		],
 		"class": 0
 	},
@@ -893,13 +714,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 126926,
-				"name": "Venomjaw",
-				"zone": 863,
-				"coords": 29205040
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126926
 		],
 		"class": 4
 	},
@@ -913,13 +732,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 128973,
-				"name": "Whargarble the Ill-Tempered",
-				"zone": 896,
-				"coords": 64802140
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			128973
 		],
 		"class": 2
 	},
@@ -933,13 +750,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 128974,
-				"name": "Queen Tzxi'kik",
-				"zone": 863,
-				"coords": 57406780
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128974
 		],
 		"class": 2
 	},
@@ -953,13 +768,11 @@ export const data = [
 		"critstrkrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139205,
-				"name": "P4-N73R4",
-				"zone": 895,
-				"coords": 65206460
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139205
 		],
 		"class": 2
 	},
@@ -973,13 +786,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132052,
-				"name": "Vol'Jim",
-				"zone": 895,
-				"coords": 51003200
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132052
 		],
 		"class": 2
 	},
@@ -989,13 +800,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 150468,
-				"name": "Vor'koth",
-				"zone": 1355,
-				"coords": 48202420
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150468
 		],
 		"class": 15
 	},
@@ -1005,13 +814,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150468,
-				"name": "Vor'koth",
-				"zone": 1355,
-				"coords": 48202420
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150468
 		],
 		"class": 12
 	},
@@ -1021,13 +828,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150468,
-				"name": "Vor'koth",
-				"zone": 1355,
-				"coords": 48202420
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150468
 		],
 		"class": 9
 	},
@@ -1037,13 +842,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150468,
-				"name": "Vor'koth",
-				"zone": 1355,
-				"coords": 48202420
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150468
 		],
 		"class": 9
 	},
@@ -1057,13 +860,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 134106,
-				"name": "Lumbergrasp Sentinel",
-				"zone": 895,
-				"coords": 67401960
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			134106
 		],
 		"class": 2
 	},
@@ -1079,13 +880,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132068,
-				"name": "Bashmu",
-				"zone": 895,
-				"coords": 34203060
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132068
 		],
 		"class": 4
 	},
@@ -1100,13 +899,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139233,
-				"name": "Gulliver",
-				"zone": 895,
-				"coords": 57405580
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139233
 		],
 		"class": 4
 	},
@@ -1122,13 +919,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129005,
-				"name": "King Kooba",
-				"zone": 863,
-				"coords": 53204280
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			129005
 		],
 		"class": 4
 	},
@@ -1138,13 +933,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 162765,
-				"name": "Friendly Alpaca",
-				"zone": 1527,
-				"coords": 15006200
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			162765
 		],
 		"class": 15
 	},
@@ -1154,13 +947,11 @@ export const data = [
 		"quality": 3,
 		"slot": 18,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 132076,
-				"name": "Totes",
-				"zone": 895,
-				"coords": 46402020
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132076
 		],
 		"class": 1
 	},
@@ -1170,13 +961,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 141286,
-				"name": "Poacher Zane",
-				"zone": 942,
-				"coords": 34406740
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141286
 		],
 		"class": 15
 	},
@@ -1186,25 +975,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152542,
-				"name": "Scale Matriarch Zodia",
-				"zone": 1355,
-				"coords": 28704630
-			},
-			{
-				"npc": 152545,
-				"name": "Scale Matriarch Vynara",
-				"zone": 1355,
-				"coords": 27403700
-			},
-			{
-				"npc": 152548,
-				"name": "Scale Matriarch Gratinax",
-				"zone": 1355,
-				"coords": 35004160
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152542,
+			152545,
+			152548
 		],
 		"class": 15
 	},
@@ -1214,13 +991,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 132086,
-				"name": "Black-Eyed Bart",
-				"zone": 895,
-				"coords": 56407000
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132086
 		],
 		"class": 15
 	},
@@ -1234,13 +1009,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132086,
-				"name": "Black-Eyed Bart",
-				"zone": 895,
-				"coords": 56407000
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132086
 		],
 		"class": 2
 	},
@@ -1254,13 +1027,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132088,
-				"name": "Captain Wintersail",
-				"zone": 895,
-				"coords": 38402080
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132088
 		],
 		"class": 2
 	},
@@ -1270,19 +1041,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 147435,
-				"name": "Thelar Moonstrike",
-				"zone": 62,
-				"coords": 62001640
-			},
-			{
-				"npc": 147845,
-				"name": "Commander Drald",
-				"zone": 62,
-				"coords": 46408600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147435,
+			147845
 		],
 		"class": 15
 	},
@@ -1295,13 +1059,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136183,
-				"name": "Crushtacean",
-				"zone": 942,
-				"coords": 51405540
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			136183
 		],
 		"class": 4
 	},
@@ -1311,13 +1073,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152555,
-				"name": "Elderspawn Nalaada",
-				"zone": 1355,
-				"coords": 51407520
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152555
 		],
 		"class": 15
 	},
@@ -1331,13 +1091,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 129027,
-				"name": "Golanar",
-				"zone": 864,
-				"coords": 57000620
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			129027
 		],
 		"class": 2
 	},
@@ -1352,13 +1110,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136189,
-				"name": "The Lichen King",
-				"zone": 942,
-				"coords": 51807940
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			136189
 		],
 		"class": 0
 	},
@@ -1374,13 +1130,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136189,
-				"name": "The Lichen King",
-				"zone": 942,
-				"coords": 51807940
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			136189
 		],
 		"class": 4
 	},
@@ -1390,13 +1144,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 154604,
-				"name": "Lord Aj'qirai",
-				"zone": 1527,
-				"coords": 34401840
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			154604
 		],
 		"class": 15
 	},
@@ -1411,13 +1163,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134147,
-				"name": "Beehemoth",
-				"zone": 942,
-				"coords": 66207440
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			134147
 		],
 		"class": 4
 	},
@@ -1427,13 +1177,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 156655,
-				"name": "Korzaran the Slaughterer",
-				"zone": 1527,
-				"coords": 70407440
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			156655
 		],
 		"class": 15
 	},
@@ -1443,31 +1191,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 152566,
-				"name": "Anemonar",
-				"zone": 1355,
-				"coords": 58405240
-			},
-			{
-				"npc": 152567,
-				"name": "Kelpwillow",
-				"zone": 1355,
-				"coords": 49406940
-			},
-			{
-				"npc": 152568,
-				"name": "Urduu",
-				"zone": 1355,
-				"coords": 31402940
-			},
-			{
-				"npc": 152397,
-				"name": "Oronu",
-				"zone": 1355,
-				"coords": 77402440
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152566,
+			152567,
+			152568,
+			152397
 		],
 		"class": 12
 	},
@@ -1477,13 +1208,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 152570,
-				"name": "Crazed Trogg",
-				"zone": 1462,
-				"coords": 81402140
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152570
 		],
 		"class": 12
 	},
@@ -1493,13 +1222,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 152570,
-				"name": "Crazed Trogg",
-				"zone": 1462,
-				"coords": 81402140
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152570
 		],
 		"class": 12
 	},
@@ -1509,19 +1236,12 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 152570,
-				"name": "Crazed Trogg",
-				"zone": 1462,
-				"coords": 81402140
-			},
-			{
-				"npc": 151884,
-				"name": "Fungarian Furor",
-				"zone": 1462,
-				"coords": 48704760
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152570,
+			151884
 		],
 		"class": 12
 	},
@@ -1531,13 +1251,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 152570,
-				"name": "Crazed Trogg",
-				"zone": 1462,
-				"coords": 81402140
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152570
 		],
 		"class": 12
 	},
@@ -1550,13 +1268,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 127001,
-				"name": "Gwugnug the Cursed",
-				"zone": 863,
-				"coords": 33408700
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			127001
 		],
 		"class": 4
 	},
@@ -1572,13 +1288,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139278,
-				"name": "Ranja",
-				"zone": 895,
-				"coords": 68206340
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139278
 		],
 		"class": 4
 	},
@@ -1594,13 +1308,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139280,
-				"name": "Sythian the Swift",
-				"zone": 895,
-				"coords": 65401300
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139280
 		],
 		"class": 4
 	},
@@ -1614,13 +1326,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139285,
-				"name": "Shiverscale the Toxic",
-				"zone": 895,
-				"coords": 55003240
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139285
 		],
 		"class": 2
 	},
@@ -1634,13 +1344,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 130079,
-				"name": "Wagga Snarltusk",
-				"zone": 942,
-				"coords": 42407500
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			130079
 		],
 		"class": 4
 	},
@@ -1654,13 +1362,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139287,
-				"name": "Sawtooth",
-				"zone": 1161,
-				"coords": 75403740
-			}
+		"zone": [
+			1161
+		],
+		"npc": [
+			139287
 		],
 		"class": 2
 	},
@@ -1675,13 +1381,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132127,
-				"name": "Foxhollow Skyterror",
-				"zone": 895,
-				"coords": 60002260
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132127
 		],
 		"class": 4
 	},
@@ -1695,13 +1399,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139289,
-				"name": "Tentulos the Drifter",
-				"zone": 895,
-				"coords": 55205140
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139289
 		],
 		"class": 4
 	},
@@ -1715,13 +1417,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 139290,
-				"name": "Maison the Portable",
-				"zone": 895,
-				"coords": 58205020
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139290
 		],
 		"class": 4
 	},
@@ -1736,13 +1436,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 133155,
-				"name": "G'Naat",
-				"zone": 862,
-				"coords": 80003600
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			133155
 		],
 		"class": 4
 	},
@@ -1756,13 +1454,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139298,
-				"name": "Pinku'shon",
-				"zone": 942,
-				"coords": 38205100
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139298
 		],
 		"class": 2
 	},
@@ -1778,13 +1474,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 133163,
-				"name": "Tia'Kawan",
-				"zone": 862,
-				"coords": 63602380
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			133163
 		],
 		"class": 4
 	},
@@ -1798,13 +1492,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 120899,
-				"name": "Kul'krazahn",
-				"zone": 1165,
-				"coords": 55008200
-			}
+		"zone": [
+			1165
+		],
+		"npc": [
+			120899
 		],
 		"class": 2
 	},
@@ -1817,13 +1509,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 139319,
-				"name": "Slickspill",
-				"zone": 942,
-				"coords": 41602860
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139319
 		],
 		"class": 4
 	},
@@ -1837,13 +1527,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139321,
-				"name": "Braedan Whitewall",
-				"zone": 896,
-				"coords": 27405960
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			139321
 		],
 		"class": 2
 	},
@@ -1857,13 +1545,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 133190,
-				"name": "Daggerjaw",
-				"zone": 862,
-				"coords": 74203940
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			133190
 		],
 		"class": 2
 	},
@@ -1873,13 +1559,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 150583,
-				"name": "Rockweed Shambler",
-				"zone": 1355,
-				"coords": 48204240
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150583
 		],
 		"class": 15
 	},
@@ -1892,13 +1576,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132179,
-				"name": "Raging Swell",
-				"zone": 895,
-				"coords": 64405840
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132179
 		],
 		"class": 4
 	},
@@ -1913,13 +1595,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 130138,
-				"name": "Nevermore",
-				"zone": 896,
-				"coords": 60004540
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			130138
 		],
 		"class": 4
 	},
@@ -1929,25 +1609,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 151623,
-				"name": "The Scrap King",
-				"zone": 1462,
-				"coords": 71404920
-			},
-			{
-				"npc": 151625,
-				"name": "The Scrap King",
-				"zone": 1462,
-				"coords": 71004840
-			},
-			{
-				"npc": 154701,
-				"name": "Gorged Gear-Cruncher",
-				"zone": 1462,
-				"coords": 69205340
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151623,
+			151625,
+			154701
 		],
 		"class": 12
 	},
@@ -1957,19 +1625,12 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 13,
-		"source": [
-			{
-				"npc": 151623,
-				"name": "The Scrap King",
-				"zone": 1462,
-				"coords": 71404920
-			},
-			{
-				"npc": 151625,
-				"name": "The Scrap King",
-				"zone": 1462,
-				"coords": 71004840
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151623,
+			151625
 		],
 		"class": 3
 	},
@@ -1985,13 +1646,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 130143,
-				"name": "Balethorn",
-				"zone": 896,
-				"coords": 55402740
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			130143
 		],
 		"class": 4
 	},
@@ -2001,13 +1660,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 142423,
-				"name": "Overseer Krix",
-				"zone": 14,
-				"coords": 27005640
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142423
 		],
 		"class": 15
 	},
@@ -2021,13 +1678,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 126056,
-				"name": "Totem Maker Jash'ga",
-				"zone": 863,
-				"coords": 49403740
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126056
 		],
 		"class": 4
 	},
@@ -2040,13 +1695,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139358,
-				"name": "The Caterer",
-				"zone": 896,
-				"coords": 25201620
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			139358
 		],
 		"class": 4
 	},
@@ -2056,13 +1709,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142433,
-				"name": "Fozruk",
-				"zone": 14,
-				"coords": 60203620
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142433
 		],
 		"class": 15
 	},
@@ -2072,13 +1723,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142435,
-				"name": "Plaguefeather",
-				"zone": 14,
-				"coords": 37206660
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142435
 		],
 		"class": 15
 	},
@@ -2088,13 +1737,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142436,
-				"name": "Ragebeak",
-				"zone": 14,
-				"coords": 12005200
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142436
 		],
 		"class": 15
 	},
@@ -2104,13 +1751,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 142437,
-				"name": "Skullripper",
-				"zone": 14,
-				"coords": 56204660
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142437
 		],
 		"class": 15
 	},
@@ -2120,13 +1765,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142438,
-				"name": "Venomarus",
-				"zone": 14,
-				"coords": 56205460
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142438
 		],
 		"class": 15
 	},
@@ -2136,13 +1779,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142440,
-				"name": "Yogursa",
-				"zone": 14,
-				"coords": 13203540
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142440
 		],
 		"class": 15
 	},
@@ -2156,13 +1797,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132211,
-				"name": "Fowlmouth",
-				"zone": 895,
-				"coords": 90007700
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132211
 		],
 		"class": 4
 	},
@@ -2177,13 +1816,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136304,
-				"name": "Songstress Nahjeen",
-				"zone": 864,
-				"coords": 66802440
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136304
 		],
 		"class": 4
 	},
@@ -2193,13 +1830,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152681,
-				"name": "Prince Typhonus",
-				"zone": 1355,
-				"coords": 42408740
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152681
 		],
 		"class": 15
 	},
@@ -2209,13 +1844,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152682,
-				"name": "Prince Vortran",
-				"zone": 1355,
-				"coords": 42407440
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152682
 		],
 		"class": 15
 	},
@@ -2231,13 +1864,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139385,
-				"name": "Deepfang",
-				"zone": 942,
-				"coords": 52805140
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139385
 		],
 		"class": 4
 	},
@@ -2250,13 +1881,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136323,
-				"name": "Fangcaller Xorreth",
-				"zone": 864,
-				"coords": 53603480
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136323
 		],
 		"class": 4
 	},
@@ -2266,13 +1895,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154739,
-				"name": "Caustic Mechaslime",
-				"zone": 1462,
-				"coords": 66505870
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			154739
 		],
 		"class": 12
 	},
@@ -2288,13 +1915,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 122004,
-				"name": "Umbra'jin",
-				"zone": 862,
-				"coords": 71203240
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			122004
 		],
 		"class": 4
 	},
@@ -2304,13 +1929,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 151672,
-				"name": "Mecharantula",
-				"zone": 1462,
-				"coords": 86801940
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151672
 		],
 		"class": 15
 	},
@@ -2326,13 +1949,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 136335,
-				"name": "Enraged Krolusk",
-				"zone": 864,
-				"coords": 61803740
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136335
 		],
 		"class": 4
 	},
@@ -2347,13 +1968,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 127129,
-				"name": "Grozgore",
-				"zone": 896,
-				"coords": 50802020
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			127129
 		],
 		"class": 4
 	},
@@ -2369,13 +1988,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136338,
-				"name": "Sirokar",
-				"zone": 864,
-				"coords": 24606840
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136338
 		],
 		"class": 4
 	},
@@ -2391,13 +2008,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134293,
-				"name": "Azerite-Infused Slag",
-				"zone": 863,
-				"coords": 33202700
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			134293
 		],
 		"class": 4
 	},
@@ -2412,13 +2027,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134294,
-				"name": "Enraged Water Elemental",
-				"zone": 863,
-				"coords": 81406080
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			134294
 		],
 		"class": 4
 	},
@@ -2434,13 +2047,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129180,
-				"name": "Warbringer Hozzik",
-				"zone": 864,
-				"coords": 37004620
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			129180
 		],
 		"class": 4
 	},
@@ -2450,13 +2061,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 129181,
-				"name": "Barman Bill",
-				"zone": 895,
-				"coords": 76008360
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			129181
 		],
 		"class": 15
 	},
@@ -2470,13 +2079,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129181,
-				"name": "Barman Bill",
-				"zone": 895,
-				"coords": 76008360
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			129181
 		],
 		"class": 2
 	},
@@ -2492,13 +2099,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2513,13 +2118,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2535,13 +2138,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2557,13 +2158,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2576,13 +2175,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2598,13 +2195,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2620,13 +2215,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2640,13 +2233,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2663,13 +2254,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132253,
-				"name": "Ji'arak",
-				"zone": 862,
-				"coords": 69603400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132253
 		],
 		"class": 4
 	},
@@ -2684,13 +2273,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136346,
-				"name": "Captain Stef \"Marrow\" Quin",
-				"zone": 864,
-				"coords": 41202420
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136346
 		],
 		"class": 4
 	},
@@ -2706,13 +2293,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 131233,
-				"name": "Lei-zhi",
-				"zone": 862,
-				"coords": 58807420
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			131233
 		],
 		"class": 4
 	},
@@ -2722,25 +2307,13 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 149651,
-				"name": "Blackpaw",
-				"zone": 62,
-				"coords": 49412481
-			},
-			{
-				"npc": 149652,
-				"name": "Agathe Wyrmwood",
-				"zone": 62,
-				"coords": 49402480
-			},
-			{
-				"npc": 149517,
-				"name": "Agathe Wyrmwood",
-				"zone": 62,
-				"coords": 49402480
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149651,
+			149652,
+			149517
 		],
 		"class": 15
 	},
@@ -2750,13 +2323,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 149653,
-				"name": "Carnivorous Lasher",
-				"zone": 1355,
-				"coords": 54804180
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			149653
 		],
 		"class": 15
 	},
@@ -2766,13 +2337,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 149653,
-				"name": "Carnivorous Lasher",
-				"zone": 1355,
-				"coords": 54804180
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			149653
 		],
 		"class": 9
 	},
@@ -2782,25 +2351,13 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 149655,
-				"name": "Croz Bloodrage",
-				"zone": 62,
-				"coords": 50403240
-			},
-			{
-				"npc": 149658,
-				"name": "Shadowclaw",
-				"zone": 62,
-				"coords": 39403280
-			},
-			{
-				"npc": 149661,
-				"name": "Croz Bloodrage",
-				"zone": 62,
-				"coords": 50603220
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149655,
+			149658,
+			149661
 		],
 		"class": 15
 	},
@@ -2810,31 +2367,14 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 149656,
-				"name": "Grimhorn",
-				"zone": 62,
-				"coords": 50603240
-			},
-			{
-				"npc": 149659,
-				"name": "Orwell Stevenson",
-				"zone": 62,
-				"coords": 39403340
-			},
-			{
-				"npc": 149662,
-				"name": "Grimhorn",
-				"zone": 62,
-				"coords": 50403240
-			},
-			{
-				"npc": 149664,
-				"name": "Orwell Stevenson",
-				"zone": 62,
-				"coords": 39803280
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149656,
+			149659,
+			149662,
+			149664
 		],
 		"class": 15
 	},
@@ -2844,13 +2384,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 149663,
-				"name": "Shadowclaw",
-				"zone": 62,
-				"coords": 39803240
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149663
 		],
 		"class": 15
 	},
@@ -2866,13 +2404,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 131252,
-				"name": "Merianae",
-				"zone": 895,
-				"coords": 43201680
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			131252
 		],
 		"class": 4
 	},
@@ -2882,13 +2418,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142508,
-				"name": "Branchlord Aldrus",
-				"zone": 14,
-				"coords": 21201960
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142508
 		],
 		"class": 15
 	},
@@ -2904,13 +2438,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 126142,
-				"name": "Bajiatha",
-				"zone": 863,
-				"coords": 42006060
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126142
 		],
 		"class": 4
 	},
@@ -2923,13 +2455,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 131262,
-				"name": "Pack Leader Asenya",
-				"zone": 895,
-				"coords": 39001520
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			131262
 		],
 		"class": 4
 	},
@@ -2939,13 +2469,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 140474,
-				"name": "Adherent of the Abyss",
-				"zone": 1182,
-				"coords": 59365421
-			}
+		"zone": [
+			1182
+		],
+		"npc": [
+			140474
 		],
 		"class": 15
 	},
@@ -2955,13 +2483,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 140474,
-				"name": "Adherent of the Abyss",
-				"zone": 1182,
-				"coords": 59365421
-			}
+		"zone": [
+			1182
+		],
+		"npc": [
+			140474
 		],
 		"class": 12
 	},
@@ -2976,13 +2502,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -2996,13 +2520,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3016,13 +2538,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3038,13 +2558,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3059,13 +2577,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3081,13 +2597,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3103,13 +2617,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3120,13 +2632,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3137,13 +2647,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"hastertng": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3154,13 +2662,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3176,13 +2682,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136385,
-				"name": "Azurethos",
-				"zone": 895,
-				"coords": 61402440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			136385
 		],
 		"class": 4
 	},
@@ -3192,13 +2696,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152756,
-				"name": "Daggertooth Terror",
-				"zone": 1355,
-				"coords": 26002820
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152756
 		],
 		"class": 15
 	},
@@ -3213,13 +2715,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136393,
-				"name": "Bloodwing Bonepicker",
-				"zone": 864,
-				"coords": 56005340
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136393
 		],
 		"class": 4
 	},
@@ -3229,19 +2729,12 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 152764,
-				"name": "Oxidized Leachbeast",
-				"zone": 1462,
-				"coords": 53406040
-			},
-			{
-				"npc": 151627,
-				"name": "Mr. Fixthis",
-				"zone": 1462,
-				"coords": 59406080
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152764,
+			151627
 		],
 		"class": 12
 	},
@@ -3255,13 +2748,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132319,
-				"name": "Bilefang Mother",
-				"zone": 896,
-				"coords": 35203300
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			132319
 		],
 		"class": 2
 	},
@@ -3276,13 +2767,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136413,
-				"name": "Syrawon the Dominus",
-				"zone": 862,
-				"coords": 53404460
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			136413
 		],
 		"class": 4
 	},
@@ -3298,13 +2787,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 126187,
-				"name": "Corpse Bringer Yal'kar",
-				"zone": 863,
-				"coords": 41205340
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126187
 		],
 		"class": 4
 	},
@@ -3319,13 +2806,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 160970,
-				"name": "Vuk'laz the Earthbreaker",
-				"zone": 1527,
-				"coords": 45401620
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			160970
 		],
 		"class": 4
 	},
@@ -3341,13 +2826,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 160970,
-				"name": "Vuk'laz the Earthbreaker",
-				"zone": 1527,
-				"coords": 45401620
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			160970
 		],
 		"class": 4
 	},
@@ -3361,13 +2844,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 160970,
-				"name": "Vuk'laz the Earthbreaker",
-				"zone": 1527,
-				"coords": 45401620
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			160970
 		],
 		"class": 4
 	},
@@ -3381,13 +2862,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 160970,
-				"name": "Vuk'laz the Earthbreaker",
-				"zone": 1527,
-				"coords": 45401620
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			160970
 		],
 		"class": 4
 	},
@@ -3400,13 +2879,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 160970,
-				"name": "Vuk'laz the Earthbreaker",
-				"zone": 1527,
-				"coords": 45401620
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			160970
 		],
 		"class": 4
 	},
@@ -3416,13 +2893,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 152788,
-				"name": "Uat-ka the Sun's Wrath",
-				"zone": 1527,
-				"coords": 67406340
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			152788
 		],
 		"class": 0
 	},
@@ -3438,13 +2913,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 133356,
-				"name": "Tempestria",
-				"zone": 895,
-				"coords": 60801740
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			133356
 		],
 		"class": 4
 	},
@@ -3454,13 +2927,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152794,
-				"name": "Amethyst Spireshell",
-				"zone": 1355,
-				"coords": 48204680
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152794
 		],
 		"class": 15
 	},
@@ -3470,13 +2941,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152795,
-				"name": "Sandclaw Stoneshell",
-				"zone": 1355,
-				"coords": 73604560
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152795
 		],
 		"class": 15
 	},
@@ -3490,13 +2959,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136428,
-				"name": "Dark Chronicler",
-				"zone": 862,
-				"coords": 44007640
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			136428
 		],
 		"class": 4
 	},
@@ -3510,13 +2977,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 133373,
-				"name": "Jax'teb the Reanimated",
-				"zone": 863,
-				"coords": 45205180
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			133373
 		],
 		"class": 2
 	},
@@ -3532,13 +2997,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 129283,
-				"name": "Jumbo Sandsnapper",
-				"zone": 864,
-				"coords": 37408440
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			129283
 		],
 		"class": 4
 	},
@@ -3548,13 +3011,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 147701,
-				"name": "Moxo the Beheader",
-				"zone": 62,
-				"coords": 63202060
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147701
 		],
 		"class": 15
 	},
@@ -3564,13 +3025,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 147708,
-				"name": "Athrikus Narassin",
-				"zone": 62,
-				"coords": 58402440
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147708
 		],
 		"class": 15
 	},
@@ -3580,13 +3039,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 144644,
-				"name": "Mirecrawler",
-				"zone": 1355,
-				"coords": 48204660
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			144644
 		],
 		"class": 15
 	},
@@ -3602,13 +3059,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 124185,
-				"name": "Golrakahn",
-				"zone": 862,
-				"coords": 74002820
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			124185
 		],
 		"class": 4
 	},
@@ -3624,13 +3079,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 125214,
-				"name": "Krubbs",
-				"zone": 863,
-				"coords": 75803600
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			125214
 		],
 		"class": 4
 	},
@@ -3644,13 +3097,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 127290,
-				"name": "Mugg",
-				"zone": 895,
-				"coords": 58401480
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			127290
 		],
 		"class": 2
 	},
@@ -3660,13 +3111,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 141615,
-				"name": "Burning Goliath",
-				"zone": 14,
-				"coords": 31004420
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			141615
 		],
 		"class": 15
 	},
@@ -3676,13 +3125,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 141616,
-				"name": "Thundering Goliath",
-				"zone": 14,
-				"coords": 45205200
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			141616
 		],
 		"class": 15
 	},
@@ -3695,13 +3142,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 125250,
-				"name": "Ancient Jawbreaker",
-				"zone": 863,
-				"coords": 67402940
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			125250
 		],
 		"class": 4
 	},
@@ -3717,13 +3162,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 129343,
-				"name": "Avatar of Xolotal",
-				"zone": 862,
-				"coords": 49805740
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			129343
 		],
 		"class": 4
 	},
@@ -3733,13 +3176,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 141620,
-				"name": "Rumbling Goliath",
-				"zone": 14,
-				"coords": 29205940
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			141620
 		],
 		"class": 15
 	},
@@ -3753,13 +3194,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 137529,
-				"name": "Arvon the Betrayed",
-				"zone": 896,
-				"coords": 35206900
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			137529
 		],
 		"class": 2
 	},
@@ -3769,13 +3208,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 148787,
-				"name": "Alash'anir",
-				"zone": 62,
-				"coords": 56403080
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148787
 		],
 		"class": 15
 	},
@@ -3785,13 +3222,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 148790,
-				"name": "Frightened Kodo",
-				"zone": 62,
-				"coords": 41306550
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148790
 		],
 		"class": 15
 	},
@@ -3807,13 +3242,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 131404,
-				"name": "Foreman Scripps",
-				"zone": 942,
-				"coords": 64206540
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			131404
 		],
 		"class": 4
 	},
@@ -3823,13 +3256,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 155958,
-				"name": "Tashara",
-				"zone": 1530,
-				"coords": 29402220
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			155958
 		],
 		"class": 15
 	},
@@ -3839,13 +3270,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142662,
-				"name": "Geomancer Flintdagger",
-				"zone": 14,
-				"coords": 79402941
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142662
 		],
 		"class": 0
 	},
@@ -3855,13 +3284,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 151870,
-				"name": "Sandcastle",
-				"zone": 1355,
-				"coords": 52404180
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			151870
 		],
 		"class": 15
 	},
@@ -3877,13 +3304,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 130401,
-				"name": "Vathikur",
-				"zone": 864,
-				"coords": 57207340
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			130401
 		],
 		"class": 4
 	},
@@ -3897,13 +3322,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 127333,
-				"name": "Barbthorn Queen",
-				"zone": 896,
-				"coords": 59001700
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			127333
 		],
 		"class": 2
 	},
@@ -3913,13 +3336,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142682,
-				"name": "Zalas Witherbark",
-				"zone": 14,
-				"coords": 62408020
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142682
 		],
 		"class": 0
 	},
@@ -3929,13 +3350,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 142683,
-				"name": "Ruul Onestone",
-				"zone": 14,
-				"coords": 42805640
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142683
 		],
 		"class": 15
 	},
@@ -3945,13 +3364,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142684,
-				"name": "Kovork",
-				"zone": 14,
-				"coords": 24604740
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142684
 		],
 		"class": 0
 	},
@@ -3961,13 +3378,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142686,
-				"name": "Foulbelly",
-				"zone": 14,
-				"coords": 22204940
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142686
 		],
 		"class": 0
 	},
@@ -3977,13 +3392,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142688,
-				"name": "Darbel Montrose",
-				"zone": 14,
-				"coords": 50203760
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142688
 		],
 		"class": 15
 	},
@@ -3993,13 +3406,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142690,
-				"name": "Singer",
-				"zone": 14,
-				"coords": 50605740
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142690
 		],
 		"class": 0
 	},
@@ -4009,13 +3420,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 141668,
-				"name": "Echo of Myzrael",
-				"zone": 14,
-				"coords": 56203660
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			141668
 		],
 		"class": 15
 	},
@@ -4025,13 +3434,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 142692,
-				"name": "Nimar the Slayer",
-				"zone": 14,
-				"coords": 67406040
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142692
 		],
 		"class": 15
 	},
@@ -4045,13 +3452,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 152923,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63005641
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152923
 		],
 		"class": 4
 	},
@@ -4061,13 +3466,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 162140,
-				"name": "Skikx'traz",
-				"zone": 1527,
-				"coords": 21256105
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			162140
 		],
 		"class": 15
 	},
@@ -4077,13 +3480,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 142709,
-				"name": "Beastrider Kama",
-				"zone": 14,
-				"coords": 64807160
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142709
 		],
 		"class": 15
 	},
@@ -4096,13 +3497,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 129411,
-				"name": "Zunashi the Exile",
-				"zone": 864,
-				"coords": 44005380
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			129411
 		],
 		"class": 4
 	},
@@ -4118,13 +3517,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 130439,
-				"name": "Ashmane",
-				"zone": 864,
-				"coords": 54701530
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			130439
 		],
 		"class": 4
 	},
@@ -4134,13 +3531,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 142716,
-				"name": "Man-Hunter Rog",
-				"zone": 14,
-				"coords": 51807620
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142716
 		],
 		"class": 15
 	},
@@ -4156,13 +3551,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 130443,
-				"name": "Hivemother Kraxi",
-				"zone": 864,
-				"coords": 53605340
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			130443
 		],
 		"class": 4
 	},
@@ -4175,13 +3568,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 121242,
-				"name": "Glompmaw",
-				"zone": 863,
-				"coords": 68405700
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			121242
 		],
 		"class": 4
 	},
@@ -4191,19 +3582,12 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 151934,
-				"name": "Arachnoid Harvester",
-				"zone": 1462,
-				"coords": 51404120
-			},
-			{
-				"npc": 154342,
-				"name": "Arachnoid Harvester",
-				"zone": 1462,
-				"coords": 52204160
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151934,
+			154342
 		],
 		"class": 15
 	},
@@ -4219,13 +3603,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 152958,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015641
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152958
 		],
 		"class": 4
 	},
@@ -4238,13 +3620,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 131476,
-				"name": "Zayoos",
-				"zone": 862,
-				"coords": 48205420
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			131476
 		],
 		"class": 4
 	},
@@ -4256,13 +3636,11 @@ export const data = [
 		"subclass": 8,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 152961,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63025640
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152961
 		],
 		"class": 2
 	},
@@ -4276,13 +3654,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 133527,
-				"name": "Juba the Scarred",
-				"zone": 863,
-				"coords": 27403420
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			133527
 		],
 		"class": 2
 	},
@@ -4296,13 +3672,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 133531,
-				"name": "Xu'ba",
-				"zone": 863,
-				"coords": 36605060
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			133531
 		],
 		"class": 4
 	},
@@ -4312,13 +3686,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 142739,
-				"name": "Knight-Captain Aldrin",
-				"zone": 14,
-				"coords": 47404120
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142739
 		],
 		"class": 15
 	},
@@ -4328,13 +3700,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 142741,
-				"name": "Doomrider Helgrim",
-				"zone": 14,
-				"coords": 53205600
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142741
 		],
 		"class": 15
 	},
@@ -4350,13 +3720,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 133539,
-				"name": "Lo'kuno",
-				"zone": 863,
-				"coords": 77404440
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			133539
 		],
 		"class": 4
 	},
@@ -4372,13 +3740,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 128426,
-				"name": "Gutrip",
-				"zone": 863,
-				"coords": 32404340
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128426
 		],
 		"class": 4
 	},
@@ -4388,13 +3754,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150937,
-				"name": "Seaspit",
-				"zone": 1462,
-				"coords": 19407940
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			150937
 		],
 		"class": 12
 	},
@@ -4408,13 +3772,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134571,
-				"name": "Skycaller Teskris",
-				"zone": 864,
-				"coords": 47002540
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			134571
 		],
 		"class": 2
 	},
@@ -4429,13 +3791,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138667,
-				"name": "Blighted Monstrosity",
-				"zone": 896,
-				"coords": 35801120
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			138667
 		],
 		"class": 4
 	},
@@ -4449,13 +3809,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138675,
-				"name": "Gorged Boar",
-				"zone": 896,
-				"coords": 28002580
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			138675
 		],
 		"class": 4
 	},
@@ -4471,13 +3829,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 131520,
-				"name": "Kulett the Ornery",
-				"zone": 895,
-				"coords": 48002220
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			131520
 		],
 		"class": 4
 	},
@@ -4493,13 +3849,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 129476,
-				"name": "Bloated Krolusk",
-				"zone": 864,
-				"coords": 48805060
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			129476
 		],
 		"class": 4
 	},
@@ -4509,13 +3863,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155055,
-				"name": "Gurg the Hivethief",
-				"zone": 942,
-				"coords": 25607320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			155055
 		],
 		"class": 12
 	},
@@ -4525,13 +3877,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147897,
-				"name": "Soggoth the Slitherer",
-				"zone": 62,
-				"coords": 40408440
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147897
 		],
 		"class": 15
 	},
@@ -4541,13 +3891,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155059,
-				"name": "Yorag the Jelly Feaster",
-				"zone": 942,
-				"coords": 25607320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			155059
 		],
 		"class": 12
 	},
@@ -4563,13 +3911,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 130508,
-				"name": "Broodmother Razora",
-				"zone": 895,
-				"coords": 83204440
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			130508
 		],
 		"class": 4
 	},
@@ -4582,13 +3928,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 124375,
-				"name": "Overstuffed Saurolisk",
-				"zone": 863,
-				"coords": 62006500
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			124375
 		],
 		"class": 4
 	},
@@ -4598,13 +3942,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152001,
-				"name": "Bonepicker",
-				"zone": 1462,
-				"coords": 65402340
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152001
 		],
 		"class": 15
 	},
@@ -4620,13 +3962,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 137681,
-				"name": "King Clickyclack",
-				"zone": 864,
-				"coords": 38204120
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			137681
 		],
 		"class": 4
 	},
@@ -4636,13 +3976,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 152007,
-				"name": "Killsaw",
-				"zone": 1462,
-				"coords": 38403000
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152007
 		],
 		"class": 15
 	},
@@ -4658,13 +3996,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 134625,
-				"name": "Warmother Captive",
-				"zone": 864,
-				"coords": 50803100
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			134625
 		],
 		"class": 4
 	},
@@ -4679,13 +4015,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 124397,
-				"name": "Kal'draxa",
-				"zone": 863,
-				"coords": 52901340
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			124397
 		],
 		"class": 4
 	},
@@ -4695,13 +4029,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 157134,
-				"name": "Ishak of the Four Winds",
-				"zone": 1527,
-				"coords": 73808340
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			157134
 		],
 		"class": 15
 	},
@@ -4717,13 +4049,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 124399,
-				"name": "Infected Direhorn",
-				"zone": 863,
-				"coords": 24407800
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			124399
 		],
 		"class": 4
 	},
@@ -4737,13 +4067,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 128497,
-				"name": "Bajiani the Slick",
-				"zone": 864,
-				"coords": 31008080
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			128497
 		],
 		"class": 4
 	},
@@ -4756,13 +4084,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 134637,
-				"name": "Headhunter Lee'za",
-				"zone": 862,
-				"coords": 63001400
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			134637
 		],
 		"class": 4
 	},
@@ -4772,13 +4098,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 157146,
-				"name": "Rotfeaster",
-				"zone": 1527,
-				"coords": 68003140
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			157146
 		],
 		"class": 15
 	},
@@ -4794,13 +4118,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 134643,
-				"name": "Brgl-Lrgl the Basher",
-				"zone": 864,
-				"coords": 30004620
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			134643
 		],
 		"class": 4
 	},
@@ -4814,13 +4136,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 126460,
-				"name": "Tainted Guardian",
-				"zone": 863,
-				"coords": 31403820
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126460
 		],
 		"class": 4
 	},
@@ -4830,13 +4150,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 157153,
-				"name": "Ha-Li",
-				"zone": 1530,
-				"coords": 33973378
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			157153
 		],
 		"class": 15
 	},
@@ -4846,13 +4164,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 157160,
-				"name": "Houndlord Ren",
-				"zone": 1530,
-				"coords": 11603160
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			157160
 		],
 		"class": 15
 	},
@@ -4862,13 +4178,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 1,
-		"source": [
-			{
-				"npc": 157162,
-				"name": "Rei Lun",
-				"zone": 1530,
-				"coords": 20401260
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			157162
 		],
 		"class": 15
 	},
@@ -4878,13 +4192,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 157162,
-				"name": "Rei Lun",
-				"zone": 1530,
-				"coords": 20401260
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			157162
 		],
 		"class": 15
 	},
@@ -4901,13 +4213,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 125453,
-				"name": "Quillrat Matriarch",
-				"zone": 896,
-				"coords": 66404240
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			125453
 		],
 		"class": 4
 	},
@@ -4917,13 +4227,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 157176,
-				"name": "The Forgotten",
-				"zone": 1530,
-				"coords": 51804100
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			157176
 		],
 		"class": 15
 	},
@@ -4937,13 +4245,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134694,
-				"name": "Mor'fani the Exile",
-				"zone": 864,
-				"coords": 37408820
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			134694
 		],
 		"class": 4
 	},
@@ -4953,13 +4259,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 15
 	},
@@ -4970,13 +4274,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -4991,13 +4293,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5010,13 +4310,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5032,13 +4330,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5052,13 +4348,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5074,13 +4368,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5096,13 +4388,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5118,13 +4408,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5141,13 +4429,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138794,
-				"name": "Dunegorger Kraulok",
-				"zone": 894,
-				"coords": 44005580
-			}
+		"zone": [
+			894
+		],
+		"npc": [
+			138794
 		],
 		"class": 4
 	},
@@ -5160,13 +4446,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 134706,
-				"name": "Deathcap",
-				"zone": 896,
-				"coords": 18606040
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			134706
 		],
 		"class": 4
 	},
@@ -5176,13 +4460,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 154148,
-				"name": "Tidemistress Leth'sindra",
-				"zone": 1355,
-				"coords": 67152325
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			154148
 		],
 		"class": 15
 	},
@@ -5192,13 +4474,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155172,
-				"name": "Trapdoor Bee Hunter",
-				"zone": 942,
-				"coords": 25607320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			155172
 		],
 		"class": 12
 	},
@@ -5208,13 +4488,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155173,
-				"name": "Honeyback Usurper",
-				"zone": 942,
-				"coords": 25607320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			155173
 		],
 		"class": 12
 	},
@@ -5230,13 +4508,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 128578,
-				"name": "Zujothgul",
-				"zone": 863,
-				"coords": 39454969
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128578
 		],
 		"class": 4
 	},
@@ -5250,13 +4526,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134717,
-				"name": "Umbra'rix",
-				"zone": 862,
-				"coords": 49002920
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			134717
 		],
 		"class": 4
 	},
@@ -5272,13 +4546,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 128584,
-				"name": "Vugthuth",
-				"zone": 863,
-				"coords": 46803340
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128584
 		],
 		"class": 4
 	},
@@ -5288,13 +4560,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 148025,
-				"name": "Commander Ral'esh",
-				"zone": 62,
-				"coords": 37407620
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148025
 		],
 		"class": 15
 	},
@@ -5304,13 +4574,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 148031,
-				"name": "Gren Tornfur",
-				"zone": 62,
-				"coords": 40805640
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148031
 		],
 		"class": 15
 	},
@@ -5324,13 +4592,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 130643,
-				"name": "Twisted Child of Rezan",
-				"zone": 862,
-				"coords": 76602740
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			130643
 		],
 		"class": 4
 	},
@@ -5346,13 +4612,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 134738,
-				"name": "Hakbi the Risen",
-				"zone": 862,
-				"coords": 42003620
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			134738
 		],
 		"class": 4
 	},
@@ -5366,13 +4630,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134745,
-				"name": "Skycarver Krakit",
-				"zone": 864,
-				"coords": 51403620
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			134745
 		],
 		"class": 2
 	},
@@ -5387,13 +4649,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5408,13 +4668,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5428,13 +4686,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5450,13 +4706,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5472,13 +4726,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5494,13 +4746,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5514,13 +4764,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5536,13 +4784,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5553,13 +4799,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5570,13 +4814,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5592,13 +4834,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132701,
-				"name": "T'zane",
-				"zone": 863,
-				"coords": 35403300
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			132701
 		],
 		"class": 4
 	},
@@ -5612,13 +4852,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 128610,
-				"name": "Maw of Shul-Nagruth",
-				"zone": 863,
-				"coords": 49806700
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			128610
 		],
 		"class": 2
 	},
@@ -5634,13 +4872,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134754,
-				"name": "Hyo'gi",
-				"zone": 896,
-				"coords": 23004940
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			134754
 		],
 		"class": 4
 	},
@@ -5656,13 +4892,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 137824,
-				"name": "Arclight",
-				"zone": 896,
-				"coords": 29206880
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			137824
 		],
 		"class": 4
 	},
@@ -5678,13 +4912,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 131687,
-				"name": "Tambano",
-				"zone": 862,
-				"coords": 77401120
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			131687
 		],
 		"class": 4
 	},
@@ -5698,13 +4930,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134760,
-				"name": "Darkspeaker Jo'la",
-				"zone": 862,
-				"coords": 65201020
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			134760
 		],
 		"class": 2
 	},
@@ -5714,13 +4944,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 163042,
-				"name": "Ivory Cloud Serpent",
-				"zone": 1530,
-				"coords": 26805510
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			163042
 		],
 		"class": 15
 	},
@@ -5730,13 +4958,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 162681,
-				"name": "Elusive Quickhoof",
-				"zone": 864,
-				"coords": 26405250
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			162681
 		],
 		"class": 15
 	},
@@ -5750,13 +4976,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138863,
-				"name": "Sister Martha",
-				"zone": 896,
-				"coords": 33005700
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			138863
 		],
 		"class": 2
 	},
@@ -5772,13 +4996,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129657,
-				"name": "Za'amar the Queen's Blade",
-				"zone": 863,
-				"coords": 38802700
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			129657
 		],
 		"class": 4
 	},
@@ -5792,13 +5014,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138866,
-				"name": "Mack",
-				"zone": 896,
-				"coords": 24402200
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			138866
 		],
 		"class": 2
 	},
@@ -5808,13 +5028,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 162147,
-				"name": "Corpse Eater",
-				"zone": 1527,
-				"coords": 30404940
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			162147
 		],
 		"class": 15
 	},
@@ -5830,13 +5048,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 124548,
-				"name": "Betsy",
-				"zone": 896,
-				"coords": 58403340
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			124548
 		],
 		"class": 4
 	},
@@ -5846,13 +5062,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 141942,
-				"name": "Molok the Crusher",
-				"zone": 14,
-				"coords": 46807720
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			141942
 		],
 		"class": 0
 	},
@@ -5867,13 +5081,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 134782,
-				"name": "Murderbeak",
-				"zone": 862,
-				"coords": 60606620
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			134782
 		],
 		"class": 4
 	},
@@ -5883,25 +5095,13 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153200,
-				"name": "Boilburn",
-				"zone": 1462,
-				"coords": 51005060
-			},
-			{
-				"npc": 151202,
-				"name": "Foul Manifestation",
-				"zone": 1462,
-				"coords": 65605100
-			},
-			{
-				"npc": 150342,
-				"name": "Earthbreaker Gulroc",
-				"zone": 1462,
-				"coords": 62402640
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153200,
+			151202,
+			150342
 		],
 		"class": 12
 	},
@@ -5911,25 +5111,13 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153200,
-				"name": "Boilburn",
-				"zone": 1462,
-				"coords": 51005060
-			},
-			{
-				"npc": 153206,
-				"name": "Ol' Big Tusk",
-				"zone": 1462,
-				"coords": 55403540
-			},
-			{
-				"npc": 153205,
-				"name": "Gemicide",
-				"zone": 1462,
-				"coords": 57406940
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153200,
+			153206,
+			153205
 		],
 		"class": 12
 	},
@@ -5944,13 +5132,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 131718,
-				"name": "Bramblewing",
-				"zone": 862,
-				"coords": 66403240
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			131718
 		],
 		"class": 4
 	},
@@ -5960,13 +5146,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 154225,
-				"name": "The Rusty Prince",
-				"zone": 1462,
-				"coords": 57005740
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			154225
 		],
 		"class": 15
 	},
@@ -5980,19 +5164,12 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 154225,
-				"name": "The Rusty Prince",
-				"zone": 1462,
-				"coords": 57005740
-			},
-			{
-				"npc": 154153,
-				"name": "Enforcer KX-T57",
-				"zone": 1462,
-				"coords": 53806180
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			154225,
+			154153
 		],
 		"class": 2
 	},
@@ -6006,13 +5183,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140938,
-				"name": "Croaker",
-				"zone": 942,
-				"coords": 62403340
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140938
 		],
 		"class": 4
 	},
@@ -6022,13 +5197,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 1,
-		"source": [
-			{
-				"npc": 158633,
-				"name": "Gaze of N'Zoth",
-				"zone": 1527,
-				"coords": 53205020
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			158633
 		],
 		"class": 15
 	},
@@ -6038,13 +5211,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 131735,
-				"name": "Idej the Wise",
-				"zone": 896,
-				"coords": 65008320
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			131735
 		],
 		"class": 15
 	},
@@ -6060,13 +5231,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 126621,
-				"name": "Bonesquall",
-				"zone": 896,
-				"coords": 66405080
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			126621
 		],
 		"class": 4
 	},
@@ -6081,13 +5250,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134296,
-				"name": "Lucille",
-				"zone": 863,
-				"coords": 68001980
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			134296
 		],
 		"class": 4
 	},
@@ -6097,13 +5264,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142112,
-				"name": "Kor'gresh Coldrage",
-				"zone": 14,
-				"coords": 49008340
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142112
 		],
 		"class": 0
 	},
@@ -6119,13 +5284,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 127651,
-				"name": "Vicemaul",
-				"zone": 896,
-				"coords": 72806040
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			127651
 		],
 		"class": 4
 	},
@@ -6135,13 +5298,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153228,
-				"name": "Gear Checker Cogstar",
-				"zone": 1462,
-				"coords": 23008160
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153228
 		],
 		"class": 12
 	},
@@ -6157,13 +5318,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 126635,
-				"name": "Blood Priest Xak'lar",
-				"zone": 863,
-				"coords": 43069033
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			126635
 		],
 		"class": 4
 	},
@@ -6180,13 +5339,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 126637,
-				"name": "Kandak",
-				"zone": 862,
-				"coords": 68604820
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			126637
 		],
 		"class": 4
 	},
@@ -6202,13 +5359,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 128686,
-				"name": "Kamid the Trapper",
-				"zone": 864,
-				"coords": 35205140
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			128686
 		],
 		"class": 4
 	},
@@ -6218,13 +5373,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 149147,
-				"name": "N'chala the Egg Thief",
-				"zone": 862,
-				"coords": 69203520
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			149147
 		],
 		"class": 15
 	},
@@ -6234,13 +5387,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 157466,
-				"name": "Anh-De the Loyal",
-				"zone": 1530,
-				"coords": 33406740
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			157466
 		],
 		"class": 15
 	},
@@ -6255,13 +5406,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 135852,
-				"name": "Ak'tar",
-				"zone": 864,
-				"coords": 50208180
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			135852
 		],
 		"class": 4
 	},
@@ -6271,13 +5420,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 151202,
-				"name": "Foul Manifestation",
-				"zone": 1462,
-				"coords": 65605100
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151202
 		],
 		"class": 12
 	},
@@ -6293,13 +5440,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 133812,
-				"name": "Zanxib",
-				"zone": 863,
-				"coords": 38407140
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			133812
 		],
 		"class": 4
 	},
@@ -6309,13 +5454,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 156083,
-				"name": "Sanguifang",
-				"zone": 1530,
-				"coords": 47605600
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			156083
 		],
 		"class": 0
 	},
@@ -6331,13 +5474,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 128699,
-				"name": "Bloodbulge",
-				"zone": 862,
-				"coords": 59601820
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			128699
 		],
 		"class": 4
 	},
@@ -6347,19 +5488,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155583,
-				"name": "Scrapclaw",
-				"zone": 1462,
-				"coords": 81407640
-			},
-			{
-				"npc": 151124,
-				"name": "Mechagonian Nullifier",
-				"zone": 1462,
-				"coords": 56805460
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			155583,
+			151124
 		],
 		"class": 12
 	},
@@ -6373,13 +5507,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 128707,
-				"name": "Rimestone",
-				"zone": 896,
-				"coords": 59607140
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			128707
 		],
 		"class": 4
 	},
@@ -6395,13 +5527,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 138938,
-				"name": "Seabreaker Skoloth",
-				"zone": 942,
-				"coords": 33203740
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			138938
 		],
 		"class": 4
 	},
@@ -6411,13 +5541,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155176,
-				"name": "Old Nasha",
-				"zone": 942,
-				"coords": 25407320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			155176
 		],
 		"class": 12
 	},
@@ -6427,13 +5555,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 155171,
-				"name": "The Hivekiller",
-				"zone": 942,
-				"coords": 25607320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			155171
 		],
 		"class": 12
 	},
@@ -6449,13 +5575,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139968,
-				"name": "Corrupted Tideskipper",
-				"zone": 942,
-				"coords": 67604960
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139968
 		],
 		"class": 4
 	},
@@ -6465,13 +5589,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 11,
-		"source": [
-			{
-				"npc": 139968,
-				"name": "Corrupted Tideskipper",
-				"zone": 942,
-				"coords": 67604960
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139968
 		],
 		"class": 9
 	},
@@ -6484,13 +5606,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 154638,
-				"name": "Grand Empress Shek'zara",
-				"zone": 1530,
-				"coords": 5405620
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154638
 		],
 		"class": 4
 	},
@@ -6504,13 +5624,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 154638,
-				"name": "Grand Empress Shek'zara",
-				"zone": 1530,
-				"coords": 5405620
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154638
 		],
 		"class": 4
 	},
@@ -6526,13 +5644,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 154638,
-				"name": "Grand Empress Shek'zara",
-				"zone": 1530,
-				"coords": 5405620
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154638
 		],
 		"class": 4
 	},
@@ -6548,13 +5664,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 154638,
-				"name": "Grand Empress Shek'zara",
-				"zone": 1530,
-				"coords": 5405620
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154638
 		],
 		"class": 4
 	},
@@ -6567,13 +5681,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 154638,
-				"name": "Grand Empress Shek'zara",
-				"zone": 1530,
-				"coords": 5405620
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154638
 		],
 		"class": 4
 	},
@@ -6588,13 +5700,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132280,
-				"name": "Squacks",
-				"zone": 895,
-				"coords": 80808260
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			132280
 		],
 		"class": 4
 	},
@@ -6609,13 +5719,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140997,
-				"name": "Severus the Outcast",
-				"zone": 942,
-				"coords": 22607300
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140997
 		],
 		"class": 4
 	},
@@ -6629,13 +5737,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139328,
-				"name": "Sabertron",
-				"zone": 942,
-				"coords": 34003200
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139328
 		],
 		"class": 2
 	},
@@ -6645,19 +5751,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 149141,
-				"name": "Burninator Mark V",
-				"zone": 62,
-				"coords": 41407640
-			},
-			{
-				"npc": 148037,
-				"name": "Athil Dewfire",
-				"zone": 62,
-				"coords": 40807300
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149141,
+			148037
 		],
 		"class": 15
 	},
@@ -6667,19 +5766,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 149141,
-				"name": "Burninator Mark V",
-				"zone": 62,
-				"coords": 41407640
-			},
-			{
-				"npc": 148103,
-				"name": "Sapper Odette",
-				"zone": 62,
-				"coords": 33008380
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149141,
+			148103
 		],
 		"class": 15
 	},
@@ -6689,13 +5781,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 15
 	},
@@ -6705,13 +5795,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 9
 	},
@@ -6721,13 +5809,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 0
 	},
@@ -6737,13 +5823,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 15
 	},
@@ -6753,13 +5837,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 15
 	},
@@ -6769,13 +5851,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 15
 	},
@@ -6785,13 +5865,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 15
 	},
@@ -6801,13 +5879,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154154,
-				"name": "Honey Smasher",
-				"zone": 942,
-				"coords": 59401700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			154154
 		],
 		"class": 15
 	},
@@ -6823,13 +5899,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 133842,
-				"name": "Warcrawler Karkithiss",
-				"zone": 862,
-				"coords": 44002540
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			133842
 		],
 		"class": 4
 	},
@@ -6839,13 +5913,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154153,
-				"name": "Enforcer KX-T57",
-				"zone": 1462,
-				"coords": 53806180
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			154153
 		],
 		"class": 12
 	},
@@ -6855,19 +5927,12 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153928,
-				"name": "Tidelord Dispersius",
-				"zone": 1355,
-				"coords": 57402640
-			},
-			{
-				"npc": 153898,
-				"name": "Tidelord Aquatus",
-				"zone": 1355,
-				"coords": 62402940
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			153928,
+			153898
 		],
 		"class": 0
 	},
@@ -6877,13 +5942,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 153658,
-				"name": "Shiz'narasz the Consumer",
-				"zone": 1355,
-				"coords": 37401420
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			153658
 		],
 		"class": 15
 	},
@@ -6898,13 +5961,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138963,
-				"name": "Nestmother Acada",
-				"zone": 942,
-				"coords": 43204500
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			138963
 		],
 		"class": 4
 	},
@@ -6918,13 +5979,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 139988,
-				"name": "Sandfang",
-				"zone": 942,
-				"coords": 73406060
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139988
 		],
 		"class": 4
 	},
@@ -6934,13 +5993,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152712,
-				"name": "Blindlight",
-				"zone": 1355,
-				"coords": 37208260
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152712
 		],
 		"class": 15
 	},
@@ -6950,13 +6007,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 153226,
-				"name": "Steel Singer Freza",
-				"zone": 1462,
-				"coords": 24407740
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			153226
 		],
 		"class": 12
 	},
@@ -6972,13 +6027,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 134884,
-				"name": "Ragna",
-				"zone": 942,
-				"coords": 41207320
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			134884
 		],
 		"class": 4
 	},
@@ -6993,13 +6046,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 141029,
-				"name": "Kickers",
-				"zone": 942,
-				"coords": 31206180
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141029
 		],
 		"class": 4
 	},
@@ -7015,13 +6066,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 152983,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 62825642
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152983
 		],
 		"class": 4
 	},
@@ -7036,13 +6085,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 152922,
-				"name": "Data Anomaly",
-				"zone": 1462,
-				"coords": 63015640
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152922
 		],
 		"class": 4
 	},
@@ -7058,13 +6105,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 134897,
-				"name": "Dagrus the Scorned",
-				"zone": 942,
-				"coords": 67404040
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			134897
 		],
 		"class": 4
 	},
@@ -7080,13 +6125,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 141039,
-				"name": "Ice Sickle",
-				"zone": 942,
-				"coords": 63408340
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141039
 		],
 		"class": 4
 	},
@@ -7096,13 +6139,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 152553,
-				"name": "Garnetscale",
-				"zone": 1355,
-				"coords": 32203320
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152553
 		],
 		"class": 15
 	},
@@ -7116,13 +6157,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 141043,
-				"name": "Jakala the Cruel",
-				"zone": 942,
-				"coords": 53406420
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141043
 		],
 		"class": 4
 	},
@@ -7132,13 +6171,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 152552,
-				"name": "Shassera",
-				"zone": 1355,
-				"coords": 62600840
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152552
 		],
 		"class": 15
 	},
@@ -7148,13 +6185,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152464,
-				"name": "Caverndark Terror",
-				"zone": 1355,
-				"coords": 40805950
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152464
 		],
 		"class": 15
 	},
@@ -7164,13 +6199,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152448,
-				"name": "Iridescent Glimmershell",
-				"zone": 1355,
-				"coords": 40204940
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152448
 		],
 		"class": 15
 	},
@@ -7184,13 +6217,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136340,
-				"name": "Relic Hunter Hazaak",
-				"zone": 864,
-				"coords": 48807180
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136340
 		],
 		"class": 2
 	},
@@ -7203,13 +6234,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 141088,
-				"name": "Squall",
-				"zone": 942,
-				"coords": 57007580
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141088
 		],
 		"class": 4
 	},
@@ -7224,13 +6253,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 122639,
-				"name": "Old R'gal",
-				"zone": 1165,
-				"coords": 49405940
-			}
+		"zone": [
+			1165
+		],
+		"npc": [
+			122639
 		],
 		"class": 4
 	},
@@ -7244,13 +6271,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 135939,
-				"name": "Vinespeaker Ratha",
-				"zone": 942,
-				"coords": 49806820
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			135939
 		],
 		"class": 2
 	},
@@ -7263,13 +6288,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129805,
-				"name": "Beshol",
-				"zone": 896,
-				"coords": 50203020
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			129805
 		],
 		"class": 4
 	},
@@ -7286,13 +6309,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 141059,
-				"name": "Grimscowl the Harebrained",
-				"zone": 942,
-				"coords": 62007340
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141059
 		],
 		"class": 4
 	},
@@ -7302,13 +6323,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152323,
-				"name": "King Gakula",
-				"zone": 1355,
-				"coords": 28802900
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152323
 		],
 		"class": 15
 	},
@@ -7318,13 +6337,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 152290,
-				"name": "Soundless",
-				"zone": 1355,
-				"coords": 53604140
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152290
 		],
 		"class": 15
 	},
@@ -7334,13 +6351,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 152182,
-				"name": "Rustfeather",
-				"zone": 1462,
-				"coords": 65007740
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152182
 		],
 		"class": 15
 	},
@@ -7351,13 +6366,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"critstrkrtng": true,
-		"source": [
-			{
-				"npc": 142088,
-				"name": "Whirlwing",
-				"zone": 942,
-				"coords": 46804340
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			142088
 		],
 		"class": 4
 	},
@@ -7367,13 +6380,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 151296,
-				"name": "OOX-Avenger MG",
-				"zone": 1462,
-				"coords": 56803990
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151296
 		],
 		"class": 12
 	},
@@ -7383,13 +6394,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 152113,
-				"name": "The Kleptoboss",
-				"zone": 1462,
-				"coords": 66204040
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			152113
 		],
 		"class": 15
 	},
@@ -7399,13 +6408,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 151933,
-				"name": "Malfunctioning Beastbot",
-				"zone": 1462,
-				"coords": 60804200
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151933
 		],
 		"class": 15
 	},
@@ -7415,13 +6422,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 151884,
-				"name": "Fungarian Furor",
-				"zone": 1462,
-				"coords": 48704760
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151884
 		],
 		"class": 15
 	},
@@ -7437,13 +6442,11 @@ export const data = [
 		"mastrtng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 127776,
-				"name": "Scaleclaw Broodmother",
-				"zone": 864,
-				"coords": 44208060
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			127776
 		],
 		"class": 4
 	},
@@ -7457,13 +6460,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 151702,
-				"name": "Paol Pondwader",
-				"zone": 1462,
-				"coords": 20406820
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151702
 		],
 		"class": 2
 	},
@@ -7473,19 +6474,12 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 151308,
-				"name": "Boggac Skullbash",
-				"zone": 1462,
-				"coords": 53003300
-			},
-			{
-				"npc": 151124,
-				"name": "Mechagonian Nullifier",
-				"zone": 1462,
-				"coords": 56805460
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151308,
+			151124
 		],
 		"class": 12
 	},
@@ -7495,13 +6489,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 151627,
-				"name": "Mr. Fixthis",
-				"zone": 1462,
-				"coords": 59406080
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151627
 		],
 		"class": 12
 	},
@@ -7511,13 +6503,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 151569,
-				"name": "Deepwater Maw",
-				"zone": 1462,
-				"coords": 35804300
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151569
 		],
 		"class": 12
 	},
@@ -7527,13 +6517,11 @@ export const data = [
 		"quality": 3,
 		"slot": 29,
 		"subclass": 9,
-		"source": [
-			{
-				"npc": 151569,
-				"name": "Deepwater Maw",
-				"zone": 1462,
-				"coords": 35804300
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			151569
 		],
 		"class": 19
 	},
@@ -7543,13 +6531,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150575,
-				"name": "Rumblerocks",
-				"zone": 1462,
-				"coords": 38405340
-			}
+		"zone": [
+			1462
+		],
+		"npc": [
+			150575
 		],
 		"class": 12
 	},
@@ -7559,13 +6545,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147222,
-				"name": "Gnollfeaster",
-				"zone": 49,
-				"coords": 24407040
-			}
+		"zone": [
+			49
+		],
+		"npc": [
+			147222
 		],
 		"class": 15
 	},
@@ -7575,13 +6559,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 150191,
-				"name": "Avarius",
-				"zone": 1355,
-				"coords": 37131119
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150191
 		],
 		"class": 15
 	},
@@ -7591,13 +6573,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150191,
-				"name": "Avarius",
-				"zone": 1355,
-				"coords": 37131119
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150191
 		],
 		"class": 9
 	},
@@ -7607,13 +6587,11 @@ export const data = [
 		"quality": 1,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 150191,
-				"name": "Avarius",
-				"zone": 1355,
-				"coords": 37131119
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			150191
 		],
 		"class": 9
 	},
@@ -7627,13 +6605,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 129835,
-				"name": "Gorehorn",
-				"zone": 896,
-				"coords": 56604380
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			129835
 		],
 		"class": 2
 	},
@@ -7647,13 +6623,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 124722,
-				"name": "Commodore Calhoun",
-				"zone": 864,
-				"coords": 42609220
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			124722
 		],
 		"class": 4
 	},
@@ -7663,13 +6637,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 149660,
-				"name": "Blackpaw",
-				"zone": 62,
-				"coords": 49402480
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			149660
 		],
 		"class": 15
 	},
@@ -7679,13 +6651,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154394,
-				"name": "Veskan the Fallen",
-				"zone": 1530,
-				"coords": 85404120
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154394
 		],
 		"class": 15
 	},
@@ -7695,13 +6665,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154394,
-				"name": "Veskan the Fallen",
-				"zone": 1530,
-				"coords": 85404120
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154394
 		],
 		"class": 15
 	},
@@ -7711,13 +6679,11 @@ export const data = [
 		"quality": 0,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 154394,
-				"name": "Veskan the Fallen",
-				"zone": 1530,
-				"coords": 85404120
-			}
+		"zone": [
+			1530
+		],
+		"npc": [
+			154394
 		],
 		"class": 15
 	},
@@ -7727,13 +6693,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147240,
-				"name": "Hydrath",
-				"zone": 62,
-				"coords": 52403200
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147240
 		],
 		"class": 15
 	},
@@ -7743,13 +6707,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147241,
-				"name": "Cyclarus",
-				"zone": 62,
-				"coords": 43805340
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147241
 		],
 		"class": 15
 	},
@@ -7759,13 +6721,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 157473,
-				"name": "Yiphrim the Will Ravager",
-				"zone": 1527,
-				"coords": 50007860
-			}
+		"zone": [
+			1527
+		],
+		"npc": [
+			157473
 		],
 		"class": 15
 	},
@@ -7775,13 +6735,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 4,
-		"source": [
-			{
-				"npc": 152359,
-				"name": "Siltstalker the Packmother",
-				"zone": 1355,
-				"coords": 71205440
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152359
 		],
 		"class": 15
 	},
@@ -7791,13 +6749,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 152360,
-				"name": "Toxigore the Alpha",
-				"zone": 1355,
-				"coords": 64604700
-			}
+		"zone": [
+			1355
+		],
+		"npc": [
+			152360
 		],
 		"class": 15
 	},
@@ -7811,13 +6767,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139980,
-				"name": "Taja the Tidehowler",
-				"zone": 942,
-				"coords": 60004620
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			139980
 		],
 		"class": 4
 	},
@@ -7833,13 +6787,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 137025,
-				"name": "Broodmother",
-				"zone": 942,
-				"coords": 29206940
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			137025
 		],
 		"class": 4
 	},
@@ -7853,13 +6805,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 127820,
-				"name": "Scout Skrasniss",
-				"zone": 863,
-				"coords": 59003900
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			127820
 		],
 		"class": 2
 	},
@@ -7869,13 +6819,11 @@ export const data = [
 		"quality": 4,
 		"slot": 0,
 		"subclass": 5,
-		"source": [
-			{
-				"npc": 148037,
-				"name": "Athil Dewfire",
-				"zone": 62,
-				"coords": 40807300
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148037
 		],
 		"class": 15
 	},
@@ -7885,13 +6833,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147260,
-				"name": "Conflagros",
-				"zone": 62,
-				"coords": 39206180
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147260
 		],
 		"class": 15
 	},
@@ -7901,13 +6847,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147942,
-				"name": "Twilight Prophet Graeme",
-				"zone": 62,
-				"coords": 40408240
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147942
 		],
 		"class": 15
 	},
@@ -7917,19 +6861,12 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 2,
-		"source": [
-			{
-				"npc": 147758,
-				"name": "Onu",
-				"zone": 62,
-				"coords": 45207500
-			},
-			{
-				"npc": 147664,
-				"name": "Zim'kaga",
-				"zone": 62,
-				"coords": 62400940
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			147758,
+			147664
 		],
 		"class": 15
 	},
@@ -7943,13 +6880,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 130897,
-				"name": "Captain Razorspine",
-				"zone": 942,
-				"coords": 47206580
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			130897
 		],
 		"class": 2
 	},
@@ -7960,13 +6895,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -7977,13 +6910,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -7994,13 +6925,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8013,13 +6942,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8034,13 +6961,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8054,13 +6979,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8076,13 +6999,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8096,13 +7017,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8118,13 +7037,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8138,13 +7055,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8160,13 +7075,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 148295,
-				"name": "Ivus the Decayed",
-				"zone": 62,
-				"coords": 41003540
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			148295
 		],
 		"class": 4
 	},
@@ -8179,13 +7092,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8200,13 +7111,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8220,13 +7129,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8242,13 +7149,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8262,13 +7167,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8284,13 +7187,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8304,13 +7205,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8326,13 +7225,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8343,13 +7240,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8360,13 +7255,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"agi": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8377,13 +7270,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"source": [
-			{
-				"npc": 144946,
-				"name": "Ivus the Forest Lord",
-				"zone": 62,
-				"coords": 41403600
-			}
+		"zone": [
+			62
+		],
+		"npc": [
+			144946
 		],
 		"class": 4
 	},
@@ -8393,13 +7284,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 142725,
-				"name": "Horrific Apparition",
-				"zone": 14,
-				"coords": 19406140
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			142725
 		],
 		"class": 0
 	},
@@ -8409,13 +7298,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 0,
-		"source": [
-			{
-				"npc": 141618,
-				"name": "Cresting Goliath",
-				"zone": 14,
-				"coords": 61403140
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			141618
 		],
 		"class": 15
 	},
@@ -8432,13 +7319,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 141143,
-				"name": "Sister Absinthe",
-				"zone": 942,
-				"coords": 61405700
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			141143
 		],
 		"class": 4
 	},
@@ -8454,13 +7339,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 127844,
-				"name": "Gluttonous Yeti",
-				"zone": 896,
-				"coords": 63006940
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			127844
 		],
 		"class": 4
 	},
@@ -8476,13 +7359,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140925,
-				"name": "Doc Marrtens",
-				"zone": 942,
-				"coords": 53406420
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			140925
 		],
 		"class": 4
 	},
@@ -8497,13 +7378,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8518,13 +7397,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8540,13 +7417,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8562,13 +7437,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8582,13 +7455,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8604,13 +7475,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8626,13 +7495,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8646,13 +7513,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8663,13 +7528,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8680,13 +7543,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8702,13 +7563,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 140252,
-				"name": "Hailstone Construct",
-				"zone": 896,
-				"coords": 49207420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			140252
 		],
 		"class": 4
 	},
@@ -8722,13 +7581,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139322,
-				"name": "Whitney \"Steelclaw\" Ramsay",
-				"zone": 896,
-				"coords": 29406420
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			139322
 		],
 		"class": 2
 	},
@@ -8744,13 +7601,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 139235,
-				"name": "Tort Jaw",
-				"zone": 895,
-				"coords": 70005540
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139235
 		],
 		"class": 4
 	},
@@ -8764,13 +7619,11 @@ export const data = [
 		"critstrkrtng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 139145,
-				"name": "Blackthorne",
-				"zone": 895,
-				"coords": 85207340
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			139145
 		],
 		"class": 2
 	},
@@ -8784,13 +7637,11 @@ export const data = [
 		"hastertng": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138618,
-				"name": "Haywire Golem",
-				"zone": 896,
-				"coords": 23603060
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			138618
 		],
 		"class": 2
 	},
@@ -8804,13 +7655,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8823,13 +7672,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8842,13 +7689,11 @@ export const data = [
 		"subclass": 1,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8862,13 +7707,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8882,13 +7725,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8902,13 +7743,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8922,13 +7761,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8942,13 +7779,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8959,13 +7794,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"int": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8976,13 +7809,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"mastrtng": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -8993,13 +7824,11 @@ export const data = [
 		"slot": 12,
 		"subclass": -4,
 		"str": true,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 4
 	},
@@ -9009,13 +7838,11 @@ export const data = [
 		"quality": 2,
 		"slot": 0,
 		"subclass": 3,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 9
 	},
@@ -9025,13 +7852,11 @@ export const data = [
 		"quality": 3,
 		"slot": 0,
 		"subclass": 8,
-		"source": [
-			{
-				"npc": 138122,
-				"name": "Doom's Howl",
-				"zone": 14,
-				"coords": 38624107
-			}
+		"zone": [
+			14
+		],
+		"npc": [
+			138122
 		],
 		"class": 0
 	},
@@ -9045,13 +7870,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 137825,
-				"name": "Avalanche",
-				"zone": 896,
-				"coords": 43808820
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			137825
 		],
 		"class": 4
 	},
@@ -9067,13 +7890,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 137183,
-				"name": "Honey-Coated Slitherer",
-				"zone": 895,
-				"coords": 64201940
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			137183
 		],
 		"class": 4
 	},
@@ -9089,13 +7910,11 @@ export const data = [
 		"int": true,
 		"mastrtng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 136341,
-				"name": "Jungleweb Hunter",
-				"zone": 864,
-				"coords": 60401740
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136341
 		],
 		"class": 4
 	},
@@ -9111,13 +7930,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 136336,
-				"name": "Scorpox",
-				"zone": 864,
-				"coords": 32806520
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			136336
 		],
 		"class": 4
 	},
@@ -9131,13 +7948,11 @@ export const data = [
 		"critstrkrtng": true,
 		"hastertng": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 135796,
-				"name": "Captain Leadfist",
-				"zone": 896,
-				"coords": 26601460
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			135796
 		],
 		"class": 2
 	},
@@ -9151,13 +7966,11 @@ export const data = [
 		"hastertng": true,
 		"sta": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 134213,
-				"name": "Executioner Blackwell",
-				"zone": 896,
-				"coords": 30801860
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			134213
 		],
 		"class": 2
 	},
@@ -9173,13 +7986,11 @@ export const data = [
 		"sta": true,
 		"str": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 132244,
-				"name": "Kiboku",
-				"zone": 862,
-				"coords": 75403580
-			}
+		"zone": [
+			862
+		],
+		"npc": [
+			132244
 		],
 		"class": 4
 	},
@@ -9192,13 +8003,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 132007,
-				"name": "Galestorm",
-				"zone": 942,
-				"coords": 71205420
-			}
+		"zone": [
+			942
+		],
+		"npc": [
+			132007
 		],
 		"class": 4
 	},
@@ -9211,13 +8020,11 @@ export const data = [
 		"agi": true,
 		"int": true,
 		"str": true,
-		"source": [
-			{
-				"npc": 131389,
-				"name": "Teres",
-				"zone": 895,
-				"coords": 63805040
-			}
+		"zone": [
+			895
+		],
+		"npc": [
+			131389
 		],
 		"class": 4
 	},
@@ -9233,13 +8040,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 127873,
-				"name": "Scrounger Patriarch",
-				"zone": 863,
-				"coords": 58200900
-			}
+		"zone": [
+			863
+		],
+		"npc": [
+			127873
 		],
 		"class": 4
 	},
@@ -9253,13 +8058,11 @@ export const data = [
 		"int": true,
 		"sta": true,
 		"versatility": true,
-		"source": [
-			{
-				"npc": 129995,
-				"name": "Emily Mayville",
-				"zone": 896,
-				"coords": 63404020
-			}
+		"zone": [
+			896
+		],
+		"npc": [
+			129995
 		],
 		"class": 4
 	},
@@ -9275,13 +8078,11 @@ export const data = [
 		"hastertng": true,
 		"int": true,
 		"sta": true,
-		"source": [
-			{
-				"npc": 128674,
-				"name": "Gut-Gut the Glutton",
-				"zone": 864,
-				"coords": 64004760
-			}
+		"zone": [
+			864
+		],
+		"npc": [
+			128674
 		],
 		"class": 4
 	}

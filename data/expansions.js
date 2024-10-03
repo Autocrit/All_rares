@@ -11,11 +11,11 @@ export const expansions = [
 			{ "name": "Azj-Kahet", "id": 2255 },
 			{ "name": "City of Threads Umbral Bazaar", "id": 2213 }
 		]
-    },
+	},
 	*/
 	{
 		"expansion_name": "Dragonflight",
-		"expansion_id": "dragonflight",
+		"expansion_id": "df",
 		"zones": [
 			{ "name": "The Waking Shores", "id": 2022, "default": true },
 			{ "name": "Ohn'ahran Plains", "id": 2023, "default": true },
@@ -31,7 +31,7 @@ export const expansions = [
 	},
 	{
 		"expansion_name": "Shadowlands",
-		"expansion_id": "shadowlands",
+		"expansion_id": "sl",
 		"zones": [
 			{ "name": "Ardenweald", "id": 1565 },
 			{ "name": "Bastian", "id": 1533 },
@@ -46,7 +46,7 @@ export const expansions = [
 	},
 	{
 		"expansion_name": "Battle for Azeroth",
-		"expansion_id": "battleforazeroth",
+		"expansion_id": "bfa",
 		"zones": [
 			{ "name": "Boralus", "id": 1161, "default": true },
 			{ "name": "Drustvar", "id": 896, "default": true },
@@ -63,5 +63,23 @@ export const expansions = [
 			//{ "name": "Tirisfal Glades", "id": 2070 },
 			{ "name": "Uldum", "id": 1527 }
 		]
-	}
+	},
+	{
+		"expansion_name": "Warlords Of Draenor",
+		"expansion_id": "wod",
+		"zones": [
+			{ "name": "Tanaan Jungle", "id": 534 },
+			{ "name": "Frostfire Ridge", "id": 525, "default": true },
+			{ "name": "Nagrand", "id": 550 },
+			{ "name": "Spires of Arak", "id": 542 },
+			{ "name": "Talador", "id": 535, "default": true },
+			{ "name": "Ashran", "id": 588 },
+			{ "name": "Gorgrond", "id": 543, "default": true },
+			{ "name": "Shadowmoon Valley", "id": 539, "default": true },
+			{ "name": "Lunarfall", "id": 579 },
+			{ "name": "Iron Docks", "id": 595 },
+			{ "name": "Upper Blackrock Spire", "id": 616 },
+			{ "name": "Razorfen Kraul", "id": 301 },
+		]
+	},
 ];

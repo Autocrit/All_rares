@@ -1,67 +1,65 @@
 body {
 	font-family: "Inconsolata", monospace;
 	font-size: 18px;
-	background-color: rgb(23, 23, 23);
-	color: #b3b3b3
+	background: #242422;
+	color: #e4e3d8;
 	
 	/*text-align: left;*/
 }
 
-.wrapper {
-	margin: 15px;
+.header {
+	max-width: 1200px;
+	margin: 40px auto;
+	border-bottom: 1px solid #c2c1b8;
 }
 
-.row {
-	display: flex;
-	flex-direction: row;
+.grid-container {
+	max-width: 1200px;
+	display: grid;
+	grid-template-columns: .2fr .8fr;
+	gap: 20px;
+	margin: 20px auto;
 }
 
-.column {
-	flex: auto;
-	flex-direction: column;
-	flex-basis: 100%;
-	flex: 1;
-}
-
-table.results td, th {
-    border: 1px solid #3c3c3c;
+table td, th {
+    border: 1px solid #c2c1b8;
 	padding: 8px;
 }
 
-table.results {
-	background: rgb(29, 29, 29);
-	margin: 0px auto;
-	table-layout: auto;
-	width: 100%;
-	border-collapse: collapse;
+th {
+	font-weight: bold;
 }
 
-.gear-icon {
-	width: 18px;
-	height: 18px;
-	float: left;
-	margin-right: 6px;
+table {
+	/*background: rgb(29, 29, 29);*/
+	width: 100%;
+	margin: 0px auto;
+	table-layout: auto;
+	border-collapse: collapse;
 }
 
 ul {
 	list-style: none;
 	margin: 0;
-	padding: 0.4em;
+	margin: 0px auto;
+	padding: 5px;
 }
 
-.colour-common {
-	color: #1eff00
-}
-
-.colour-rare {
-	color: #0081ff;
-}
-
-.colour-epic {
-	color: #c600ff;
-}
-
-h4 {
-	margin: 0;
+h2 {
+	margin: 0 0 20px 0;
 	padding: 0;
+}
+
+h3 {
+	margin: 10px 0 5px 0;
+	padding: 0;
+}
+
+textarea {
+	width: 100%;
+	height: 400px;
+	font-family: inherit;
+	font-size: inherit;
+	background: transparent;
+	color: inherit;
 }

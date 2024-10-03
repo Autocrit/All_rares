@@ -104,17 +104,15 @@ for id in unique_ids:
 			elif key in stats and data[key] > 0:
 				item[key] = True
 
-	# Get npc(s) and zone(s)
-	item["source"] = []
+	# Get zones from rares
+	item["zone"] = []
+	item["npc"] = []
 	for rare in rares:
 		if id in rare["loot"]:
-			source = {}
-			source["npc"] = rare["npc"]
-			source["name"] = rare["name"]
-			source["zone"] = rare["zone"]
-			source["coords"] = rare["coords"]
-
-			item["source"].append(source)
+			if rare["zone"] not in item["zone"]:
+				item["zone"].append(rare["zone"])
+			if rare["npc"] not in item["npc"]:
+				item["npc"].append(rare["npc"])
 
 	# Could filter data here
 	#if item["class"] == 2 or item["class"] == 4:

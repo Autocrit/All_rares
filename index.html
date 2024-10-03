@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
-	<title>Items</title>
+	<title>All rares</title>
 	<link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 	<link rel="stylesheet" href="./styles.css">
 	<script src="./script.js" type="module"></script>
@@ -17,36 +17,39 @@
 	<script src="https://wow.zamimg.com/js/tooltips.js"></script>
 </head>
 <body>
-    <div class="row">
-        <div class="column">
-            <h3>Options</h3>
-			<div id="options">
-            </div>
+    <div class="header">
+        <h1>All rares</h1>
+    </div>
+    <div class="grid-container">
+        <div class="grid-element">
+            <h2>Options</h2>
+			<div id="options"></div>
 		</div>
-        <div class="column">
+        <div class="grid-element">
             <table class="results">
                 <thead>
                     <tr>
                         <th>Item</th>
-                        <th>Class</th>
-                        <th>Subclass</th>
-                        <th>Slot</th>
                         <th>Armor</th>
-                        <th>Stamina</th>
-                        <th>Agility</th>
-                        <th>Intellect</th>
-                        <th>Strength</th>
+                        <th>Stam</th>
+                        <th>Agi</th>
+                        <th>Int</th>
+                        <th>Str</th>
                         <th>Crit</th>
                         <th>Haste</th>
                         <th>Mastery</th>
-                        <th>Versatility</th>
-                        <th>Zone</th>
-                        <th>NPC</th>
+                        <th>Versa</th>
                     </tr>
                 </thead>
                 <tbody id="table_contents">
                 </tbody>
             </table>
 		</div>
+        <div class="grid-element">
+            <h2>Waypoints</h2>
+        </div>
+        <div class="grid-element">
+            <textarea id="waypoints" rows="50" readonly>
+        </div>
     </div>
 </body>
