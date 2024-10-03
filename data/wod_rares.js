@@ -1,3 +1,4 @@
+export const data =
 [
 	{
 		"name": "Magwia",
@@ -3290,4 +3291,4 @@
 			108906
 		]
 	}
-]
+];

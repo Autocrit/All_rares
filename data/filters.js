@@ -125,7 +125,7 @@ export var filters = [
 	{
 		"category_name": "Armor type",
 		"category_id": "armortype",
-		"filter_type": "single",
+		"filter_type": "multiple",
 		"category_filters":
 			[
 				{
@@ -138,6 +138,7 @@ export var filters = [
 				},
 				{
 					"filter_name": "Leather",
+					"default": true,
 					"criteria":
 					{
 						"class": 4,
@@ -146,6 +147,7 @@ export var filters = [
 				},
 				{
 					"filter_name": "Mail",
+					"default": true,
 					"criteria":
 					{
 						"class": 4,
@@ -154,6 +156,7 @@ export var filters = [
 				},
 				{
 					"filter_name": "Plate",
+					"default": true,
 					"criteria":
 					{
 						"class": 4,

@@ -17,16 +17,16 @@ export const expansions = [
 		"expansion_name": "Dragonflight",
 		"expansion_id": "df",
 		"zones": [
-			{ "name": "The Waking Shores", "id": 2022, "default": true },
+			{ "name": "Emerald Dream", "id": 2200 },
 			{ "name": "Ohn'ahran Plains", "id": 2023, "default": true },
-			{ "name": "The Azure Span", "id": 2024, "default": true },
-			{ "name": "Thaldraszus", "id": 2025, },
 			{ "name": "Primalist Future", "id": 2085, },
+			{ "name": "Thaldraszus", "id": 2025, },
+			{ "name": "The Azure Span", "id": 2024, "default": true },
+			//{ "name": "The Forbidden Reach", "id": 2151 },
+			{ "name": "The Forbidden Reach", "id": 2118, },
+			{ "name": "The Waking Shores", "id": 2022, "default": true },
 			//{ "name": "Valdrakken", "id": 2112, },
-			{ "name": "Forbidden Reach Intro", "id": 2118, },
 			{ "name": "Zaralek Cavern", "id": 2133 },
-			{ "name": "The Forbidden Reach", "id": 2151 },
-			{ "name": "Emerald Dream", "id": 2200 }
 		]
 	},
 	{
@@ -76,10 +76,10 @@ export const expansions = [
 			{ "name": "Ashran", "id": 588 },
 			{ "name": "Gorgrond", "id": 543, "default": true },
 			{ "name": "Shadowmoon Valley", "id": 539, "default": true },
-			{ "name": "Lunarfall", "id": 579 },
-			{ "name": "Iron Docks", "id": 595 },
-			{ "name": "Upper Blackrock Spire", "id": 616 },
-			{ "name": "Razorfen Kraul", "id": 301 },
+			//{ "name": "Lunarfall", "id": 579 },
+			//{ "name": "Iron Docks", "id": 595 },
+			//{ "name": "Upper Blackrock Spire", "id": 616 },
+			//{ "name": "Razorfen Kraul", "id": 301 },
 		]
 	},
 ];
