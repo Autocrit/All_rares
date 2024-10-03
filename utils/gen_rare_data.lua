@@ -3,8 +3,9 @@
 
 -- Print the lua table as a js array
 
-require "dragonflight_rares"
+require "df_rares"
 require "bfa_rares"
+require "wod_rares"
 
 -- Zone info
 
@@ -87,7 +88,7 @@ function table_to_js_bfa(table)
 	end
 end
 
-local expansion = "bfa"
+local expansion = "wod"
 
 print("export const data =")
 print("[")
@@ -110,6 +111,8 @@ if(expansion == "dragonflight") then
 	table_to_js_df(emerald_dream_rares2, EMERALD_DREAM)
 elseif expansion == "bfa" then
 	table_to_js_bfa(bfa_rares)
+elseif expansion == "wod" then
+	table_to_js_bfa(wod_rares)
 end
 
 print("];")
