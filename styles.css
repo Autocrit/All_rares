@@ -13,6 +13,14 @@ body {
 	border-bottom: 1px solid #c2c1b8;
 }
 
+.footer {
+	color: #8f8e85;
+	font-size: 16px;
+	max-width: 1200px;
+	margin: 40px auto;
+	border-top: 1px solid #c2c1b8;
+}
+
 .grid-container {
 	max-width: 1200px;
 	display: grid;

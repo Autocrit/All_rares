@@ -1,55 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8" />
 	<title>All rares</title>
 	<link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
 	<link rel="stylesheet" href="./styles.css">
 	<script src="./script.js" type="module"></script>
-    <script>
-        const whTooltips = {
-            colorLinks: true,
-            iconizeLinks: true,
-            renameLinks: false,
-            iconSize: "tiny",
-        };
-    </script>
+	<script>
+		const whTooltips = {
+			colorLinks: true,
+			iconizeLinks: true,
+			renameLinks: false,
+			iconSize: "tiny",
+		};
+	</script>
 	<script src="https://wow.zamimg.com/js/tooltips.js"></script>
 </head>
+
 <body>
-    <div class="header">
-        <h1>All rares</h1>
-    </div>
-    <div class="grid-container">
-        <div class="grid-element">
-            <h2>Options</h2>
+	<div class="header">
+		<h1>All rares</h1>
+	</div>
+	<div class="grid-container">
+		<div class="grid-element">
+			<h2>Options</h2>
 			<div id="options"></div>
 		</div>
-        <div class="grid-element">
-            <table class="results">
-                <thead>
-                    <tr>
-                        <th>Item</th>
-                        <th>Stam</th>
-                        <th>Str</th>
-                        <th>Agi</th>
-                        <th>Int</th>
-                        <th>Crit</th>
-                        <th>Haste</th>
-                        <th>Mastery</th>
-                        <th>Versa</th>
-                    </tr>
-                </thead>
-                <tbody id="table_contents">
-                </tbody>
-            </table>
+		<div class="grid-element">
+			<table class="results">
+				<thead>
+					<tr>
+						<th>Item</th>
+						<th>Stam</th>
+						<th>Str</th>
+						<th>Agi</th>
+						<th>Int</th>
+						<th>Crit</th>
+						<th>Haste</th>
+						<th>Mastery</th>
+						<th>Versa</th>
+					</tr>
+				</thead>
+				<tbody id="table_contents">
+				</tbody>
+			</table>
 		</div>
-        <div class="grid-element">
-            <h2>Waypoints</h2>
-        </div>
-        <div class="grid-element">
-            <textarea id="waypoints" rows="50" readonly>
-        </div>
-    </div>
+		<div class="grid-element">
+			<h2>Waypoints</h2>
+		</div>
+		<div class="grid-element">
+			<textarea id="waypoints" rows="50" readonly></textarea>
+		</div>
+	</div>
+	<div class="footer">
+		<p>
+			Data is from SilverDragon (<a href="https://www.curseforge.com/wow/addons/silver-dragon"
+				target="_blank">Curseforge</a> or <a href="https://github.com/kemayo/wow-silverdragon"
+				target="_blank">GitHub</a>)
+			and Wowhead
+		</p>
+	</div>
 </body>
+
 </html>
