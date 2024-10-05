@@ -4,6 +4,7 @@
 -- Print the lua table as a js array
 
 require "df_rares"
+require "sl_rares"
 require "bfa_rares"
 require "wod_rares"
 
@@ -88,7 +89,7 @@ function table_to_js_bfa(table)
 	end
 end
 
-local expansion = "wod"
+local expansion = "sl"
 
 print("export const data =")
 print("[")
@@ -109,6 +110,8 @@ if(expansion == "dragonflight") then
 	table_to_js_df(zaralek_cavern_rares, ZARALEK_CAVERN)
 	table_to_js_df(emerald_dream_rares1, EMERALD_DREAM)
 	table_to_js_df(emerald_dream_rares2, EMERALD_DREAM)
+elseif expansion == "sl" then
+	table_to_js_bfa(sl_rares)
 elseif expansion == "bfa" then
 	table_to_js_bfa(bfa_rares)
 elseif expansion == "wod" then
