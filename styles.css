@@ -75,6 +75,7 @@ textarea {
 	font-size: inherit;
 	background: transparent;
 	color: inherit;
+	resize: none;
 }
 
 input {
