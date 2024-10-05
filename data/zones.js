@@ -21,7 +21,7 @@ export const expansions = [
 			{ "name": "Emerald Dream", "id": 2200 },
 			{ "name": "The Forbidden Reach", "id": 2118, },
 			{ "name": "Ohn'ahran Plains", "id": 2023, "checked": true, },
-			{ "name": "Primalist Future", "id": 2085, },
+			{ "name": "The Primalist Future", "id": 2085, },
 			{ "name": "Thaldraszus", "id": 2025, },
 			//{ "name": "The Forbidden Reach", "id": 2151 },
 			//{ "name": "Valdrakken", "id": 2112, },
