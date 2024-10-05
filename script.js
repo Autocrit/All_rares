@@ -2,10 +2,12 @@ import { filters } from "./data/filters.js";
 import { expansions } from "./data/zones.js";
 
 import { data as df_items } from "./data/df_items.js";
+import { data as sl_items } from "./data/sl_items.js";
 import { data as bfa_items } from "./data/bfa_items.js";
 import { data as wod_items } from "./data/wod_items.js";
 
 import { data as df_rares } from "./data/df_rares.js";
+import { data as sl_rares } from "./data/sl_rares.js";
 import { data as bfa_rares } from "./data/bfa_rares.js";
 import { data as wod_rares } from "./data/wod_rares.js";
 
