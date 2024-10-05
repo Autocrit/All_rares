@@ -1,32 +1,33 @@
+// Filters grouped into categories
 export var filters = [
 	{
-		"category_name": "Expansion",
-		"category_id": "expansion",
-		"filter_type": "single",
-		"category_filters":
+		"name": "Expansion",
+		"id": "expansion",
+		"type": "single",
+		"filters":
 			[
 				{
-					"filter_name": "Dragopnflight",
-					"default": true,
+					"name": "Dragopnflight",
+					"checked": true,
 					"data": "df",
 					"criteria":
 						{ "expansion": "df" }
 				},
 				/*
 				{
-					"filter_name": "Shadowlands",
+					"name": "Shadowlands",
 					"criteria":
 						{ "expansion": "shadowlands" }
 				},
 				*/
 				{
-					"filter_name": "Battle for Azeroth",
+					"name": "Battle for Azeroth",
 					"data": "bfa",
 					"criteria":
 						{ "expansion": "bfa" }
 				},
 				{
-					"filter_name": "Warlords of Draenor",
+					"name": "Warlords of Draenor",
 					"data": "wod",
 					"criteria":
 						{ "expansion": "wod" }
@@ -34,111 +35,30 @@ export var filters = [
 			]
 	},
 	{
-		"category_name": "Zone",
-		"category_id": "zone",
-		"filter_type": "multiple",
-		"category_filters": [
-			/*
-			{
-				"filter_name": "The Waking Shores",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2022,
-				}
-			},
-			{
-				"filter_name": "Ohn'ahran Plains",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2023,
-				}
-			},	,
-			{
-				"filter_name": "The Azure Span",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2024,
-				}
-			},
-			{
-				"filter_name": "Thaldraszus",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2025,
-				}
-			},
-			{
-				"filter_name": "Primalist Future",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2085,
-				}
-			},
-			{
-				"filter_name": "Valdrakken",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2112,
-				}
-			},
-			{
-				"filter_name": "Forbidden Reach Intro",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2118,
-				}
-			},
-			{
-				"filter_name": "Zaralek Cavern",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2133,
-				}
-			},
-			{
-				"filter_name": "The Forbidden Reach",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2151,
-				}
-			},
-			{
-				"filter_name": "Emerald Dream",
-				"default": true,
-				"criteria":
-				{
-					"zone": 2200
-				}
-			},
-			*/
-		]
+		"name": "Zone",
+		"id": "zone",
+		"type": "multiple",
+		"toggle": true,
+		"filters": [],
 	},
 	{
-		"category_name": "Armor type",
-		"category_id": "armortype",
-		"filter_type": "multiple",
-		"category_filters":
+		"name": "Armor type",
+		"id": "armortype",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
 			[
 				{
-					"filter_name": "Cloth",
-					"default": true,
+					"name": "Cloth",
+					"checked": true,
 					"criteria": {
 						"class": 4,
 						"subclass": 1
 					}
 				},
 				{
-					"filter_name": "Leather",
-					"default": true,
+					"name": "Leather",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -146,8 +66,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Mail",
-					"default": true,
+					"name": "Mail",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -155,8 +75,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Plate",
-					"default": true,
+					"name": "Plate",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -166,14 +86,15 @@ export var filters = [
 			]
 	},
 	{
-		"category_name": "Armor slot",
-		"category_id": "armorslot",
-		"filter_type": "multiple",
-		"category_filters":
+		"name": "Armor slot",
+		"id": "armorslot",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
 			[
 				{
-					"filter_name": "Head",
-					"default": true,
+					"name": "Head",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -181,17 +102,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Neck",
-					"default": true,
-					"criteria":
-					{
-						"class": 4,
-						"slot": 2,
-					}
-				},
-				{
-					"filter_name": "Shoulders",
-					"default": true,
+					"name": "Shoulders",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -199,17 +111,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Back",
-					"default": true,
-					"criteria":
-					{
-						"class": 4,
-						"slot": 16,
-					}
-				},
-				{
-					"filter_name": "Chest",
-					"default": true,
+					"name": "Chest",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -217,8 +120,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Wrist",
-					"default": true,
+					"name": "Wrist",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -226,8 +129,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Hands",
-					"default": true,
+					"name": "Hands",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -235,8 +138,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Waist",
-					"default": true,
+					"name": "Waist",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -244,8 +147,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Legs",
-					"default": true,
+					"name": "Legs",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -253,17 +156,44 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Feet",
-					"default": true,
+					"name": "Feet",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
 						"slot": 8,
 					}
 				},
+			]
+	},
+	{
+		"name": "Other armor",
+		"id": "otherarmor",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
+			[
 				{
-					"filter_name": "Finger",
-					"default": true,
+					"name": "Neck",
+					"checked": true,
+					"criteria":
+					{
+						"class": 4,
+						"slot": 2,
+					}
+				},
+				{
+					"name": "Back",
+					"checked": true,
+					"criteria":
+					{
+						"class": 4,
+						"slot": 16,
+					}
+				},
+				{
+					"name": "Finger",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -271,8 +201,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Trinket",
-					"default": true,
+					"name": "Trinket",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -280,8 +210,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Shield",
-					"default": true,
+					"name": "Shield",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -289,8 +219,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Off-hand",
-					"default": true,
+					"name": "Off-hand",
+					"checked": true,
 					"criteria":
 					{
 						"class": 4,
@@ -300,14 +230,15 @@ export var filters = [
 			]
 	},
 	{
-		"category_name": "Weapon type",
-		"category_id": "weapon",
-		"filter_type": "multiple",
-		"category_filters":
+		"name": "Weapon type",
+		"id": "weapon",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
 			[
 				{
-					"filter_name": "Dagger",
-					"default": true,
+					"name": "Dagger",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -315,8 +246,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Fist weapon",
-					"default": true,
+					"name": "Fist weapon",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -324,8 +255,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "One-handed axe",
-					"default": true,
+					"name": "One-handed axe",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -333,8 +264,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "One-handed mace",
-					"default": true,
+					"name": "One-handed mace",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -342,8 +273,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "One-handed sword",
-					"default": true,
+					"name": "One-handed sword",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -351,8 +282,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Warglaive",
-					"default": true,
+					"name": "Warglaive",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -360,8 +291,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Polearm",
-					"default": true,
+					"name": "Polearm",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -369,8 +300,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Staff",
-					"default": true,
+					"name": "Staff",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -378,8 +309,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Two-handed axe",
-					"default": true,
+					"name": "Two-handed axe",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -387,8 +318,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Two-handed mace",
-					"default": true,
+					"name": "Two-handed mace",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -396,8 +327,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Two-handed sword",
-					"default": true,
+					"name": "Two-handed sword",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -405,8 +336,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Bow",
-					"default": true,
+					"name": "Bow",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -414,8 +345,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Crossbow",
-					"default": true,
+					"name": "Crossbow",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -423,8 +354,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Gun",
-					"default": true,
+					"name": "Gun",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -432,8 +363,8 @@ export var filters = [
 					}
 				},
 				{
-					"filter_name": "Wand",
-					"default": true,
+					"name": "Wand",
+					"checked": true,
 					"criteria":
 					{
 						"class": 2,
@@ -443,65 +374,118 @@ export var filters = [
 			]
 	},
 	{
-		"category_name": "Stats",
-		"category_id": "stats",
-		"filter_type": "multiple",
-		"category_filters":
+		"name": "Primary attributes",
+		"id": "primary_attribs",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
 			[
 				{
-					"filter_name": "Agility",
-					"default": true,
+					"name": "Stamina",
+					"checked": true,
+					"criteria":
+					{
+						"sta": true,
+					}
+				},
+				{
+					"name": "Strength",
+					"checked": true,
+					"criteria":
+					{
+						"str": true,
+					}
+				},
+				{
+					"name": "Agility",
+					"checked": true,
 					"criteria":
 					{
 						"agi": true,
 					}
 				},
 				{
-					"filter_name": "Intellect",
-					"default": true,
+					"name": "Intellect",
+					"checked": true,
 					"criteria":
 					{
 						"int": true,
 					}
 				},
+			]
+	},
+/*
+	{
+		"name": "Secondary attributes",
+		"id": "secondary_attribs",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
+			[
 				{
-					"filter_name": "Strength",
-					"default": true,
+					"name": "Critical strike",
+					"checked": true,
 					"criteria":
 					{
-						"str": true,
+						"critstrkrtng": true,
+					}
+				},
+				{
+					"name": "Haste",
+					"checked": true,
+					"criteria":
+					{
+						"hastertng": true,
+					}
+				},
+				{
+					"name": "Mastery",
+					"checked": true,
+					"criteria":
+					{
+						"mastrtng": true,
+					}
+				},
+				{
+					"name": "Versatility",
+					"checked": true,
+					"criteria":
+					{
+						"versatility": true,
 					}
 				},
 			]
 	},
+*/
 	{
-		"category_name": "Item quality",
-		"category_id": "quality",
-		"filter_type": "multiple",
-		"category_filters":
+		"name": "Item quality",
+		"id": "quality",
+		"type": "multiple",
+		"toggle": true,
+		"filters":
 			[
 				{
-					"filter_name": "Common",
+					"name": "Common",
 					"criteria":
 					{
 						"quality": 2,
 					}
 				},
 				{
-					"filter_name": "Rare",
-					"default": true,
+					"name": "Rare",
+					"checked": true,
 					"criteria":
 					{
 						"quality": 3,
 					}
 				},
 				{
-					"filter_name": "Epic",
+					"name": "Epic",
 					"criteria":
 					{
 						"quality": 4,
 					}
 				},
 			]
-		},
+	},
 ];

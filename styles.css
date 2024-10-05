@@ -37,12 +37,17 @@ table {
 	table-layout: auto;
 	border-collapse: collapse;
 }
-
+/*
 ul {
 	list-style: none;
 	margin: 0;
 	margin: 0px auto;
 	padding: 5px;
+}
+*/
+
+ul li {
+	list-style-type: none;
 }
 
 h2 {
@@ -62,4 +67,12 @@ textarea {
 	font-size: inherit;
 	background: transparent;
 	color: inherit;
+}
+
+input {
+	margin-right: 5px;
+}
+
+.large-label {
+	font-size: 20px;
 }

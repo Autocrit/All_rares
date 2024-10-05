@@ -1,5 +1,5 @@
 import { filters } from "./data/filters.js";
-import { expansions } from "./data/expansions.js";
+import { expansions } from "./data/zones.js";
 
 import { data as df_items } from "./data/df_items.js";
 import { data as bfa_items } from "./data/bfa_items.js";
@@ -14,7 +14,7 @@ function pre_filter_items(items) {
 	return items.filter((item) => item.class == 2 || item.class == 4);
 }
 
-var all_items = [];
+var all_items = [], filtered_items = [];
 var all_rares = [], filtered_rares = [];
 
 // Temporary
@@ -22,32 +22,32 @@ var all_rares = [], filtered_rares = [];
 //	item.expansion = "dragonflight";
 //})
 
-function update_filters() {
-	// Set zones based on default expansion
-	var category = filters.find(category => category.category_id == "expansion");
-	category.category_filters.forEach(filter => {
-		if(filter.default) {
-			var zone_category = filters.find(category => category.category_id == "zone");
-			zone_category.category_filters = [];
+function update_zones() {
+	// Set zones based on expansion
+	var category = filters.find(category => category.id == "expansion");
+	category.filters.forEach(filter => {
+		if(filter.checked) {
+			var zone_category = filters.find(category => category.id == "zone");
+			zone_category.filters = [];
 
-			var expansion = expansions.find(expansion => expansion.expansion_id == filter.criteria.expansion);
+			var expansion = expansions.find(expansion => expansion.id == filter.criteria.expansion);
 
 			var index = 0;
 			expansion.zones.forEach(zone => {
 				var filter = {};
-				filter.filter_name = zone.name;
+				filter.name = zone.name;
 				filter.criteria = {};
 				filter.criteria.zone = zone.id;
-				if(zone.default) {
-					filter.default = true;
+				if(zone.checked) {
+					filter.checked = true;
 				}
 
-				zone_category.category_filters.push(filter);
+				zone_category.filters.push(filter);
 
 				var id = "zone" + index;
 				index += 1;
 
-				filter.id = id;
+				filter.element_id = id;
 			})
 
 			all_items = pre_filter_items(eval(filter.data + "_items"));
@@ -59,6 +59,7 @@ function update_filters() {
 	})
 }
 
+/*
 function update_zones() {
 	// Get ul zone element and clear zones
 	var ul = document.getElementById("zone");
@@ -66,14 +67,14 @@ function update_zones() {
 		ul.removeChild(ul.lastChild);
 	}
 
-	var category = filters.find(category => category.category_id == "expansion");
-	category.category_filters.forEach(filter => {
-		var element = document.getElementById(filter.id);
+	var category = filters.find(category => category.id == "expansion");
+	category.filters.forEach(filter => {
+		var element = document.getElementById(filter.element_id);
 		if(element.checked) {
-			var zone_category = filters.find(category => category.category_id == "zone");
-			zone_category.category_filters = [];
+			var zone_category = filters.find(category => category.id == "zone");
+			zone_category.filters = [];
 
-			var expansion = expansions.find(expansion => expansion.expansion_id == filter.criteria.expansion);
+			var expansion = expansions.find(expansion => expansion.id == filter.criteria.expansion);
 
 			var zone_filters = [];
 			var index = 0;
@@ -82,16 +83,16 @@ function update_zones() {
 				filter.filter_name = zone.name;
 				filter.criteria = {};
 				filter.criteria.zone = zone.id;
-				if(zone.default) {
-					filter.default = true;
+				if(zone.checked) {
+					filter.checked = true;
 				}
 
-				zone_category.category_filters.push(filter);
+				zone_category.filters.push(filter);
 
 				var id = "zone" + index;
 				index += 1;
 
-				ul.appendChild(create_filter(id, "multiple", zone.default, zone.name));
+				ul.appendChild(create_option(id, "multiple", zone.checked, zone.name, category.id));
 
 				filter.id = id;
 			})
@@ -103,18 +104,10 @@ function update_zones() {
 			return;
 		}
 	})
-
-/*
-	let elements = document.getElementsByName("expansion");
-	elements.forEach(element => {
-		if(element.checked) {
-			filters.find(category => category.category_id == "zone");
-		}
-	})
-		*/
 }
+*/
 
-function create_filter(id, type, checked, label, name) {
+function create_option(id, type, checked, name, category) {
 	var li = document.createElement("li");
 	var input = document.createElement("input");
 
@@ -123,30 +116,31 @@ function create_filter(id, type, checked, label, name) {
 	// Radio or checkbox
 	if(type == "single") {
 		input.setAttribute("type", "radio");
-		input.setAttribute("name", name)
 	}
 	else {
 		input.setAttribute("type", "checkbox");
 	}
 
+	input.setAttribute("name", category)
+
 	if(checked) {
 		input.setAttribute("checked", "checked");
 	}
 
-	input.addEventListener("click", onClick);
+	input.addEventListener("click", on_click_option);
 
 	li.appendChild(input);
 
 	// Create a label for the input
 	var element = document.createElement("label");
 	element.setAttribute("for", id);
-	element.textContent = label;
+	element.textContent = name;
 	li.appendChild(element);
 
 	return li;
 }
 
-function create_filters() {
+function create_options() {
 	var options = document.getElementById("options");
 	while(options.hasChildNodes()) {
 		options.removeChild(options.lastChild);
@@ -154,71 +148,97 @@ function create_filters() {
 
 	filters.forEach(category => {
 		var option_index = 0;
-		var heading = document.createElement("h3");
-		heading.textContent = category.category_name;
-		options.appendChild(heading);
 		
-		var ul = document.createElement("ul");
-		ul.setAttribute("id", category.category_id);
+		var ul1 = document.createElement("ul");
+		options.appendChild(ul1);
+		ul1.setAttribute("id", category.id);
 
-		category.category_filters.forEach(filter => {
-			var li = document.createElement("li");
+		var li = document.createElement("li");
+		var label;
+
+		// Create category toggle checkbox
+		if(category.type == "multiple" && category.toggle) {
 			var input = document.createElement("input");
+			var id = category.id + "_toggle";
 
-			// Create an id for the input
-			var id = category.category_id + option_index;
-			filter.id = id;
+			category.toggle_element_id = id;
+
+			input.setAttribute("type", "checkbox");
 			input.setAttribute("id", id);
 
-			// Radio or checkbox
-			if(category.filter_type == "single") {
-				input.setAttribute("type", "radio");
-				input.setAttribute("name", category.category_id)
+			var all_unchecked = true, all_checked = true;
+			category.filters.forEach(filter => {
+				if(filter.checked) {
+					all_unchecked = false;
+				}
+				else {
+					all_checked = false;
+				}
+			})
+			
+			if(all_checked) {
+				input.checked = true;
+			}
+			else if(all_unchecked) {
+				input.checked = false;
 			}
 			else {
-				input.setAttribute("type", "checkbox");
+				input.indeterminate = true;
 			}
 
-			if(filter.default) {
-				input.setAttribute("checked", "checked");
-			}
+			input.addEventListener("click", on_toggle_category);
 
-			input.addEventListener("click", onClick);
+			label = document.createElement("label");
+			label.setAttribute("for", id);
 
 			li.appendChild(input);
+		}
+		else {
+			// No toggle checkbox; div as a label
+			label = document.createElement("div");
+		}
+		
+		label.setAttribute("class", "large-label");
+		label.textContent = category.name;
+		li.appendChild(label);
+		ul1.appendChild(li);
 
-			// Create a label for the input
-			var label = document.createElement("label");
-			label.setAttribute("for", id);
-			label.textContent = filter.filter_name;
-			li.appendChild(label);
+		li = document.createElement("li");
+		ul1.appendChild(li);
+		var ul2 = document.createElement("ul");
+		li.appendChild(ul2);
 
-			ul.appendChild(li);
+		category.filters.forEach(filter => {
+			// Create an id for the input
+			var id = category.id + option_index;
+			filter.element_id = id;
+
+			ul2.appendChild(create_option(id, category.type, filter.checked,
+				filter.name, category.id));
 
 			option_index += 1;
 		});
-
-		options.appendChild(ul);
 	});
 }
 
-function apply_filters(items) {
-	var filtered_items = [];
-	var zones = [];
+function apply_filters() {
+	var checked_zones = [];
 
-	var category = filters.find(category => category.category_id == "zone");
+	filtered_items = [];
+
+	var category = filters.find(category => category.id == "zone");
 
 	// Get list of checked zones
-	category.category_filters.forEach(filter => {
-		var element = document.getElementById(filter.id);
-		if(element.checked) {
-			zones.push(filter.criteria.zone);
+	category.filters.forEach(filter => {
+		//var element = document.getElementById(filter.element_id);
+		if(filter.checked) {
+			checked_zones.push(filter.criteria.zone);
 		}
 	})
 
 	// Filter items for zones
-	items.forEach(item => {
-		if(item.zone.some(zone => zones.includes(zone))) {
+	all_items.forEach(item => {
+		if(item.zone.some(zone => checked_zones.includes(zone))) {
 			filtered_items.push(item);
 		}
 		/*
@@ -239,14 +259,14 @@ function apply_filters(items) {
 	})
 
 	filters.forEach((category) => {
-		if(category.category_id == "expansion" || category.category_id == "zone") {
+		if(category.id == "expansion" || category.id == "zone") {
 			return;
 		}
 
-		category.category_filters.forEach(filter => {
+		category.filters.forEach(filter => {
 			// If checkbox is checked, the items stay in
-			var element = document.getElementById(filter.id);
-			if(element.checked) {
+			//var element = document.getElementById(filter.element_id);
+			if(filter.checked) {
 				return;
 			}
 
@@ -264,9 +284,7 @@ function apply_filters(items) {
 	});
 
 	// Filter rares for zone
-	filtered_rares = all_rares.filter((rare) => zones.includes(rare.zone));
-
-	return filtered_items;
+	filtered_rares = all_rares.filter((rare) => checked_zones.includes(rare.zone));
 }
 
 function update_table() {
@@ -278,7 +296,7 @@ function update_table() {
 		tbody.removeChild(tbody.lastChild);
 	}
 
-	var filtered_items = apply_filters(all_items);
+	apply_filters(all_items);
 
 	filtered_items.forEach(item => {
 		var row = tbody.insertRow();
@@ -294,25 +312,15 @@ function update_table() {
 		cell = row.insertCell();
 		cell.appendChild(anchor);
 
-		/*
-		// Class
-		cell = row.insertCell();
-		cell.textContent = item.class;
-
-		// Subclass
-		cell = row.insertCell();
-		cell.textContent = item.subclass;
-		*/
-
-		// Armor
-		cell = row.insertCell();
-		if(item.armor) {
-			cell.textContent = "Yes";
-		}
-		
 		// Stamina
 		cell = row.insertCell();
 		if(item.sta) {
+			cell.textContent = "Yes";
+		}
+
+		// Strength
+		cell = row.insertCell();
+		if(item.str) {
 			cell.textContent = "Yes";
 		}
 
@@ -328,13 +336,7 @@ function update_table() {
 			cell.textContent = "Yes";
 		}
 
-		// Strength
-		cell = row.insertCell();
-		if(item.str) {
-			cell.textContent = "Yes";
-		}
-
-		// Critical strike
+		// Crit
 		cell = row.insertCell();
 		if(item.critstrkrtng) {
 			cell.textContent = "Yes";
@@ -357,15 +359,6 @@ function update_table() {
 		if(item.versatility) {
 			cell.textContent = "Yes";
 		}
-		/*
-		// Zone
-		cell = row.insertCell();
-		cell.textContent = item.zone;
-
-		// NPC
-		cell = row.insertCell();
-		cell.textContent = item.npc;
-		*/
 	});
 
 	// Create TomTom waypoints
@@ -396,22 +389,48 @@ function update_table() {
 	WH.Tooltips.refreshLinks();
 }
 
-function onClick(event) {
+function on_click_option(event) {
+/*
 	if(event == undefined) {
 		return;
 	}
+*/
+	// Update filters
+	var category = filters.find(category => category.id == event.target.name);
+	if(category.type == "single") {
+		// checked=false for all
+		category.filters.forEach(filter => {
+			filter.checked = false;
+		})
+	}
+	var filter = category.filters.find(filter => filter.element_id == event.target.id);
+	filter.checked = event.target.checked;
 
 	if(event.target.name == "expansion") {
 		update_zones();
 		//create_filters();
 	}
 
+	create_options();
 	update_table();
 }
 
-window.onload = function onLoad() {
-	update_filters();
-	create_filters();
+function on_toggle_category(event) {
+	// Update filters, options and table
+	var category = filters.find(category => category.toggle_element_id == event.target.id);
+	category.filters.forEach(filter => {
+		filter.checked = event.target.checked;
+		//var input = document.getElementById(filter.id);
+		//input.checked = event.target.checked;
+	})
+
+	create_options();
+	update_table();
+}
+
+window.onload = function on_load() {
+	update_zones();
+	create_options();
 	//console.log(JSON.stringify(dragonflight_rares));
 
 	update_table();
