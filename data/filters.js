@@ -13,13 +13,12 @@ export var filters = [
 					"criteria":
 						{ "expansion": "df" }
 				},
-				/*
 				{
 					"name": "Shadowlands",
+					"data": "sl",
 					"criteria":
-						{ "expansion": "shadowlands" }
+						{ "expansion": "sl" }
 				},
-				*/
 				{
 					"name": "Battle for Azeroth",
 					"data": "bfa",
@@ -458,7 +457,7 @@ export var filters = [
 	},
 */
 	{
-		"name": "Item quality",
+		"name": "Quality",
 		"id": "quality",
 		"type": "multiple",
 		"toggle": true,
@@ -466,6 +465,13 @@ export var filters = [
 			[
 				{
 					"name": "Common",
+					"criteria":
+					{
+						"quality": 1,
+					}
+				},
+				{
+					"name": "Uncommon",
 					"criteria":
 					{
 						"quality": 2,
