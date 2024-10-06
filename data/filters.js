@@ -386,14 +386,6 @@ export var filters = [
 		"filters":
 			[
 				{
-					"name": "Stamina",
-					"checked": true,
-					"criteria":
-					{
-						"sta": true,
-					}
-				},
-				{
 					"name": "Strength",
 					"checked": true,
 					"criteria":
