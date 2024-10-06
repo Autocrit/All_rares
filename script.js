@@ -378,7 +378,7 @@ function on_toggle_category(event) {
 		filter.checked = event.target.checked;
 	})
 
-	update_output();
+	update_all();
 }
 
 function on_click_include(event) {
