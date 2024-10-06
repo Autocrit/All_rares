@@ -1,4 +1,4 @@
-export const data = [
+[
 	{
 		"name": "Glittering Diamonds",
 		"id": 194035,
@@ -8308,4 +8308,4 @@ export const data = [
 		],
 		"class": 4
 	}
-];
+]

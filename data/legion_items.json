@@ -1,4 +1,4 @@
-export const data = [
+[
 	{
 		"name": "Exile's Chain Boots",
 		"id": 121737,
@@ -4239,4 +4239,4 @@ export const data = [
 		],
 		"class": 4
 	}
-];
+]

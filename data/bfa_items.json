@@ -1,4 +1,4 @@
-export const data = [
+[
 	{
 		"name": "Dadalea's Wing",
 		"id": 158218,
@@ -8086,4 +8086,4 @@ export const data = [
 		],
 		"class": 4
 	}
-];
+]

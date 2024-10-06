@@ -52,7 +52,7 @@ export const expansions = [
 		"zones": [
 			{ "name": "Boralus", "id": 1161, "checked": true, },
 			{ "name": "Darkshore", "id": 62 },
-			{ "name": "Dazaralor", "id": 1165, "checked": true, },
+			{ "name": "Dazar'alor", "id": 1165, "checked": true, },
 			{ "name": "Drustvar", "id": 896, "checked": true, },
 			{ "name": "Mechagon", "id": 1462 },
 			{ "name": "Nazmir", "id": 863, "checked": true, },
@@ -100,7 +100,7 @@ export const expansions = [
 		"name": "Warlords Of Draenor",
 		"id": "wod",
 		"zones": [
-			{ "name": "Ashran", "id": 588 },
+			//{ "name": "Ashran", "id": 588 },
 			{ "name": "Frostfire Ridge", "id": 525, "checked": true, },
 			{ "name": "Gorgrond", "id": 543, "checked": true, },
 			{ "name": "Nagrand", "id": 550 },
