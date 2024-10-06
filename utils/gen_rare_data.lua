@@ -6,6 +6,7 @@
 require "df_rares"
 require "sl_rares"
 require "bfa_rares"
+require "legion_rares"
 require "wod_rares"
 
 -- Zone info
@@ -89,7 +90,7 @@ function table_to_js_bfa(table)
 	end
 end
 
-local expansion = "sl"
+local expansion = "legion"
 
 print("export const data =")
 print("[")
@@ -114,6 +115,8 @@ elseif expansion == "sl" then
 	table_to_js_bfa(sl_rares)
 elseif expansion == "bfa" then
 	table_to_js_bfa(bfa_rares)
+elseif expansion == "legion" then
+	table_to_js_bfa(legion_rares)
 elseif expansion == "wod" then
 	table_to_js_bfa(wod_rares)
 end

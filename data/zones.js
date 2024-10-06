@@ -67,6 +67,36 @@ export const expansions = [
 		]
 	},
 	{
+		"name": "Legion",
+		"id": "legion",
+		"zones": [
+			{ "name": "Antoran Wastes", "id": 885 },
+			{ "name": "Azsuna", "id": 630, "checked": true },
+			{ "name": "Broken Shore", "id": 646 },
+			{ "name": "Darkmoon Island", "id": 408 },
+			{ "name": "Duskwood", "id": 47 },
+			{ "name": "Eredath", "id": 882 },
+			{ "name": "Helheim", "id": 649 },
+			{ "name": "Highmountain", "id": 650, "checked": true },
+			{ "name": "Krokuun", "id": 830 },
+			{ "name": "Mardum, the Shattered Abyss", "id": 672 },
+			{ "name": "Stormheim", "id": 634, "checked": true },
+			{ "name": "Suramar", "id": 680 },
+			{ "name": "Val'sharah", "id": 641, "checked": true },
+			{ "name": "Vault of the Wardens", "id": 710 },
+			//{ "name": "Halls of Valor - The High Gate", "id": 704 },
+			//{ "name": "Eye of Azshara", "id": 713 },
+			//{ "name": "Silithus", "id": 81 },
+			//{ "name": "Dalaran - The Underbelly", "id": 628 },
+			//{ "name": "The Seat of the Triumvirate", "id": 903 },
+			//{ "name": "Eye of Azshara", "id": 790 },
+			//{ "name": "The Storm Peaks", "id": 120 },
+			//{ "name": "The Cape of Stranglethorn", "id": 210 },
+			//{ "name": "Dalaran ?", "id": 625 },
+			//{ "name": "Darkheart Thicket", "id": 733 },
+		]
+	},
+	{
 		"name": "Warlords Of Draenor",
 		"id": "wod",
 		"zones": [

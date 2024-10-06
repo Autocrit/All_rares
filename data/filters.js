@@ -26,6 +26,12 @@ export var filters = [
 						{ "expansion": "bfa" }
 				},
 				{
+					"name": "Legion",
+					"data": "legion",
+					"criteria":
+						{ "expansion": "legion" }
+				},
+				{
 					"name": "Warlords of Draenor",
 					"data": "wod",
 					"criteria":
@@ -464,6 +470,13 @@ export var filters = [
 		"filters":
 			[
 				{
+					"name": "Poor",
+					"criteria":
+					{
+						"quality": 0,
+					}
+				},
+				{
 					"name": "Common",
 					"criteria":
 					{
@@ -490,6 +503,13 @@ export var filters = [
 					"criteria":
 					{
 						"quality": 4,
+					}
+				},
+				{
+					"name": "Legendary",
+					"criteria":
+					{
+						"quality": 5,
 					}
 				},
 			]
