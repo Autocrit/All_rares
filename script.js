@@ -49,13 +49,9 @@ function change_expansion() {
 				filter.element_id = id;
 			})
 
-			//all_items = pre_filter_items(eval(filter.data + "_items"));
-			//all_rares = eval(filter.data + "_rares");
-
 			// Load data for expansion the update options and table
 			fetch_data(filter.data).then(() => {
-				create_options();
-				update_table();
+				update_all();
 			})
 
 			// Only one expansion selected at a time
@@ -97,7 +93,7 @@ function create_option(id, type, checked, name, category) {
 	return li;
 }
 
-function create_options() {
+function update_options() {
 	var options = document.getElementById("options");
 	while(options.hasChildNodes()) {
 		options.removeChild(options.lastChild);
@@ -243,6 +239,15 @@ function update_table() {
 
 		var url = "https://www.wowhead.com/item=" + item.id
 
+		// Include checkbox
+		var input = document.createElement("input");
+		input.type = "checkbox"
+		input.id = item.id;
+		input.checked = true;
+		input.addEventListener("click", on_click_include);
+		cell = row.insertCell();
+		cell.appendChild(input);
+
 		// Item link
 		anchor = document.createElement("a");
 		anchor.setAttribute("href", url);
@@ -300,12 +305,21 @@ function update_table() {
 		}
 	});
 
-	// Create TomTom waypoints
+	WH.Tooltips.refreshLinks();
+}
 
+function update_waypoints() {
 	// Get unique list of NPCs
 	var waypoints = "";
 	var npcs = [];
 	filtered_items.forEach(item => {
+		// Is include checkbox checked?
+		var element = document.getElementById(item.id);
+		if(element && !element.checked) {
+			// Don't include this item
+			return;
+		}
+
 		item.npc.forEach(npc_id => {
 			if(!npcs.includes(npc_id)) {
 				npcs.push(npc_id);
@@ -324,8 +338,17 @@ function update_table() {
 	})
 
 	document.getElementById("waypoints").value = waypoints;
+}
 
-	WH.Tooltips.refreshLinks();
+function update_all() {
+	update_options();
+	update_table();
+	update_waypoints();
+}
+
+function update_output() {
+	update_table();
+	update_waypoints();
 }
 
 function on_click_option(event) {
@@ -344,8 +367,7 @@ function on_click_option(event) {
 		change_expansion();
 	}
 	else {
-		create_options();
-		update_table();
+		update_output();
 	}
 }
 
@@ -356,8 +378,12 @@ function on_toggle_category(event) {
 		filter.checked = event.target.checked;
 	})
 
-	create_options();
-	update_table();
+	update_output();
+}
+
+function on_click_include(event) {
+	// Include/exclude in waypoints
+	update_waypoints();
 }
 
 window.onload = function on_load() {
