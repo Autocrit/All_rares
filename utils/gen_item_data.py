@@ -7,12 +7,12 @@ import sys
 
 if len(sys.argv) != 3:
 	usage = "Usage: %s input output" % sys.argv[0]
-	usage = usage + "\n       where input is rares as json and output is items as js"
-	usage = usage + "\n       e.g. %s bfa_rares.json bfa_items.js" % sys.argv[0]
+	usage = usage + "\n       where input is rares as json and output is items as json"
+	usage = usage + "\n       e.g. %s bfa_rares.json bfa_items.json" % sys.argv[0]
 	sys.exit(usage)
 
 input = sys.argv[1] # Rares as json
-output = sys.argv[2] # Items as js
+output = sys.argv[2] # Items as json
 
 # Load rares
 #f = open("df_rares.json")
@@ -129,13 +129,13 @@ for item in items:
 	if "classs" in item:
 		item["class"] = item.pop("classs")
 
-#with open('new_items.json', 'w', encoding='latin-1') as f:
-#	json.dump(items, f, indent='\t', ensure_ascii=False)
-
-with open(output, "w", encoding="latin-1") as f:
-	f.write("export const data = ")
+with open(output, 'w', encoding='latin-1') as f:
 	json.dump(items, f, indent='\t', ensure_ascii=False)
-	f.write(";")
+
+#with open(output, "w", encoding="latin-1") as f:
+#	f.write("export const data = ")
+#	json.dump(items, f, indent='\t', ensure_ascii=False)
+#	f.write(";")
 
 print("Progress: 100%")
 print("Done")
