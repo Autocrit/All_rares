@@ -9,7 +9,8 @@ export const expansions = [
 			{ "name": "The Ringing Deeps", "id": 2214 },
 			{ "name": "Hallowfall", "id": 2215 },
 			{ "name": "Azj-Kahet", "id": 2255 },
-			{ "name": "City of Threads Umbral Bazaar", "id": 2213 }
+			{ "name": "Azj-Kahet (Lower)", "id": 2256 },
+			{ "name": "City of Threads", "id": 2213 }
 		]
 	},
 	*/

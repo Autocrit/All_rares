@@ -1,0 +1,3660 @@
+[
+	{
+		"name": "Shawl of the Plagued",
+		"id": 221213,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 1,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219267
+		],
+		"class": 4
+	},
+	{
+		"name": "Charm of the Underground Beast",
+		"id": 221265,
+		"quality": 3,
+		"slot": 12,
+		"subclass": -4,
+		"agi": true,
+		"int": true,
+		"str": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219267,
+			220890,
+			220270,
+			221648,
+			221690,
+			221534,
+			214757,
+			221786,
+			216047
+		],
+		"class": 4
+	},
+	{
+		"name": "Fierce Beast Staff",
+		"id": 221246,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 10,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219267,
+			220890,
+			220270,
+			221648,
+			221690,
+			221534,
+			214757,
+			221786,
+			216047
+		],
+		"class": 2
+	},
+	{
+		"name": "Bestial Underground Cleaver",
+		"id": 221251,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219267,
+			220890,
+			220270,
+			221648,
+			221690,
+			221534,
+			214757,
+			221786,
+			216047
+		],
+		"class": 2
+	},
+	{
+		"name": "Cavernous Critter Shooter",
+		"id": 221247,
+		"quality": 3,
+		"slot": 15,
+		"subclass": 18,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219267,
+			220890,
+			220270,
+			221648,
+			221690,
+			214757,
+			221786,
+			216047
+		],
+		"class": 2
+	},
+	{
+		"name": "Stubborn Wolf's Greathelm",
+		"id": 223948,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			220890
+		],
+		"class": 4
+	},
+	{
+		"name": "Cinder Pollen Cloak",
+		"id": 223922,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			221126
+		],
+		"class": 4
+	},
+	{
+		"name": "Honey Deliverer's Leggings",
+		"id": 223937,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 2,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			221126
+		],
+		"class": 4
+	},
+	{
+		"name": "Silkwing Trousers",
+		"id": 221219,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219271
+		],
+		"class": 4
+	},
+	{
+		"name": "Spider Blasting Blunderbuss",
+		"id": 221239,
+		"quality": 3,
+		"slot": 15,
+		"subclass": 3,
+		"agi": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248,
+			2213
+		],
+		"npc": [
+			219271,
+			216039
+		],
+		"class": 2
+	},
+	{
+		"name": "Arachnid's Web-Sown Guise",
+		"id": 221506,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2248,
+			2213
+		],
+		"npc": [
+			219271,
+			216039
+		],
+		"class": 4
+	},
+	{
+		"name": "Warphorn's Resilient Mane",
+		"id": 223341,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219263
+		],
+		"class": 4
+	},
+	{
+		"name": "Warphorn's Resilient Chestplate",
+		"id": 223342,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219263
+		],
+		"class": 4
+	},
+	{
+		"name": "Warphorn's Resilient Chainmail",
+		"id": 223343,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219263
+		],
+		"class": 4
+	},
+	{
+		"name": "Warphorn's Resilient Vest",
+		"id": 223344,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219263
+		],
+		"class": 4
+	},
+	{
+		"name": "Bouldershell Waistguard",
+		"id": 221224,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219278
+		],
+		"class": 4
+	},
+	{
+		"name": "Deephunter's Bloody Hook",
+		"id": 221233,
+		"quality": 3,
+		"slot": 12,
+		"subclass": -4,
+		"agi": true,
+		"str": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219278,
+			219268,
+			221199,
+			220285,
+			220271,
+			207780,
+			221668,
+			220771,
+			216045
+		],
+		"class": 4
+	},
+	{
+		"name": "Sharpened Scalepiercer",
+		"id": 221255,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 15,
+		"agi": true,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219278,
+			219268,
+			221199,
+			220285,
+			220271,
+			221668,
+			220771,
+			216045
+		],
+		"class": 2
+	},
+	{
+		"name": "Tidal Pendant",
+		"id": 221234,
+		"quality": 3,
+		"slot": 2,
+		"subclass": -3,
+		"critstrkrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219278,
+			219268,
+			221199,
+			220285,
+			220271,
+			207780,
+			221668,
+			220771,
+			216045
+		],
+		"class": 4
+	},
+	{
+		"name": "Deep Terror Carver",
+		"id": 221248,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 0,
+		"agi": true,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248,
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			219278,
+			219268,
+			221199,
+			220285,
+			220271,
+			207780,
+			221668,
+			220771,
+			216045
+		],
+		"class": 2
+	},
+	{
+		"name": "Alunira",
+		"id": 223270,
+		"quality": 4,
+		"slot": 0,
+		"subclass": 5,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219281
+		],
+		"class": 15
+	},
+	{
+		"name": "Band of the Relic Bearer",
+		"id": 223376,
+		"quality": 3,
+		"slot": 11,
+		"subclass": -2,
+		"critstrkrtng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			217534
+		],
+		"class": 4
+	},
+	{
+		"name": "Rotfist Flesh Carver",
+		"id": 226112,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 7,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			222380
+		],
+		"class": 2
+	},
+	{
+		"name": "Contaminating Cleaver",
+		"id": 226115,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 1,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			222380
+		],
+		"class": 2
+	},
+	{
+		"name": "Coagulating Phlegm Churner",
+		"id": 226116,
+		"quality": 4,
+		"slot": 16,
+		"subclass": 5,
+		"zone": [
+			2248
+		],
+		"npc": [
+			222380
+		],
+		"class": 4
+	},
+	{
+		"name": "Shoulderpads of the Steamsurger",
+		"id": 223356,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219262
+		],
+		"class": 4
+	},
+	{
+		"name": "Spaulders of the Steamsurger",
+		"id": 223357,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219262
+		],
+		"class": 4
+	},
+	{
+		"name": "Mantle of the Steamsurger",
+		"id": 223358,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 1,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219262
+		],
+		"class": 4
+	},
+	{
+		"name": "Epaulets of the Steamsurger",
+		"id": 223359,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219262
+		],
+		"class": 4
+	},
+	{
+		"name": "Dalaran Guardian's Arcanotool",
+		"id": 226117,
+		"quality": 3,
+		"slot": 23,
+		"subclass": -5,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219284
+		],
+		"class": 4
+	},
+	{
+		"name": "Arcane Prisoner's Puncher",
+		"id": 226118,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 13,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219284
+		],
+		"class": 2
+	},
+	{
+		"name": "Arcane Sharpshooter's Crossbow",
+		"id": 226119,
+		"quality": 3,
+		"slot": 15,
+		"subclass": 18,
+		"agi": true,
+		"critstrkrtng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219284
+		],
+		"class": 2
+	},
+	{
+		"name": "Arakkoan Ritual Staff",
+		"id": 226111,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 10,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			222378
+		],
+		"class": 2
+	},
+	{
+		"name": "Kereke's Flourishing Sabre",
+		"id": 226113,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 7,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			222378
+		],
+		"class": 2
+	},
+	{
+		"name": "Windslicer's Lance",
+		"id": 226114,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 6,
+		"agi": true,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			222378
+		],
+		"class": 2
+	},
+	{
+		"name": "Wristwraps of the Titancap",
+		"id": 223364,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			213115
+		],
+		"class": 4
+	},
+	{
+		"name": "Wristguards of the Titancap",
+		"id": 223365,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			213115
+		],
+		"class": 4
+	},
+	{
+		"name": "Bracers of the Titancap",
+		"id": 223366,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			213115
+		],
+		"class": 4
+	},
+	{
+		"name": "Cuffs of the Titancap",
+		"id": 223367,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			213115
+		],
+		"class": 4
+	},
+	{
+		"name": "Formula: Enchant Cloak - Chant of Burrowing Rapidity",
+		"id": 223140,
+		"quality": 3,
+		"slot": 0,
+		"subclass": 8,
+		"zone": [
+			2248
+		],
+		"npc": [
+			221128
+		],
+		"class": 9
+	},
+	{
+		"name": "Honey Sweetener's Squeezers",
+		"id": 223929,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			220883
+		],
+		"class": 4
+	},
+	{
+		"name": "Ever-Oozing Signet",
+		"id": 223921,
+		"quality": 3,
+		"slot": 11,
+		"subclass": -2,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"zone": [
+			2248,
+			2215
+		],
+		"npc": [
+			220883,
+			207803,
+			221753
+		],
+		"class": 4
+	},
+	{
+		"name": "Slime Deflecting Stopper",
+		"id": 223920,
+		"armor": true,
+		"quality": 3,
+		"slot": 14,
+		"subclass": 6,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2248,
+			2215
+		],
+		"npc": [
+			220883,
+			207803,
+			221753
+		],
+		"class": 4
+	},
+	{
+		"name": "Storm Bindings",
+		"id": 221230,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219269
+		],
+		"class": 4
+	},
+	{
+		"name": "Stormbreaker's Shield",
+		"id": 221236,
+		"armor": true,
+		"quality": 3,
+		"slot": 14,
+		"subclass": 6,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219269
+		],
+		"class": 4
+	},
+	{
+		"name": "Flamekeeper's Footpads",
+		"id": 221244,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219279
+		],
+		"class": 4
+	},
+	{
+		"name": "Kobold Rodent Squasher",
+		"id": 221249,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248,
+			2214
+		],
+		"npc": [
+			219279,
+			220267
+		],
+		"class": 2
+	},
+	{
+		"name": "Water-Imbued Spaulders",
+		"id": 221222,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219268
+		],
+		"class": 4
+	},
+	{
+		"name": "Grips of the Earth",
+		"id": 221210,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219270
+		],
+		"class": 4
+	},
+	{
+		"name": "Earthshatter Lance",
+		"id": 221254,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 6,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"zone": [
+			2248,
+			2214
+		],
+		"npc": [
+			219270,
+			220269,
+			220286
+		],
+		"class": 2
+	},
+	{
+		"name": "Earth Golem's Wrap",
+		"id": 221507,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248,
+			2214
+		],
+		"npc": [
+			219270,
+			220269,
+			220286
+		],
+		"class": 4
+	},
+	{
+		"name": "Unseen Cutthroat's Tunic",
+		"id": 221208,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 2,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219266
+		],
+		"class": 4
+	},
+	{
+		"name": "Dark Agent's Cloak",
+		"id": 221235,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219266
+		],
+		"class": 4
+	},
+	{
+		"name": "Viper's Stone Grips",
+		"id": 223345,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219265
+		],
+		"class": 4
+	},
+	{
+		"name": "Viper's Stone Handguards",
+		"id": 223346,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 4,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219265
+		],
+		"class": 4
+	},
+	{
+		"name": "Viper's Stone Mitts",
+		"id": 223347,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219265
+		],
+		"class": 4
+	},
+	{
+		"name": "Viper's Stone Gauntlets",
+		"id": 223348,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 3,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219265
+		],
+		"class": 4
+	},
+	{
+		"name": "Wolf Packleader's Cowl",
+		"id": 223349,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219264
+		],
+		"class": 4
+	},
+	{
+		"name": "Wolf Packleader's Helm",
+		"id": 223350,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219264
+		],
+		"class": 4
+	},
+	{
+		"name": "Wolf Packleader's Hood",
+		"id": 223351,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219264
+		],
+		"class": 4
+	},
+	{
+		"name": "Wolf Packleader's Visor",
+		"id": 223370,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2248
+		],
+		"npc": [
+			219264
+		],
+		"class": 4
+	},
+	{
+		"name": "Bismuth",
+		"id": 210931,
+		"quality": 1,
+		"slot": 0,
+		"subclass": 7,
+		"zone": [
+			2248
+		],
+		"npc": [
+			220068
+		],
+		"class": 7
+	},
+	{
+		"name": "Aqirite",
+		"id": 210934,
+		"quality": 2,
+		"slot": 0,
+		"subclass": 7,
+		"zone": [
+			2248
+		],
+		"npc": [
+			220068
+		],
+		"class": 7
+	},
+	{
+		"name": "Ironclaw Ore",
+		"id": 210937,
+		"quality": 2,
+		"slot": 0,
+		"subclass": 7,
+		"zone": [
+			2248
+		],
+		"npc": [
+			220068
+		],
+		"class": 7
+	},
+	{
+		"name": "Null Stone",
+		"id": 210939,
+		"quality": 3,
+		"slot": 0,
+		"subclass": 7,
+		"zone": [
+			2248
+		],
+		"npc": [
+			220068
+		],
+		"class": 7
+	},
+	{
+		"name": "Flame Trader's Gloves",
+		"id": 221209,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220267
+		],
+		"class": 4
+	},
+	{
+		"name": "Vest of the River",
+		"id": 221205,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 1,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220269
+		],
+		"class": 4
+	},
+	{
+		"name": "Earthen Adventurer's Tabard",
+		"id": 225999,
+		"quality": 3,
+		"slot": 19,
+		"subclass": -7,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220286
+		],
+		"class": 4
+	},
+	{
+		"name": "Spore Giant's Stompers",
+		"id": 221204,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 4,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220287
+		],
+		"class": 4
+	},
+	{
+		"name": "Creeping Lasher Machete",
+		"id": 221250,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 7,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			220287,
+			220268,
+			215805,
+			206977,
+			206184,
+			216043
+		],
+		"class": 2
+	},
+	{
+		"name": "Cultivator's Plant Puncher",
+		"id": 221253,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 13,
+		"agi": true,
+		"critstrkrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			220287,
+			220268,
+			215805,
+			206184,
+			216043
+		],
+		"class": 2
+	},
+	{
+		"name": "Fungarian Mystic's Cluster",
+		"id": 221264,
+		"quality": 3,
+		"slot": 12,
+		"subclass": -4,
+		"agi": true,
+		"int": true,
+		"str": true,
+		"zone": [
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			220287,
+			220268,
+			215805,
+			206977,
+			206184,
+			216043
+		],
+		"class": 4
+	},
+	{
+		"name": "String of Fungal Fruits",
+		"id": 223005,
+		"quality": 3,
+		"slot": 2,
+		"subclass": -3,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214,
+			2215,
+			2255
+		],
+		"npc": [
+			220287,
+			220268,
+			215805,
+			206977,
+			206184,
+			216043
+		],
+		"class": 4
+	},
+	{
+		"name": "Twisted Earthen Signet",
+		"id": 223368,
+		"quality": 3,
+		"slot": 11,
+		"subclass": -2,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220272
+		],
+		"class": 4
+	},
+	{
+		"name": "Waterskipper's Legplates",
+		"id": 223352,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220275
+		],
+		"class": 4
+	},
+	{
+		"name": "Waterskipper's Trousers",
+		"id": 223353,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220275
+		],
+		"class": 4
+	},
+	{
+		"name": "Waterskipper's Chain Leggings",
+		"id": 223354,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220275
+		],
+		"class": 4
+	},
+	{
+		"name": "Waterskipper's Leggings",
+		"id": 223355,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220275
+		],
+		"class": 4
+	},
+	{
+		"name": "Footguards of Shallow Waters",
+		"id": 223340,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220274
+		],
+		"class": 4
+	},
+	{
+		"name": "Slippers of Shallow Waters",
+		"id": 223371,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220274
+		],
+		"class": 4
+	},
+	{
+		"name": "Sabatons of Shallow Waters",
+		"id": 223372,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220274
+		],
+		"class": 4
+	},
+	{
+		"name": "Treads of Shallow Waters",
+		"id": 223373,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220274
+		],
+		"class": 4
+	},
+	{
+		"name": "Infested Fungal Wristwraps",
+		"id": 221228,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220268
+		],
+		"class": 4
+	},
+	{
+		"name": "Lamentable Vagrant's Lantern",
+		"id": 221237,
+		"quality": 3,
+		"slot": 23,
+		"subclass": -5,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214,
+			2255
+		],
+		"npc": [
+			218393,
+			216042
+		],
+		"class": 4
+	},
+	{
+		"name": "Earthgorger's Chain Bib",
+		"id": 223926,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			218393
+		],
+		"class": 4
+	},
+	{
+		"name": "Cord of the Earthbreaker",
+		"id": 223943,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			218393
+		],
+		"class": 4
+	},
+	{
+		"name": "Dark Depth Stompers",
+		"id": 223949,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			221199
+		],
+		"class": 4
+	},
+	{
+		"name": "Regurgitated Mole Reins",
+		"id": 223501,
+		"quality": 4,
+		"slot": 0,
+		"subclass": 5,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220285
+		],
+		"class": 15
+	},
+	{
+		"name": "Forgeborn Helm",
+		"id": 221242,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220271
+		],
+		"class": 4
+	},
+	{
+		"name": "Reinforced Construct's Greaves",
+		"id": 221218,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220265
+		],
+		"class": 4
+	},
+	{
+		"name": "Pillar of Constructs",
+		"id": 221238,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 10,
+		"agi": true,
+		"hastertng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214,
+			2215
+		],
+		"npc": [
+			220265,
+			206514
+		],
+		"class": 2
+	},
+	{
+		"name": "Flying Kobold's Seatbelt",
+		"id": 223360,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220276
+		],
+		"class": 4
+	},
+	{
+		"name": "Flying Kobold's Seatbelt",
+		"id": 223361,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220276
+		],
+		"class": 4
+	},
+	{
+		"name": "Flying Kobold's Seatbelt",
+		"id": 223362,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220276
+		],
+		"class": 4
+	},
+	{
+		"name": "Flying Kobold's Seatbelt",
+		"id": 223363,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220276
+		],
+		"class": 4
+	},
+	{
+		"name": "Corrupted Earthen Wristwraps",
+		"id": 223401,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220273
+		],
+		"class": 4
+	},
+	{
+		"name": "Corrupted Earthen Wristguards",
+		"id": 223402,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220273
+		],
+		"class": 4
+	},
+	{
+		"name": "Corrupted Earthen Binds",
+		"id": 223403,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220273
+		],
+		"class": 4
+	},
+	{
+		"name": "Corrupted Earthen Cuffs",
+		"id": 223404,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220273
+		],
+		"class": 4
+	},
+	{
+		"name": "Voidtouched Waistguard",
+		"id": 221226,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 3,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220266
+		],
+		"class": 4
+	},
+	{
+		"name": "Signet of Dark Horizons",
+		"id": 223006,
+		"quality": 3,
+		"slot": 11,
+		"subclass": -2,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"sta": true,
+		"zone": [
+			2214,
+			2215,
+			2256
+		],
+		"npc": [
+			220266,
+			207802,
+			216049
+		],
+		"class": 4
+	},
+	{
+		"name": "Specter Stalker's Shotgun",
+		"id": 223918,
+		"quality": 3,
+		"slot": 15,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2214,
+			2215
+		],
+		"npc": [
+			221217,
+			221179
+		],
+		"class": 2
+	},
+	{
+		"name": "Abducted Lawman's Gavel",
+		"id": 223919,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214,
+			2215
+		],
+		"npc": [
+			221217,
+			221179
+		],
+		"class": 2
+	},
+	{
+		"name": "Spore-Encrusted Ribbon",
+		"id": 223942,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 1,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			221217
+		],
+		"class": 4
+	},
+	{
+		"name": "Basilisk Scale Pauldrons",
+		"id": 221220,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 2,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2214
+		],
+		"npc": [
+			220270
+		],
+		"class": 4
+	},
+	{
+		"name": "Perchfather's Cuffs",
+		"id": 221229,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 4,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221648
+		],
+		"class": 4
+	},
+	{
+		"name": "Bruin Strength Legplates",
+		"id": 221216,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221690
+		],
+		"class": 4
+	},
+	{
+		"name": "Pelt of Beledar's Strength",
+		"id": 221508,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221690
+		],
+		"class": 4
+	},
+	{
+		"name": "Ancient Fungarian's Fingerwrap",
+		"id": 223377,
+		"quality": 3,
+		"slot": 11,
+		"subclass": -2,
+		"critstrkrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221767
+		],
+		"class": 4
+	},
+	{
+		"name": "Blueprint Bundle",
+		"id": 211968,
+		"quality": 3,
+		"slot": 0,
+		"subclass": 0,
+		"zone": [
+			2215
+		],
+		"npc": [
+			206514
+		],
+		"class": 12
+	},
+	{
+		"name": "Crop Cutter's Gauntlets",
+		"id": 223928,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			206514
+		],
+		"class": 4
+	},
+	{
+		"name": "Cabbage Harvester's Pantaloons",
+		"id": 223935,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 1,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			206514
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Stagshell Gouger",
+		"id": 221240,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 7,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215,
+			2255,
+			2213
+		],
+		"npc": [
+			206203,
+			207826,
+			218444,
+			216051,
+			221327,
+			216044,
+			216046,
+			216038
+		],
+		"class": 2
+	},
+	{
+		"name": "Nerubian Slayer's Claymore",
+		"id": 221252,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 8,
+		"hastertng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215,
+			2255,
+			2213
+		],
+		"npc": [
+			206203,
+			207826,
+			218444,
+			216051,
+			221327,
+			216044,
+			216046,
+			216038
+		],
+		"class": 2
+	},
+	{
+		"name": "Nerubian Venom-Tipped Dart",
+		"id": 221263,
+		"quality": 3,
+		"slot": 12,
+		"subclass": -4,
+		"agi": true,
+		"int": true,
+		"zone": [
+			2215,
+			2255,
+			2213
+		],
+		"npc": [
+			206203,
+			207826,
+			218444,
+			216051,
+			221327,
+			216044,
+			216046,
+			216038
+		],
+		"class": 4
+	},
+	{
+		"name": "Chitin-Inscribed Vest",
+		"id": 223924,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			206203
+		],
+		"class": 4
+	},
+	{
+		"name": "Scarab's Carapace Cap",
+		"id": 223932,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			207826
+		],
+		"class": 4
+	},
+	{
+		"name": "Blood Hungerer's Chestplate",
+		"id": 223925,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			207780
+		],
+		"class": 4
+	},
+	{
+		"name": "Den Mother's Chestpiece",
+		"id": 221207,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221534
+		],
+		"class": 4
+	},
+	{
+		"name": "Marsh Hopper's Spaulders",
+		"id": 223938,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			214757
+		],
+		"class": 4
+	},
+	{
+		"name": "Bog Beast Mantle",
+		"id": 221223,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			215805
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Weaver's Gown",
+		"id": 223374,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218426
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Weaver's Chestplate",
+		"id": 223379,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 4,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218426
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Weaver's Chainmail",
+		"id": 223380,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 3,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218426
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Weaver's Vest",
+		"id": 223381,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218426
+		],
+		"class": 4
+	},
+	{
+		"name": "Pattern: Vambraces of Deepening Darkness",
+		"id": 223100,
+		"quality": 4,
+		"slot": 0,
+		"subclass": 1,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218426
+		],
+		"class": 9
+	},
+	{
+		"name": "Deranged Fungarian's Epaulets",
+		"id": 223940,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 3,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			206977
+		],
+		"class": 4
+	},
+	{
+		"name": "Shadow Bog Trousers",
+		"id": 223936,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221179
+		],
+		"class": 4
+	},
+	{
+		"name": "Deepfiend Spaulders",
+		"id": 223393,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218458
+		],
+		"class": 4
+	},
+	{
+		"name": "Deepfiend Pauldrons",
+		"id": 223394,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218458
+		],
+		"class": 4
+	},
+	{
+		"name": "Deepfiend Shoulderpads",
+		"id": 223395,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218458
+		],
+		"class": 4
+	},
+	{
+		"name": "Deepfiend Shoulder Shells",
+		"id": 223396,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 3,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218458
+		],
+		"class": 4
+	},
+	{
+		"name": "Benevolent Hornstag Cinch",
+		"id": 221225,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221786
+		],
+		"class": 4
+	},
+	{
+		"name": "Lance of Beledar's Pride",
+		"id": 223007,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 6,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221786
+		],
+		"class": 2
+	},
+	{
+		"name": "Vinewrapped Leather Tunic",
+		"id": 223927,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			206184
+		],
+		"class": 4
+	},
+	{
+		"name": "Taskmaster's Mining Cap",
+		"id": 221215,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218444
+		],
+		"class": 4
+	},
+	{
+		"name": "Murkshade Grips",
+		"id": 223382,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 2,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218452
+		],
+		"class": 4
+	},
+	{
+		"name": "Murkshade Handguards",
+		"id": 223383,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218452
+		],
+		"class": 4
+	},
+	{
+		"name": "Murkshade Gloves",
+		"id": 223384,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218452
+		],
+		"class": 4
+	},
+	{
+		"name": "Murkshade Gauntlets",
+		"id": 223385,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			218452
+		],
+		"class": 4
+	},
+	{
+		"name": "Abyssal Hunter's Girdle",
+		"id": 223397,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 4,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221551
+		],
+		"class": 4
+	},
+	{
+		"name": "Abyssal Hunter's Sash",
+		"id": 223398,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221551
+		],
+		"class": 4
+	},
+	{
+		"name": "Abyssal Hunter's Chain",
+		"id": 223399,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221551
+		],
+		"class": 4
+	},
+	{
+		"name": "Abyssal Hunter's Cinch",
+		"id": 223400,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221551
+		],
+		"class": 4
+	},
+	{
+		"name": "Grasp of the Shallows",
+		"id": 221211,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221668
+		],
+		"class": 4
+	},
+	{
+		"name": "Priestly Agent's Knife",
+		"id": 221241,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 15,
+		"agi": true,
+		"hastertng": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221708
+		],
+		"class": 2
+	},
+	{
+		"name": "Righteous Path Treads",
+		"id": 221245,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221708
+		],
+		"class": 4
+	},
+	{
+		"name": "Slime Goliath's Cap",
+		"id": 223933,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			207803
+		],
+		"class": 4
+	},
+	{
+		"name": "Makrura's Foreboding Legplates",
+		"id": 223934,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 4,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2215
+		],
+		"npc": [
+			220771
+		],
+		"class": 4
+	},
+	{
+		"name": "Beledar's Spawn",
+		"id": 223315,
+		"quality": 4,
+		"slot": 0,
+		"subclass": 5,
+		"zone": [
+			2215
+		],
+		"npc": [
+			207802
+		],
+		"class": 15
+	},
+	{
+		"name": "Earthen Adventurer's Spaulders",
+		"id": 225997,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 5,
+		"zone": [
+			2215
+		],
+		"npc": [
+			221753
+		],
+		"class": 4
+	},
+	{
+		"name": "Footguards of the Nerubian Twins",
+		"id": 223378,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216032
+		],
+		"class": 4
+	},
+	{
+		"name": "Slippers of the Nerubian Twins",
+		"id": 223406,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 1,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216032
+		],
+		"class": 4
+	},
+	{
+		"name": "Sabatons of the Nerubian Twins",
+		"id": 223407,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 3,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216032
+		],
+		"class": 4
+	},
+	{
+		"name": "Treads of the Nerubian Twins",
+		"id": 223408,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216032
+		],
+		"class": 4
+	},
+	{
+		"name": "Monstrous Chain Pincers",
+		"id": 223930,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216051
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Orator's Stiletto",
+		"id": 223915,
+		"quality": 3,
+		"slot": 13,
+		"subclass": 15,
+		"agi": true,
+		"critstrkrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255,
+			2256
+		],
+		"npc": [
+			222624,
+			216052,
+			216050,
+			216048
+		],
+		"class": 2
+	},
+	{
+		"name": "Nerubian Cutthroat's Reach",
+		"id": 223916,
+		"quality": 3,
+		"slot": 17,
+		"subclass": 6,
+		"agi": true,
+		"hastertng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255,
+			2256
+		],
+		"npc": [
+			222624,
+			216052,
+			216050,
+			216048
+		],
+		"class": 2
+	},
+	{
+		"name": "Nerubian Covert's Cloak",
+		"id": 223917,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2255,
+			2256
+		],
+		"npc": [
+			222624,
+			216052,
+			216050,
+			216048
+		],
+		"class": 4
+	},
+	{
+		"name": "Gilded Cryptlord's Sabatons",
+		"id": 223923,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			222624
+		],
+		"class": 4
+	},
+	{
+		"name": "Monstrous Fungal Cord",
+		"id": 221227,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216043
+		],
+		"class": 4
+	},
+	{
+		"name": "Legplates of Dark Hunger",
+		"id": 223389,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216031
+		],
+		"class": 4
+	},
+	{
+		"name": "Leggings of Dark Hunger",
+		"id": 223390,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216031
+		],
+		"class": 4
+	},
+	{
+		"name": "Legguards of Dark Hunger",
+		"id": 223391,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216031
+		],
+		"class": 4
+	},
+	{
+		"name": "Trousers of Dark Hunger",
+		"id": 223392,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216031
+		],
+		"class": 4
+	},
+	{
+		"name": "Reinforced Chitin Chestpiece",
+		"id": 221206,
+		"armor": true,
+		"quality": 3,
+		"slot": 5,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			221327
+		],
+		"class": 4
+	},
+	{
+		"name": "Slippers of Delirium",
+		"id": 221243,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216045
+		],
+		"class": 4
+	},
+	{
+		"name": "Vilewing Crown",
+		"id": 223386,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216037
+		],
+		"class": 4
+	},
+	{
+		"name": "Vilewing Chain Helm",
+		"id": 223387,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216037
+		],
+		"class": 4
+	},
+	{
+		"name": "Vilewing Cap",
+		"id": 223388,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216037
+		],
+		"class": 4
+	},
+	{
+		"name": "Vilewing Visor",
+		"id": 223405,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 4,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216037
+		],
+		"class": 4
+	},
+	{
+		"name": "Steam-Powered Wristwatch",
+		"id": 221231,
+		"armor": true,
+		"quality": 3,
+		"slot": 9,
+		"subclass": 2,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216034
+		],
+		"class": 4
+	},
+	{
+		"name": "Polished Goblin Bling",
+		"id": 221232,
+		"quality": 3,
+		"slot": 11,
+		"subclass": -2,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216034
+		],
+		"class": 4
+	},
+	{
+		"name": "Webspeaker's Spiritual Cloak",
+		"id": 223369,
+		"armor": true,
+		"quality": 3,
+		"slot": 16,
+		"subclass": -6,
+		"agi": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216041
+		],
+		"class": 4
+	},
+	{
+		"name": "Clattering Chitin Necklace",
+		"id": 223375,
+		"quality": 3,
+		"slot": 2,
+		"subclass": -3,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			214151
+		],
+		"class": 4
+	},
+	{
+		"name": "Death Burrower Handguards",
+		"id": 221212,
+		"armor": true,
+		"quality": 3,
+		"slot": 10,
+		"subclass": 3,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216042
+		],
+		"class": 4
+	},
+	{
+		"name": "Esteemed Nerubian's Mantle",
+		"id": 223939,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216052
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Bomber's Leggings",
+		"id": 221217,
+		"armor": true,
+		"quality": 3,
+		"slot": 7,
+		"subclass": 1,
+		"hastertng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216044
+		],
+		"class": 4
+	},
+	{
+		"name": "Earthen Adventurer's Cloak",
+		"id": 225998,
+		"quality": 3,
+		"slot": 16,
+		"subclass": 5,
+		"zone": [
+			2255
+		],
+		"npc": [
+			216047
+		],
+		"class": 4
+	},
+	{
+		"name": "Nerubian Cultivator's Girdle",
+		"id": 223941,
+		"armor": true,
+		"quality": 3,
+		"slot": 6,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2256
+		],
+		"npc": [
+			216050
+		],
+		"class": 4
+	},
+	{
+		"name": "Black Blood Cowl",
+		"id": 223931,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 1,
+		"critstrkrtng": true,
+		"int": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2256
+		],
+		"npc": [
+			216049
+		],
+		"class": 4
+	},
+	{
+		"name": "Corruption Sifter's Treads",
+		"id": 223950,
+		"armor": true,
+		"quality": 3,
+		"slot": 8,
+		"subclass": 2,
+		"agi": true,
+		"critstrkrtng": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"zone": [
+			2256
+		],
+		"npc": [
+			216048
+		],
+		"class": 4
+	},
+	{
+		"name": "Chitin Chain Headpiece",
+		"id": 221214,
+		"armor": true,
+		"quality": 3,
+		"slot": 1,
+		"subclass": 3,
+		"agi": true,
+		"int": true,
+		"mastrtng": true,
+		"sta": true,
+		"versatility": true,
+		"zone": [
+			2213
+		],
+		"npc": [
+			216038
+		],
+		"class": 4
+	},
+	{
+		"name": "Venomous Lurker's Shoulderplates",
+		"id": 221221,
+		"armor": true,
+		"quality": 3,
+		"slot": 3,
+		"subclass": 4,
+		"hastertng": true,
+		"int": true,
+		"sta": true,
+		"str": true,
+		"versatility": true,
+		"zone": [
+			2213
+		],
+		"npc": [
+			216039
+		],
+		"class": 4
+	}
+]

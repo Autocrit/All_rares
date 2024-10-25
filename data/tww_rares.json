@@ -1,0 +1,1031 @@
+[
+	{
+		"name": "Plaguehart",
+		"npc": 219267,
+		"zone": 2248,
+		"coords": 50876984,
+		"loot": [
+			221213,
+			221265,
+			221246,
+			221251,
+			221247
+		]
+	},
+	{
+		"name": "Matriarch Charfuria",
+		"npc": 220890,
+		"zone": 2248,
+		"coords": 73004010,
+		"loot": [
+			223948,
+			221247,
+			221251,
+			221265,
+			221246
+		]
+	},
+	{
+		"name": "Tephratennae",
+		"npc": 221126,
+		"zone": 2248,
+		"coords": 72043881,
+		"loot": [
+			223922,
+			223937
+		]
+	},
+	{
+		"name": "Twice-Stinger the Wretched",
+		"npc": 219271,
+		"zone": 2248,
+		"coords": 57072279,
+		"loot": [
+			221219,
+			221239,
+			221506
+		]
+	},
+	{
+		"name": "Warphorn",
+		"npc": 219263,
+		"zone": 2248,
+		"coords": 57003460,
+		"loot": [
+			223341,
+			223342,
+			223343,
+			223344
+		]
+	},
+	{
+		"name": "Shallowshell the Clacker",
+		"npc": 219278,
+		"zone": 2248,
+		"coords": 74082756,
+		"loot": [
+			221224,
+			221233,
+			221255,
+			221234,
+			221248
+		]
+	},
+	{
+		"name": "Alunira",
+		"npc": 219281,
+		"zone": 2248,
+		"coords": 22985829,
+		"loot": [
+			223270
+		]
+	},
+	{
+		"name": "Sandres the Relicbearer",
+		"npc": 217534,
+		"zone": 2248,
+		"coords": 62776842,
+		"loot": [
+			223376
+		]
+	},
+	{
+		"name": "Rotfist",
+		"npc": 222380,
+		"zone": 2248,
+		"coords": 31915238,
+		"loot": [
+			226112,
+			226115,
+			226116
+		]
+	},
+	{
+		"name": "Springbubble",
+		"npc": 219262,
+		"zone": 2248,
+		"coords": 58766068,
+		"loot": [
+			223356,
+			223357,
+			223358,
+			223359
+		]
+	},
+	{
+		"name": "Zovex",
+		"npc": 219284,
+		"zone": 2248,
+		"coords": 30915238,
+		"loot": [
+			226117,
+			226118,
+			226119
+		]
+	},
+	{
+		"name": "Kereke",
+		"npc": 222378,
+		"zone": 2248,
+		"coords": 29915238,
+		"loot": [
+			226111,
+			226113,
+			226114
+		]
+	},
+	{
+		"name": "Rustul Titancap",
+		"npc": 213115,
+		"zone": 2248,
+		"coords": 36477505,
+		"loot": [
+			223364,
+			223365,
+			223366,
+			223367
+		]
+	},
+	{
+		"name": "Clawbreaker K'zithix",
+		"npc": 221128,
+		"zone": 2248,
+		"coords": 55712727,
+		"loot": [
+			223140
+		]
+	},
+	{
+		"name": "Sweetspark the Oozeful",
+		"npc": 220883,
+		"zone": 2248,
+		"coords": 69853847,
+		"loot": [
+			223929,
+			223921,
+			223920
+		]
+	},
+	{
+		"name": "Tempest Lord Incarnus",
+		"npc": 219269,
+		"zone": 2248,
+		"coords": 57461625,
+		"loot": [
+			221230,
+			221236
+		]
+	},
+	{
+		"name": "Flamekeeper Graz",
+		"npc": 219279,
+		"zone": 2248,
+		"coords": 63994055,
+		"loot": [
+			221244,
+			221249
+		]
+	},
+	{
+		"name": "Gar'loc",
+		"npc": 219268,
+		"zone": 2248,
+		"coords": 53348006,
+		"loot": [
+			221222,
+			221234,
+			221248,
+			221255,
+			221233
+		]
+	},
+	{
+		"name": "Kronolith, Might of the Mountain",
+		"npc": 219270,
+		"zone": 2248,
+		"coords": 48202703,
+		"loot": [
+			221210,
+			221254,
+			221507
+		]
+	},
+	{
+		"name": "Escaped Cutthroat",
+		"npc": 219266,
+		"zone": 2248,
+		"coords": 25784503,
+		"loot": [
+			221208,
+			221235
+		]
+	},
+	{
+		"name": "Emperor Pitfang",
+		"npc": 219265,
+		"zone": 2248,
+		"coords": 47946014,
+		"loot": [
+			223345,
+			223346,
+			223347,
+			223348
+		]
+	},
+	{
+		"name": "Bloodmaw",
+		"npc": 219264,
+		"zone": 2248,
+		"coords": 41137679,
+		"loot": [
+			223349,
+			223350,
+			223351,
+			223370
+		]
+	},
+	{
+		"name": "Malfunctioning Spire",
+		"npc": 220068,
+		"zone": 2248,
+		"coords": 31495529,
+		"loot": [
+			210931,
+			210934,
+			210937,
+			210939
+		]
+	},
+	{
+		"name": "Elusive Ironhide Maelstrom Wolf",
+		"npc": 224515,
+		"zone": 2248,
+		"coords": 69204960,
+		"loot": []
+	},
+	{
+		"name": "Charmonger",
+		"npc": 220267,
+		"zone": 2214,
+		"coords": 41361692,
+		"loot": [
+			221209,
+			221249
+		]
+	},
+	{
+		"name": "Cragmund",
+		"npc": 220269,
+		"zone": 2214,
+		"coords": 50864651,
+		"loot": [
+			221205,
+			221254,
+			221507
+		]
+	},
+	{
+		"name": "Deepflayer Broodmother",
+		"npc": 220286,
+		"zone": 2214,
+		"coords": 55060843,
+		"loot": [
+			221254,
+			221507,
+			225999
+		]
+	},
+	{
+		"name": "Kelpmire",
+		"npc": 220287,
+		"zone": 2214,
+		"coords": 47224696,
+		"loot": [
+			221204,
+			221250,
+			221253,
+			221264,
+			223005
+		]
+	},
+	{
+		"name": "Deathbound Husk",
+		"npc": 220272,
+		"zone": 2214,
+		"coords": 66716881,
+		"loot": [
+			223368
+		]
+	},
+	{
+		"name": "King Splash",
+		"npc": 220275,
+		"zone": 2214,
+		"coords": 42773508,
+		"loot": [
+			223352,
+			223353,
+			223354,
+			223355
+		]
+	},
+	{
+		"name": "Aquellion",
+		"npc": 220274,
+		"zone": 2214,
+		"coords": 49556619,
+		"loot": [
+			223340,
+			223371,
+			223372,
+			223373
+		]
+	},
+	{
+		"name": "Trungal",
+		"npc": 220268,
+		"zone": 2214,
+		"coords": 71654629,
+		"loot": [
+			221228,
+			221250,
+			221253,
+			221264,
+			223005
+		]
+	},
+	{
+		"name": "Disturbed Earthgorger",
+		"npc": 218393,
+		"zone": 2214,
+		"coords": 67085262,
+		"loot": [
+			221237,
+			223926,
+			223943
+		]
+	},
+	{
+		"name": "Hungerer of the Deeps",
+		"npc": 221199,
+		"zone": 2214,
+		"coords": 65364949,
+		"loot": [
+			221233,
+			221234,
+			221248,
+			221255,
+			223949
+		]
+	},
+	{
+		"name": "Lurker of the Deeps",
+		"npc": 220285,
+		"zone": 2214,
+		"coords": 60887682,
+		"loot": [
+			223501,
+			221233,
+			221234,
+			221248,
+			221255
+		]
+	},
+	{
+		"name": "Terror of the Forge",
+		"npc": 220271,
+		"zone": 2214,
+		"coords": 46701209,
+		"loot": [
+			221233,
+			221234,
+			221242,
+			221248,
+			221255
+		]
+	},
+	{
+		"name": "Automaxor",
+		"npc": 220265,
+		"zone": 2214,
+		"coords": 52591991,
+		"loot": [
+			221218,
+			221238
+		]
+	},
+	{
+		"name": "Candleflyer Captain",
+		"npc": 220276,
+		"zone": 2214,
+		"coords": 66002840,
+		"loot": [
+			223360,
+			223361,
+			223362,
+			223363
+		]
+	},
+	{
+		"name": "Rampaging Blight",
+		"npc": 220273,
+		"zone": 2214,
+		"coords": 57025480,
+		"loot": [
+			223401,
+			223402,
+			223403,
+			223404
+		]
+	},
+	{
+		"name": "Coalesced Monstrosity",
+		"npc": 220266,
+		"zone": 2214,
+		"coords": 57903813,
+		"loot": [
+			221226,
+			223006
+		]
+	},
+	{
+		"name": "Spore-infused Shalewing",
+		"npc": 221217,
+		"zone": 2214,
+		"coords": 68404754,
+		"loot": [
+			223918,
+			223919,
+			223942
+		]
+	},
+	{
+		"name": "Zilthara",
+		"npc": 220270,
+		"zone": 2214,
+		"coords": 52022657,
+		"loot": [
+			221220,
+			221246,
+			221247,
+			221251,
+			221265
+		]
+	},
+	{
+		"name": "Slatefang",
+		"npc": 228439,
+		"zone": 2214,
+		"coords": 62805000,
+		"loot": []
+	},
+	{
+		"name": "The Perchfather",
+		"npc": 221648,
+		"zone": 2215,
+		"coords": 44011639,
+		"loot": [
+			221229,
+			221246,
+			221247,
+			221251,
+			221265
+		]
+	},
+	{
+		"name": "Strength of Beledar",
+		"npc": 221690,
+		"zone": 2215,
+		"coords": 43622993,
+		"loot": [
+			221216,
+			221246,
+			221247,
+			221251,
+			221265,
+			221508
+		]
+	},
+	{
+		"name": "Funglour",
+		"npc": 221767,
+		"zone": 2215,
+		"coords": 36807210,
+		"loot": [
+			223377
+		]
+	},
+	{
+		"name": "Crazed Cabbage Smacker",
+		"npc": 206514,
+		"zone": 2215,
+		"coords": 64802920,
+		"loot": [
+			211968,
+			221238,
+			223928,
+			223935
+		]
+	},
+	{
+		"name": "Moth'ethk",
+		"npc": 206203,
+		"zone": 2215,
+		"coords": 63452859,
+		"loot": [
+			221240,
+			221252,
+			221263,
+			223924
+		]
+	},
+	{
+		"name": "Ravageant",
+		"npc": 207826,
+		"zone": 2215,
+		"coords": 62033212,
+		"loot": [
+			221240,
+			221252,
+			221263,
+			223932
+		]
+	},
+	{
+		"name": "Finclaw Bloodtide",
+		"npc": 207780,
+		"zone": 2215,
+		"coords": 60201860,
+		"loot": [
+			221233,
+			221234,
+			221248,
+			223925
+		]
+	},
+	{
+		"name": "Lytfang the Lost",
+		"npc": 221534,
+		"zone": 2215,
+		"coords": 23005922,
+		"loot": [
+			221207,
+			221246,
+			221251,
+			221265
+		]
+	},
+	{
+		"name": "Croakit",
+		"npc": 214757,
+		"zone": 2215,
+		"coords": 67562316,
+		"loot": [
+			221246,
+			221247,
+			221251,
+			221265,
+			223938
+		]
+	},
+	{
+		"name": "Sloshmuck",
+		"npc": 215805,
+		"zone": 2215,
+		"coords": 73405259,
+		"loot": [
+			221223,
+			221250,
+			221253,
+			221264,
+			223005
+		]
+	},
+	{
+		"name": "Ixlorb the Spinner",
+		"npc": 218426,
+		"zone": 2215,
+		"coords": 57046436,
+		"loot": [
+			223374,
+			223379,
+			223380,
+			223381,
+			223100
+		]
+	},
+	{
+		"name": "Parasidious",
+		"npc": 206977,
+		"zone": 2215,
+		"coords": 61623277,
+		"loot": [
+			221250,
+			221264,
+			223005,
+			223940
+		]
+	},
+	{
+		"name": "Duskshadow",
+		"npc": 221179,
+		"zone": 2215,
+		"coords": 64051911,
+		"loot": [
+			223918,
+			223919,
+			223936
+		]
+	},
+	{
+		"name": "Deepfiend Azellix",
+		"npc": 218458,
+		"zone": 2215,
+		"coords": 72136436,
+		"loot": [
+			223393,
+			223394,
+			223395,
+			223396
+		]
+	},
+	{
+		"name": "Pride of Beledar",
+		"npc": 221786,
+		"zone": 2215,
+		"coords": 57304858,
+		"loot": [
+			221225,
+			221246,
+			221247,
+			221251,
+			221265,
+			223007
+		]
+	},
+	{
+		"name": "Deathpetal",
+		"npc": 206184,
+		"zone": 2215,
+		"coords": 64663172,
+		"loot": [
+			221250,
+			221253,
+			221264,
+			223005,
+			223927
+		]
+	},
+	{
+		"name": "The Taskmaker",
+		"npc": 218444,
+		"zone": 2215,
+		"coords": 56466897,
+		"loot": [
+			221215,
+			221240,
+			221252,
+			221263
+		]
+	},
+	{
+		"name": "Murkshade",
+		"npc": 218452,
+		"zone": 2215,
+		"coords": 52132682,
+		"loot": [
+			223382,
+			223383,
+			223384,
+			223385
+		]
+	},
+	{
+		"name": "Grimslice",
+		"npc": 221551,
+		"zone": 2215,
+		"coords": 31205464,
+		"loot": [
+			223397,
+			223398,
+			223399,
+			223400
+		]
+	},
+	{
+		"name": "Horror of the Shallows",
+		"npc": 221668,
+		"zone": 2215,
+		"coords": 43410990,
+		"loot": [
+			221211,
+			221233,
+			221234,
+			221248,
+			221255
+		]
+	},
+	{
+		"name": "Sir Alastair Purefire",
+		"npc": 221708,
+		"zone": 2215,
+		"coords": 35953546,
+		"loot": [
+			221241,
+			221245
+		]
+	},
+	{
+		"name": "Toadstomper",
+		"npc": 207803,
+		"zone": 2215,
+		"coords": 67182424,
+		"loot": [
+			223920,
+			223921,
+			223933
+		]
+	},
+	{
+		"name": "Murkspike",
+		"npc": 220771,
+		"zone": 2215,
+		"coords": 62401320,
+		"loot": [
+			221233,
+			221234,
+			221248,
+			221255,
+			223934
+		]
+	},
+	{
+		"name": "Beledar's Spawn",
+		"npc": 207802,
+		"zone": 2215,
+		"coords": 50514857,
+		"loot": [
+			223315,
+			223006
+		]
+	},
+	{
+		"name": "Deathtide",
+		"npc": 221753,
+		"zone": 2215,
+		"coords": 44744241,
+		"loot": [
+			223920,
+			223921,
+			225997
+		]
+	},
+	{
+		"name": "Khak'ik",
+		"npc": 216032,
+		"zone": 2255,
+		"coords": 44803980,
+		"loot": [
+			223378,
+			223406,
+			223407,
+			223408
+		]
+	},
+	{
+		"name": "Umbraclaw Matra",
+		"npc": 216051,
+		"zone": 2255,
+		"coords": 64600352,
+		"loot": [
+			221240,
+			221252,
+			221263,
+			223930
+		]
+	},
+	{
+		"name": "Deepcrawler Tx'kesh",
+		"npc": 222624,
+		"zone": 2255,
+		"coords": 64590667,
+		"loot": [
+			223915,
+			223916,
+			223917,
+			223923
+		]
+	},
+	{
+		"name": "Monstrous Lasharoth",
+		"npc": 216043,
+		"zone": 2255,
+		"coords": 69996920,
+		"loot": [
+			221227,
+			221250,
+			221253,
+			221264,
+			223005
+		]
+	},
+	{
+		"name": "Abyssal Devourer",
+		"npc": 216031,
+		"zone": 2255,
+		"coords": 45863916,
+		"loot": [
+			223389,
+			223390,
+			223391,
+			223392
+		]
+	},
+	{
+		"name": "Kaheti Silk Hauler",
+		"npc": 221327,
+		"zone": 2255,
+		"coords": 61712962,
+		"loot": [
+			221206,
+			221240,
+			221252,
+			221263
+		]
+	},
+	{
+		"name": "Enduring Gutterface",
+		"npc": 216045,
+		"zone": 2255,
+		"coords": 58056233,
+		"loot": [
+			221233,
+			221234,
+			221243,
+			221248,
+			221255
+		]
+	},
+	{
+		"name": "Vilewing",
+		"npc": 216037,
+		"zone": 2255,
+		"coords": 34574106,
+		"loot": [
+			223386,
+			223387,
+			223388,
+			223405
+		]
+	},
+	{
+		"name": "XT-Minecrusher 8700",
+		"npc": 216034,
+		"zone": 2255,
+		"coords": 76585780,
+		"loot": [
+			221231,
+			221232
+		]
+	},
+	{
+		"name": "Webspeaker Grik'ik",
+		"npc": 216041,
+		"zone": 2255,
+		"coords": 61242731,
+		"loot": [
+			223369
+		]
+	},
+	{
+		"name": "Ahg'zagall",
+		"npc": 214151,
+		"zone": 2255,
+		"coords": 37944285,
+		"loot": [
+			223375
+		]
+	},
+	{
+		"name": "Cha'tak",
+		"npc": 216042,
+		"zone": 2255,
+		"coords": 70732146,
+		"loot": [
+			221212,
+			221237
+		]
+	},
+	{
+		"name": "Kaheti Bladeguard",
+		"npc": 216052,
+		"zone": 2255,
+		"coords": 62940509,
+		"loot": [
+			223915,
+			223916,
+			223917,
+			223939
+		]
+	},
+	{
+		"name": "Maddened Siegebomber",
+		"npc": 216044,
+		"zone": 2255,
+		"coords": 66536946,
+		"loot": [
+			221217,
+			221240,
+			221252,
+			221263
+		]
+	},
+	{
+		"name": "The One Left",
+		"npc": 216047,
+		"zone": 2255,
+		"coords": 63409500,
+		"loot": [
+			221246,
+			221247,
+			221251,
+			221265,
+			225998
+		]
+	},
+	{
+		"name": "Tka'ktath",
+		"npc": 216046,
+		"zone": 2255,
+		"coords": 62796618,
+		"loot": [
+			221240,
+			221252,
+			221263
+		]
+	},
+	{
+		"name": "Elusive Razormouth Steelhide",
+		"npc": 226232,
+		"zone": 2255,
+		"coords": 39804100,
+		"loot": []
+	},
+	{
+		"name": "Harvester Qixt",
+		"npc": 216050,
+		"zone": 2256,
+		"coords": 65688051,
+		"loot": [
+			223915,
+			223916,
+			223917,
+			223941
+		]
+	},
+	{
+		"name": "The Oozekhan",
+		"npc": 216049,
+		"zone": 2256,
+		"coords": 61938973,
+		"loot": [
+			223006,
+			223931
+		]
+	},
+	{
+		"name": "Jix'ak the Crazed",
+		"npc": 216048,
+		"zone": 2256,
+		"coords": 67458318,
+		"loot": [
+			223915,
+			223916,
+			223917,
+			223950
+		]
+	},
+	{
+		"name": "Chitin Hulk",
+		"npc": 216038,
+		"zone": 2213,
+		"coords": 30975607,
+		"loot": [
+			221214,
+			221240,
+			221252,
+			221263
+		]
+	},
+	{
+		"name": "Xishorr",
+		"npc": 216039,
+		"zone": 2213,
+		"coords": 67165840,
+		"loot": [
+			221221,
+			221239,
+			221506
+		]
+	}
+]
