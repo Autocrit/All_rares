@@ -6,6 +6,12 @@ export var filters = [
 		"type": "single",
 		"filters":
 			[
+				/*{
+					"name": "The War Within",
+					"data": "tww",
+					"criteria":
+						{ "expansion": "tww" }
+				},*/
 				{
 					"name": "Dragopnflight",
 					"checked": true,

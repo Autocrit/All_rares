@@ -1,10 +1,9 @@
 export const expansions = [
-	/*
 	{
 		"name": "The War Within",
-		"id": "thewarwithin",
+		"id": "tww",
 		"zones": [
-			{ "name": "Dornogal", "id": 2339 },
+			//{ "name": "Dornogal", "id": 2339 },
 			{ "name": "Isle of Dorn", "id": 2248 },
 			{ "name": "The Ringing Deeps", "id": 2214 },
 			{ "name": "Hallowfall", "id": 2215 },
@@ -13,7 +12,6 @@ export const expansions = [
 			{ "name": "City of Threads", "id": 2213 }
 		]
 	},
-	*/
 	{
 		"name": "Dragonflight",
 		"id": "df",
