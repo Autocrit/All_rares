@@ -85,3 +85,8 @@ input {
 .large-label {
 	font-size: 20px;
 }
+
+.npc_colour {
+	color: #ffd100;
+	text-decoration: none;
+}
