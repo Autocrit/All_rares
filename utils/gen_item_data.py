@@ -1,4 +1,4 @@
-# Run with: /usr/bin/python3 gen_item_data.py
+# Run with: /usr/bin/python3 gen_item_data.py in-rares.json out-items.json
 
 import json
 import requests
@@ -103,6 +103,12 @@ for id in unique_ids:
 				item[key] = data[key]
 			elif key in stats and data[key] > 0:
 				item[key] = True
+
+	# htmlTooltip element
+	element = xmltree.find("./item/htmlTooltip")
+	if element != None:
+		if "<span class=\"toycolor\">Toy</span>" in element.text:
+			item["toy"] = True
 
 	# Get zones from rares
 	item["zone"] = []

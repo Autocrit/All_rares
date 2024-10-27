@@ -3,6 +3,7 @@
 
 -- Print the lua table as a js array
 
+require "tww_rares"
 require "df_rares"
 require "sl_rares"
 require "bfa_rares"
@@ -10,6 +11,17 @@ require "legion_rares"
 require "wod_rares"
 
 -- Zone info
+
+-- The War Within
+local KHAZALGAR = 2274
+local DORNOGAL = 2339
+local ISLEOFDORN = 2248
+local RINGINGDEEPS = 2214
+local HALLOWFALL = 2215
+local AZJKAHET = 2255
+local AZJKAHETLOWER = 2256
+local CITYOFTHREADS = 2213
+local CITYOFTHREADSLOWER = 2216
 
 -- Dragonflight
 local VALDRAKKEN = 2112
@@ -90,13 +102,25 @@ function table_to_js_bfa(table)
 	end
 end
 
-local expansion = "legion"
+local expansion = "tww"
 
 print("export const data =")
 print("[")
 
-if(expansion == "dragonflight") then
--- Dragonflight
+if(expansion == "tww") then
+	table_to_js_df(isles_of_dawn_rares1, ISLEOFDORN)
+	table_to_js_df(isles_of_dawn_rares2, ISLEOFDORN)
+	table_to_js_df(ringing_deeps_rares1, RINGINGDEEPS)
+	table_to_js_df(ringing_deeps_rares2, RINGINGDEEPS)
+	table_to_js_df(hallowfall_rares1, HALLOWFALL)
+	table_to_js_df(hallowfall_rares2, HALLOWFALL)
+	table_to_js_df(hallowfall_rares3, HALLOWFALL)
+	table_to_js_df(azjkahet_rares1, AZJKAHET)
+	table_to_js_df(azjkahet_rares2, AZJKAHET)
+	table_to_js_df(azjkahet_rares3, AZJKAHET)
+	table_to_js_df(azjkahet_lower_rares, AZJKAHETLOWER)
+	table_to_js_df(city_of_threads_rares, CITYOFTHREADS)
+elseif(expansion == "df") then
 	table_to_js_df(forbidden_reach_intro_rares, FORBIDDEN_REACH_INTRO)
 	table_to_js_df(waking_shores_rares1, WAKING_SHORES)
 	table_to_js_df(waking_shores_rares2, WAKING_SHORES)
